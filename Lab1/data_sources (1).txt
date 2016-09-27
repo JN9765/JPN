@@ -1,0 +1,14 @@
+﻿DATASET INFORMATION: LAB1
+
+
+
+
+Dataset 1: NFL PLAYERS
+* Organizations: Team Websites 
+* File format: csv
+* Interesting attributes: position,height,weight
+Dataset 2: NFL TEAMS
+* Team salary information was accessed from Spotrac online resource http://www.spotrac.com/nfl/cap/
+* Team information (Name, location, coaches, etc) were entered manually with permission of Professor Cohen
+* File format: csv
+* Interesting attributes: offensive_cap,defensive_cap, dead_cap and total_cap space
