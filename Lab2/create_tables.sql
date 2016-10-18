@@ -59,3 +59,6 @@ foreign key (team_name) references Team(team_name)
 
 );
 select * from Player;
+select * from Position_played;
+select * from Division;
+select * from Team;
