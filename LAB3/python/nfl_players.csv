@@ -1,0 +1,2226 @@
+player_id,jersey_number,player_name,position_name,position_type,height,weight,age,years_playerd,college,team_name
+1,38,"Ellington, Andre",RB,O,69,199,27,4,Clemson,Arizona Cardinals
+2,32,"Mathieu, Tyrann",DB,D,69,186,24,4,LSU,Arizona Cardinals
+3,30,"Taylor, Stepfan",RB,O,69,214,25,4,Stanford,Arizona Cardinals
+4,14,"Nelson, J.J.",WR,O,70,156,24,2,UAB,Arizona Cardinals
+5,36,"Swearinger, D.J.",DB,D,70,208,25,4,South Carolina,Arizona Cardinals
+6,43,"Jenkins, Mike",DB,D,70,197,31,9,South Florida,Arizona Cardinals
+7,12,"Brown, John",WR,O,71,179,26,3,Pittsburg State,Arizona Cardinals
+8,25,"Christian, Marqui",DB,D,71,196,21,0,Midwestern St.,Arizona Cardinals
+9,22,"Jefferson, Tony",DB,D,71,212,24,4,Oklahoma,Arizona Cardinals
+10,23,"Johnson, Chris",RB,O,71,203,30,9,East Carolina,Arizona Cardinals
+11,10,"Golden, Brittan",WR,O,71,186,28,3,West Texas A&M,Arizona Cardinals
+12,20,"Bucannon, Deone",LB,D,73,220,24,3,Washington State,Arizona Cardinals
+13,2,"Butler, Drew",P,ST,73,217,27,4,Georgia,Arizona Cardinals
+14,31,"Johnson, David",RB,O,73,224,24,2,Northern Iowa,Arizona Cardinals
+15,51,"Minter, Kevin",LB,D,73,245,25,4,LSU,Arizona Cardinals
+16,21,"Peterson, Patrick",DB,D,73,203,26,6,LSU,Arizona Cardinals
+17,53,"Shipley, A.Q.",OL,O,73,307,30,5,Penn State,Arizona Cardinals
+18,39,"Bouka, Elie",DB,D,73,205,24,0,Calgary,Arizona Cardinals
+19,13,"Brown, Jaron",WR,O,74,205,26,4,Clemson,Arizona Cardinals
+20,41,"Cooper, Marcus",DB,D,74,192,26,4,Rutgers,Arizona Cardinals
+21,44,"Golden, Markus",LB,D,74,260,25,2,Missouri,Arizona Cardinals
+22,50,"Martin, Gabe",LB,D,74,235,24,1,Bowling Green,Arizona Cardinals
+23,94,"Williams, Xavier",DL,D,74,309,24,2,Northern Iowa,Arizona Cardinals
+24,45,"Hartfield, Trevon",DB,D,74,195,24,0,Southwestern Oklahoma State,Arizona Cardinals
+25,35,"Penny, Elijhaa",RB,O,74,247,23,0,Idaho,Arizona Cardinals
+26,58,"Washington, Daryl",LB,D,74,230,29,5,TCU,Arizona Cardinals
+27,70,"Boehm, Evan",OL,O,75,310,23,0,Missouri,Arizona Cardinals
+28,7,"Catanzaro, Chandler",K,ST,75,200,25,3,Clemson,Arizona Cardinals
+29,11,"Fitzgerald, Larry",WR,O,75,218,33,13,Pittsburgh,Arizona Cardinals
+30,15,"Floyd, Michael",WR,O,75,225,26,5,Notre Dame,Arizona Cardinals
+31,98,"Peters, Corey",DL,D,75,305,28,7,Kentucky,Arizona Cardinals
+32,92,"Rucker, Frostee",DL,D,75,280,33,11,USC,Arizona Cardinals
+33,29,"Simon, Tharold",DB,D,75,202,25,4,LSU,Arizona Cardinals
+34,5,"Stanton, Drew",QB,O,75,243,32,10,Michigan State,Arizona Cardinals
+35,91,"Stinson, Ed",DL,D,75,287,26,3,Alabama,Arizona Cardinals
+36,37,"Eskridge, Durell",DB,D,75,207,24,1,Syracuse,Arizona Cardinals
+37,4,"Dysert, Zac",QB,O,75,223,26,2,Miami (Ohio),Arizona Cardinals
+38,86,"Canaday, Kameron",LS,ST,76,245,23,0,Portland State,Arizona Cardinals
+39,90,"Nkemdiche, Robert",DL,D,76,296,21,0,Mississippi,Arizona Cardinals
+40,57,"Okafor, Alex",LB,D,76,260,25,4,Texas,Arizona Cardinals
+41,72,"Pierre, Olsen",DL,D,76,293,25,1,Miami (Fla.),Arizona Cardinals
+42,78,"Watford, Earl",OL,O,76,295,26,4,James Madison,Arizona Cardinals
+43,18,"Bundy, Marquis",WR,O,76,215,22,0,New Mexico,Arizona Cardinals
+44,63,"Price, Givens",OL,O,76,310,21,0,Nebraska,Arizona Cardinals
+45,59,"Fua, Alani",LB,D,77,234,24,2,BYU,Arizona Cardinals
+46,84,"Gresham, Jermaine",TE,O,77,260,28,7,Oklahoma,Arizona Cardinals
+47,95,"Gunter, Rodney",DL,D,77,305,24,2,Delaware State,Arizona Cardinals
+48,74,"Humphries, D.J.",OL,O,77,315,22,2,Florida,Arizona Cardinals
+49,76,"Iupati, Mike",OL,O,77,331,29,7,Idaho,Arizona Cardinals
+50,55,"Jones, Chandler",LB,D,77,265,26,5,Syracuse,Arizona Cardinals
+51,69,"Mathis, Evan",OL,O,77,301,34,12,Alabama,Arizona Cardinals
+52,3,"Palmer, Carson",QB,O,77,235,36,14,USC,Arizona Cardinals
+53,61,"Toner, Cole",OL,O,77,300,22,0,Harvard,Arizona Cardinals
+54,89,"Valles, Hakeem",TE,O,77,260,23,0,Monmouth (N.J.),Arizona Cardinals
+55,96,"Martin, Kareem",LB,D,78,272,24,3,North Carolina,Arizona Cardinals
+56,97,"Mauro, Josh",DL,D,78,282,25,3,Stanford,Arizona Cardinals
+57,87,"Niklas, Troy",TE,O,78,270,24,3,Notre Dame,Arizona Cardinals
+58,47,"Riddick, Shaq",LB,D,78,260,23,2,West Virginia,Arizona Cardinals
+59,85,"Fells, Darren",TE,O,79,281,30,3,California-Irvine,Arizona Cardinals
+60,73,"Wetzel, John",OL,O,79,328,25,1,Boston College,Arizona Cardinals
+61,80,"Momah, Ifeanyi",TE,O,79,248,26,2,Boston College,Arizona Cardinals
+62,93,"Campbell, Calais",DL,D,80,300,30,9,Miami (Fla.),Arizona Cardinals
+63,68,"Veldheer, Jared",OL,O,80,321,29,7,Hillsdale,Arizona Cardinals
+64,28,"Bethel, Justin",DB,D,72,190,26,5,Presbyterian,Arizona Cardinals
+65,27,"Branch, Tyvon",DB,D,72,210,29,9,Connecticut,Arizona Cardinals
+66,26,"Williams, Brandon",DB,D,72,200,24,0,Texas A&M,Arizona Cardinals
+67,34,"Miller, Harlan",DB,D,72,182,22,0,Southeastern Louisiana,Arizona Cardinals
+68,28,"Ward, Terron",RB,O,67,201,24,2,Oregon State,Atlanta Falcons
+69,24,"Freeman, Devonta",RB,O,68,206,24,3,Florida State,Atlanta Falcons
+70,18,"Gabriel, Taylor",WR,O,68,167,25,3,Abilene Christian,Atlanta Falcons
+71,37,"Allen, Ricardo",DB,D,69,186,24,2,Purdue,Atlanta Falcons
+72,3,"Bryant, Matt",K,ST,69,203,41,15,Baylor,Atlanta Falcons
+73,27,"Therezie, Robenson",DB,D,69,212,25,2,Auburn,Atlanta Falcons
+74,14,"Weems, Eric",WR,O,69,195,31,10,Bethune-Cookman,Atlanta Falcons
+75,23,"Alford, Robert",DB,D,70,186,27,4,Southeastern Louisiana,Atlanta Falcons
+76,16,"Hardy, Justin",WR,O,70,192,24,2,East Carolina,Atlanta Falcons
+77,34,"Poole, Brian",DB,D,70,211,23,0,Florida,Atlanta Falcons
+78,19,"Robinson, Aldrick",WR,O,70,187,27,4,Southern Methodist,Atlanta Falcons
+79,15,"Williams, Nick",WR,O,70,184,25,3,Connecticut,Atlanta Falcons
+80,85,"McKissic, J.D.",WR,O,71,193,23,0,Arkansas State,Atlanta Falcons
+81,35,"Sims, Blake",RB,O,71,218,27,0,Alabama,Atlanta Falcons
+82,26,"Coleman, Tevin",RB,O,73,210,23,2,Indiana,Atlanta Falcons
+83,42,"DiMarco, Patrick",RB,O,73,234,27,5,South Carolina,Atlanta Falcons
+84,93,"Freeney, Dwight",DL,D,73,268,36,14,Syracuse,Atlanta Falcons
+85,47,"Harris, Josh",LS,ST,73,224,27,5,Auburn,Atlanta Falcons
+86,45,"Jones, Deion",LB,D,73,222,21,0,LSU,Atlanta Falcons
+87,53,"Reynolds, LaRoy",LB,D,73,240,25,4,Virginia,Atlanta Falcons
+88,25,"King, Akeem",DB,D,73,212,24,2,San Jose State,Atlanta Falcons
+89,33,"Johnson, Devonte",DB,D,73,185,23,0,Weber State,Atlanta Falcons
+90,30,"Olatoye, Deji",DB,D,73,205,25,1,North Carolina A&T,Atlanta Falcons
+91,32,"Collins, Jalen",DB,D,73,203,23,2,LSU,Atlanta Falcons
+92,95,"Babineaux, Jonathan",DL,D,74,300,34,12,Iowa,Atlanta Falcons
+93,38,"Goldson, Dashon",DB,D,74,200,32,9,Washington,Atlanta Falcons
+94,67,"Levitre, Andy",OL,O,74,303,30,8,Oregon State,Atlanta Falcons
+95,12,"Sanu, Mohamed",WR,O,74,210,27,5,Rutgers,Atlanta Falcons
+96,90,"Shelby, Derrick",DL,D,74,280,27,5,Utah,Atlanta Falcons
+97,91,"Upshaw, Courtney",LB,D,74,272,26,5,Alabama,Atlanta Falcons
+98,56,"Weatherspoon, Sean",LB,D,74,244,28,6,Missouri,Atlanta Falcons
+99,41,"Wheeler, Philip",LB,D,74,245,31,9,Georgia Tech,Atlanta Falcons
+100,92,"Vellano, Joe",DL,D,74,300,27,2,Maryland,Atlanta Falcons
+101,44,"Beasley, Vic",LB,D,75,246,24,2,Clemson,Atlanta Falcons
+102,65,"Chester, Chris",OL,O,75,303,33,11,Oklahoma,Atlanta Falcons
+103,99,"Clayborn, Adrian",DL,D,75,280,28,6,Iowa,Atlanta Falcons
+104,29,"Goodwin, C.J.",DB,D,75,190,26,1,California (PA),Atlanta Falcons
+105,11,"Jones, Julio",WR,O,75,220,27,6,Alabama,Atlanta Falcons
+106,50,"Reed, Brooks",LB,D,75,254,29,6,Arizona,Atlanta Falcons
+107,83,"Tamme, Jacob",TE,O,75,230,31,9,Kentucky,Atlanta Falcons
+108,96,"Capi, Nordly",DL,D,75,249,24,1,Akron,Atlanta Falcons
+109,4,"Simms, Matt",QB,O,75,210,27,4,Tennessee,Atlanta Falcons
+110,59,"Campbell, De'Vondre",LB,D,76,232,23,0,Minnesota,Atlanta Falcons
+111,81,"Hooper, Austin",TE,O,76,248,21,0,Stanford,Atlanta Falcons
+112,94,"Jackson, Tyson",DL,D,76,296,30,8,LSU,Atlanta Falcons
+113,51,"Mack, Alex",OL,O,76,311,30,8,California,Atlanta Falcons
+114,82,"Perkins, Joshua",TE,O,76,227,23,0,Washington,Atlanta Falcons
+115,68,"Person, Mike",OL,O,76,300,28,3,Montana State,Atlanta Falcons
+116,2,"Ryan, Matt",QB,O,76,217,31,9,Boston College,Atlanta Falcons
+117,86,"Tialavea, D.J.",TE,O,76,260,25,3,Utah State,Atlanta Falcons
+118,76,"Compton, Tom",OL,O,77,308,27,4,South Dakota,Atlanta Falcons
+119,63,"Garland, Ben",OL,O,77,308,28,3,Air Force,Atlanta Falcons
+120,70,"Matthews, Jake",OL,O,77,305,24,3,Texas A&M,Atlanta Falcons
+121,71,"Schweitzer, Wes",OL,O,77,314,23,0,San Jose State,Atlanta Falcons
+122,77,"Hageman, Ra'Shede",DL,D,78,318,26,3,Minnesota,Atlanta Falcons
+123,8,"Schaub, Matt",QB,O,78,245,35,13,Virginia,Atlanta Falcons
+124,73,"Schraeder, Ryan",OL,O,79,300,28,4,Valdosta State,Atlanta Falcons
+125,80,"Toilolo, Levine",TE,O,80,265,25,4,Stanford,Atlanta Falcons
+126,5,"Bosher, Matt",P,ST,72,208,28,6,Miami (Fla.),Atlanta Falcons
+127,36,"Ishmael, Kemal",DB,D,72,206,25,4,Central Florida,Atlanta Falcons
+128,97,"Jarrett, Grady",DL,D,72,305,23,2,Clemson,Atlanta Falcons
+129,22,"Neal, Keanu",DB,D,72,211,21,0,Florida,Atlanta Falcons
+130,21,"Trufant, Desmond",DB,D,72,190,26,4,Washington,Atlanta Falcons
+131,55,"Worrilow, Paul",LB,D,72,230,26,4,Delaware,Atlanta Falcons
+132,87,"Fuller, Devin",WR,O,72,194,22,0,UCLA,Atlanta Falcons
+133,20,"Neasman, Sharrod",DB,D,72,198,24,0,Florida Atlantic,Atlanta Falcons
+134,29,"Forsett, Justin",RB,O,68,195,30,9,California,Baltimore Ravens
+135,89,"Smith Sr., Steve",WR,O,69,195,37,16,Utah,Baltimore Ravens
+136,36,"Young, Tavon",DB,D,69,177,22,0,Temple,Baltimore Ravens
+137,30,"Dixon, Kenneth",RB,O,70,212,22,0,Louisiana Tech,Baltimore Ravens
+138,26,"Powers, Jerraud",DB,D,70,193,29,8,Auburn,Baltimore Ravens
+139,21,"Webb, Lardarius",DB,D,70,182,30,8,Nicholls State,Baltimore Ravens
+140,28,"West, Terrance",RB,O,70,225,25,3,Towson,Baltimore Ravens
+141,35,"Arrington, Kyle",DB,D,70,186,30,8,Hofstra,Baltimore Ravens
+142,16,"Clay, Kaelin",WR,O,70,200,24,2,Utah,Baltimore Ravens
+143,33,"Elam, Matt",DB,D,70,209,24,4,Florida,Baltimore Ravens
+144,81,"Reynolds, Keenan",WR,O,70,190,21,0,Navy,Baltimore Ravens
+145,31,"Davis, Will",DB,D,71,180,26,4,Utah State,Baltimore Ravens
+146,58,"Dumervil, Elvis",LB,D,71,250,32,11,Louisville,Baltimore Ravens
+147,14,"Hester Sr., Devin",WR,O,71,190,33,10,Miami (Fla.),Baltimore Ravens
+148,41,"Levine Sr., Anthony",DB,D,71,200,29,5,Tennessee State,Baltimore Ravens
+149,32,"Weddle, Eric",DB,D,71,195,31,10,Utah,Baltimore Ravens
+150,24,"Wright, Shareece",DB,D,71,184,29,6,USC,Baltimore Ravens
+151,49,"Luckett, Cavellis",LB,D,71,243,23,0,Middle Tennessee State,Baltimore Ravens
+152,39,"Canady, Maurice",DB,D,73,193,22,0,Virginia,Baltimore Ravens
+153,56,"Carter, Chris",LB,D,73,245,27,6,Fresno State,Baltimore Ravens
+154,44,"Juszczyk, Kyle",RB,O,73,240,25,4,Harvard,Baltimore Ravens
+155,4,"Koch, Sam",P,ST,73,222,34,11,Nebraska,Baltimore Ravens
+156,10,"Moore, Chris",WR,O,73,200,23,0,Cincinnati,Baltimore Ravens
+157,9,"Tucker, Justin",K,ST,73,180,26,5,Texas,Baltimore Ravens
+158,98,"Williams, Brandon",DL,D,73,340,27,4,Missouri-Southern State,Baltimore Ravens
+159,2,"Fales, David",QB,O,73,212,25,2,San Jose State,Baltimore Ravens
+160,11,"Aiken, Kamar",WR,O,74,215,27,4,Central Florida,Baltimore Ravens
+161,99,"Jernigan, Timmy",DL,D,74,295,23,3,Florida State,Baltimore Ravens
+162,50,"McClellan, Albert",LB,D,74,250,30,6,Marshall,Baltimore Ravens
+163,57,"Mosley, C.J.",LB,D,74,241,24,3,Alabama,Baltimore Ravens
+164,18,"Perriman, Breshad",WR,O,74,215,23,2,Central Florida,Baltimore Ravens
+165,27,"Price, Sheldon",DB,D,74,194,25,1,UCLA,Baltimore Ravens
+166,22,"Smith, Jimmy",DB,D,74,210,28,6,Colorado,Baltimore Ravens
+167,51,"Correa, Kamalei",LB,D,75,250,22,0,Boise State,Baltimore Ravens
+168,69,"Henry, Willie",DL,D,75,300,22,0,Michigan,Baltimore Ravens
+169,91,"Judon, Matthew",LB,D,75,275,24,0,Grand Valley State,Baltimore Ravens
+170,55,"Suggs, Terrell",LB,D,75,265,33,14,Arizona State,Baltimore Ravens
+171,64,"Urschel, John",OL,O,75,300,25,3,Penn State,Baltimore Ravens
+172,73,"Yanda, Marshal",OL,O,75,305,32,10,Iowa,Baltimore Ravens
+173,82,"Watson, Benjamin",TE,O,75,251,35,13,Georgia,Baltimore Ravens
+174,61,"Broxton, Jarell",OL,O,75,322,23,0,Baylor,Baltimore Ravens
+175,68,"Skura, Matt",OL,O,75,305,23,0,Duke,Baltimore Ravens
+176,46,"Cox, Morgan",LS,ST,76,233,30,7,Tennessee,Baltimore Ravens
+177,93,"Guy, Lawrence",DL,D,76,305,26,6,Arizona State,Baltimore Ravens
+178,66,"Jensen, Ryan",OL,O,76,310,25,3,Colorado State-Pueblo,Baltimore Ravens
+179,88,"Pitta, Dennis",TE,O,76,238,31,7,Brigham Young,Baltimore Ravens
+180,90,"Smith, Za'Darius",LB,D,76,275,24,2,Kentucky,Baltimore Ravens
+181,87,"Williams, Maxx",TE,O,76,257,22,2,Minnesota,Baltimore Ravens
+182,53,"Zuttah, Jeremy",OL,O,76,300,30,9,Rutgers,Baltimore Ravens
+183,45,"Beyer, Brennen",LB,D,76,256,23,1,Michigan,Baltimore Ravens
+184,95,"Lewis-Moore, Kapron",DL,D,76,315,26,4,Notre Dame,Baltimore Ravens
+185,86,"Boyle, Nick",TE,O,76,260,23,2,Delaware,Baltimore Ravens
+186,74,"Hurst, James",OL,O,77,312,24,3,North Carolina,Baltimore Ravens
+187,94,"Davis, Carl",DL,D,77,327,24,2,Iowa,Baltimore Ravens
+188,13,"Matthews, Chris",WR,O,77,228,26,3,Kentucky,Baltimore Ravens
+189,83,"Brown, Daniel",TE,O,77,243,24,2,James Madison,Baltimore Ravens
+190,5,"Flacco, Joe",QB,O,78,245,31,9,Delaware,Baltimore Ravens
+191,80,"Gillmore, Crockett",TE,O,78,260,24,3,Colorado State,Baltimore Ravens
+192,72,"Lewis, Alex",OL,O,78,315,24,0,Nebraska,Baltimore Ravens
+193,15,"Mallett, Ryan",QB,O,78,250,28,6,Arkansas,Baltimore Ravens
+194,79,"Stanley, Ronnie",OL,O,78,320,22,0,Notre Dame,Baltimore Ravens
+195,71,"Wagner, Rick",OL,O,78,310,26,4,Wisconsin,Baltimore Ravens
+196,92,"Kaufusi, Bronson",DL,D,78,285,25,0,Brigham Young,Baltimore Ravens
+197,67,"Nembot, Stephane",OL,O,78,320,24,0,Colorado,Baltimore Ravens
+198,77,"Wesley, De'Ondre",OL,O,78,326,24,2,Brigham Young,Baltimore Ravens
+199,63,"Clausell, Blaine",OL,O,78,321,24,1,Mississippi State,Baltimore Ravens
+200,84,"Waller, Darren",TE,O,78,255,24,2,Georgia Tech,Baltimore Ravens
+201,96,"Urban, Brent",DL,D,79,300,25,3,Virginia,Baltimore Ravens
+202,37,"Allen, Javorius",RB,O,72,222,25,2,USC,Baltimore Ravens
+203,23,"Lewis, Kendrick",DB,D,72,205,28,7,Mississippi,Baltimore Ravens
+204,54,"Orr, Zachary",LB,D,72,225,24,3,North Texas,Baltimore Ravens
+205,78,"Pierce, Michael",DL,D,72,339,23,0,Samford,Baltimore Ravens
+206,17,"Wallace, Mike",WR,O,72,205,30,8,Mississippi,Baltimore Ravens
+207,38,"Rolle, Jumal",DB,D,72,190,26,3,Catawba,Baltimore Ravens
+208,43,"Houston, Stephen",RB,O,72,225,24,1,Indiana,Baltimore Ravens
+209,48,"Onwuasor, Patrick",LB,D,72,217,24,0,Portland State,Baltimore Ravens
+210,34,"Taliaferro, Lorenzo",RB,O,72,225,24,3,Coastal Carolina,Baltimore Ravens
+211,21,"Robey-Coleman, Nickell",DB,D,68,165,24,4,Southern California,Buffalo Bills
+212,NA,"Archer, Dri",RB,O,68,173,25,3,Kent State,Buffalo Bills
+213,88,"Goodwin, Marquise",WR,O,69,179,25,4,Texas,Buffalo Bills
+214,33,"Anderson, Colt",DB,D,70,195,30,7,Montana,Buffalo Bills
+215,28,"Darby, Ronald",DB,D,71,193,22,2,Florida State,Buffalo Bills
+216,35,"Gillislee, Mike",RB,O,71,219,25,3,Florida,Buffalo Bills
+217,50,"Humber, Ramon",LB,D,71,235,29,8,North Dakota State,Buffalo Bills
+218,25,"McCoy, LeSean",RB,O,71,208,28,8,Pittsburgh,Buffalo Bills
+219,6,"Schmidt, Colton",P,ST,71,224,25,3,California-Davis,Buffalo Bills
+220,27,"Williams, Duke",DB,D,71,201,25,4,Nevada,Buffalo Bills
+221,57,"Alexander, Lorenzo",LB,D,73,245,33,10,California,Buffalo Bills
+222,26,"Blanton, Robert",DB,D,73,200,27,5,Notre Dame,Buffalo Bills
+223,52,"Brown, Preston",LB,D,73,251,23,3,Louisville,Buffalo Bills
+224,53,"Brown, Zach",LB,D,73,248,26,5,North Carolina,Buffalo Bills
+225,24,"Gilmore, Stephon",DB,D,73,190,26,5,South Carolina,Buffalo Bills
+226,67,"Lewis, Patrick",OL,O,73,311,25,4,Texas A&M,Buffalo Bills
+227,65,"Sanborn, Garrison",LS,ST,73,240,31,8,Florida State,Buffalo Bills
+228,15,"Tate, Brandon",WR,O,73,195,28,8,North Carolina,Buffalo Bills
+229,5,"Taylor, Tyrod",QB,O,73,215,27,6,Virginia Tech,Buffalo Bills
+230,14,"Watkins, Sammy",WR,O,73,211,23,3,Clemson,Buffalo Bills
+231,30,"White, Corey",DB,D,73,210,26,5,Samford,Buffalo Bills
+232,95,"Williams, Kyle",DL,D,73,303,33,11,LSU,Buffalo Bills
+233,75,"Enemkpali, IK",LB,D,73,261,25,3,Louisiana Tech,Buffalo Bills
+234,44,"Fields, Carlos",LB,D,73,248,25,2,Winston-Salem State,Buffalo Bills
+235,17,"Hazel, Matt",WR,O,73,201,24,2,Coastal Carolina,Buffalo Bills
+236,18,"Listenbee, Kolby",WR,O,73,183,22,0,Texas Christian,Buffalo Bills
+237,2,"Carpenter, Dan",K,ST,74,228,30,9,Montana,Buffalo Bills
+238,55,"Hughes, Jerry",LB,D,74,254,28,7,Texas Christian,Buffalo Bills
+239,76,"Miller, John",OL,O,74,303,23,2,Louisville,Buffalo Bills
+240,11,"Salas, Greg",WR,O,74,210,28,5,Hawaii,Buffalo Bills
+241,51,"Spikes, Brandon",LB,D,74,255,29,6,Florida,Buffalo Bills
+242,94,"Worthy, Jerel",DL,D,74,308,26,3,Michigan State,Buffalo Bills
+243,59,"Ragland, Reggie",LB,D,74,252,22,0,Alabama,Buffalo Bills
+244,41,"Parms, Damian",DB,D,74,210,23,1,Florida Atlantic,Buffalo Bills
+245,81,"Easley, Marcus",WR,O,74,217,28,6,Connecticut,Buffalo Bills
+246,85,"Clay, Charles",TE,O,75,255,27,6,Tulsa,Buffalo Bills
+247,64,"Incognito, Richie",OL,O,75,319,33,10,Nebraska,Buffalo Bills
+248,56,"McCray, Lerentee",LB,D,75,249,26,4,Florida,Buffalo Bills
+249,84,"O'Leary, Nick",TE,O,75,252,24,1,Florida State,Buffalo Bills
+250,31,"Dowling, Jonathan",DB,D,75,190,24,2,Western Kentucky,Buffalo Bills
+251,89,"Gragg, Chris",TE,O,75,244,26,4,Arkansas,Buffalo Bills
+252,38,"Wilder, Jr., James",RB,O,75,232,24,1,Florida State,Buffalo Bills
+253,87,"Christian, Gerald",TE,O,75,250,25,2,Louisville,Buffalo Bills
+254,90,"Lawson, Shaq",DL,D,75,270,22,0,Clemson,Buffalo Bills
+255,99,"Dareus, Marcell",DL,D,75,331,26,6,Alabama,Buffalo Bills
+256,97,"Bryant, Corbin",DL,D,76,300,28,4,Northwestern,Buffalo Bills
+257,91,"Douzable, Leger",DL,D,76,284,30,7,Central Florida,Buffalo Bills
+258,61,"Ikard, Gabe",OL,O,76,304,25,2,Oklahoma,Buffalo Bills
+259,3,"Manuel, EJ",QB,O,76,237,26,4,Florida State,Buffalo Bills
+260,92,"Washington, Adolphus",DL,D,76,295,22,0,Ohio State,Buffalo Bills
+261,70,"Wood, Eric",OL,O,76,310,30,8,Louisville,Buffalo Bills
+262,86,"Annen, Blake",TE,O,76,247,25,3,Cincinnati,Buffalo Bills
+263,58,"Johnson, Randell",LB,D,76,245,25,3,Florida Atlantic,Buffalo Bills
+264,13,"Lewis, Dezmin",WR,O,76,214,23,1,Central Arkansas,Buffalo Bills
+265,54,"Valles, Max",DL,D,76,250,22,1,Virginia,Buffalo Bills
+266,82,"Dray, Jim",TE,O,77,255,29,7,Stanford,Buffalo Bills
+267,72,"Groy, Ryan",OL,O,77,320,25,3,Wisconsin,Buffalo Bills
+268,7,"Jones, Cardale",QB,O,77,250,23,0,Ohio State,Buffalo Bills
+269,79,"Mills, Jordan",OL,O,77,316,25,4,Louisiana Tech,Buffalo Bills
+270,49,"Albright, Bryson",LB,D,77,225,22,0,Miami (Ohio),Buffalo Bills
+271,98,"Coleman, Deandre",DL,D,77,341,25,1,California,Buffalo Bills
+272,62,"Martin, Chris",OL,O,77,305,26,1,Central Florida,Buffalo Bills
+273,77,"Glenn, Cordy",OL,O,78,345,27,5,Georgia,Buffalo Bills
+274,71,"Kouandjio, Cyrus",OL,O,79,322,23,3,Alabama,Buffalo Bills
+275,66,"Henderson, Seantrel",OL,O,79,331,24,3,Miami (FL),Buffalo Bills
+276,22,"Bush, Reggie",RB,O,72,205,31,11,Southern California,Buffalo Bills
+277,42,"Felton, Jerome",RB,O,72,248,30,9,Furman,Buffalo Bills
+278,4,"Gay, Jordan",K,ST,72,200,26,3,Centre College,Buffalo Bills
+279,20,"Graham, Corey",DB,D,72,196,31,10,New Hampshire,Buffalo Bills
+280,36,"Meeks, Jonathan",DB,D,72,209,26,4,Clemson,Buffalo Bills
+281,19,"Powell, Walter",WR,O,72,189,24,2,Murray State,Buffalo Bills
+282,29,"Seymour, Kevon",DB,D,72,185,22,0,Southern California,Buffalo Bills
+283,23,"Williams, Aaron",DB,D,72,199,26,6,Texas,Buffalo Bills
+284,31,"Williams, Jonathan",RB,O,72,223,22,0,Arkansas,Buffalo Bills
+285,10,"Woods, Robert",WR,O,72,190,24,4,Southern California,Buffalo Bills
+286,39,"Roberson, Marcus",DB,D,72,191,23,3,Florida,Buffalo Bills
+287,38,"Simmons, Jalen",RB,O,68,210,24,0,South Carolina State,Carolina Panthers
+288,18,"Byrd, Damiere",WR,O,69,180,23,1,South Carolina,Carolina Panthers
+289,27,"McClain, Robert",DB,D,69,195,28,5,Connecticut,Carolina Panthers
+290,35,"Tolbert, Mike",RB,O,69,250,30,9,Coastal Carolina,Carolina Panthers
+291,34,"Artis-Payne, Cameron",RB,O,70,220,26,2,Auburn,Carolina Panthers
+292,28,"Stewart, Jonathan",RB,O,70,240,29,9,Oregon,Carolina Panthers
+293,43,"Whittaker, Fozzy",RB,O,70,205,27,4,Texas,Carolina Panthers
+294,23,"Johnson, Leonard",DB,D,70,202,26,5,Iowa State,Carolina Panthers
+295,10,"Brown, Philly",WR,O,71,190,24,3,Ohio State,Carolina Panthers
+296,20,"Coleman, Kurt",DB,D,71,200,28,7,Ohio State,Carolina Panthers
+297,19,"Ginn, Jr., Ted",WR,O,71,180,31,10,Ohio State,Carolina Panthers
+298,31,"Sanchez, Zack",DB,D,71,185,22,0,Oklahoma,Carolina Panthers
+299,33,"Boston, Tre",DB,D,73,205,24,3,North Carolina,Carolina Panthers
+300,24,"Bradberry, James",DB,D,73,210,23,0,Samford,Carolina Panthers
+301,58,"Davis, Thomas",LB,D,73,235,33,12,Georgia,Carolina Panthers
+302,56,"Klein, A.J.",LB,D,73,240,25,4,Iowa State,Carolina Panthers
+303,8,"Lee, Andy",P,ST,73,185,34,13,Pittsburgh,Carolina Panthers
+304,29,"Marlowe, Dean",DB,D,73,210,24,2,James Madison,Carolina Panthers
+305,52,"Norris, Jared",LB,D,73,240,23,0,Utah,Carolina Panthers
+306,21,"Williams, Teddy",DB,D,73,210,28,5,Texas-San Antonio,Carolina Panthers
+307,26,"Worley, Daryl",DB,D,73,205,21,0,West Virginia,Carolina Panthers
+308,36,"Ball, Marcus",DB,D,73,215,29,2,Memphis,Carolina Panthers
+309,30,"Dixon, Travell",DB,D,73,210,25,1,Washington,Carolina Panthers
+310,9,"Gano, Graham",K,ST,74,205,29,7,Florida State,Carolina Panthers
+311,44,"Jansen, J.J.",LS,ST,74,240,30,9,Notre Dame,Carolina Panthers
+312,95,"Johnson, Charles",DL,D,74,275,30,10,Georgia,Carolina Panthers
+313,67,"Kalil, Ryan",OL,O,74,300,31,10,Southern California,Carolina Panthers
+314,98,"Lotulelei, Star",DL,D,74,315,26,4,Utah,Carolina Panthers
+315,55,"Mayo, David",LB,D,74,245,23,2,Texas St.,Carolina Panthers
+316,81,"Norwood, Kevin",WR,O,74,210,26,3,Alabama,Carolina Panthers
+317,50,"Blechen, Brian",LB,D,74,230,24,1,Utah,Carolina Panthers
+318,97,"Addison, Mario",DL,D,75,260,29,6,Troy,Carolina Panthers
+319,11,"Bersin, Brenton",WR,O,75,210,26,3,Wofford,Carolina Panthers
+320,66,"Gradkowski, Gino",OL,O,75,300,27,5,Delaware,Carolina Panthers
+321,59,"Kuechly, Luke",LB,D,75,238,25,5,Boston College,Carolina Panthers
+322,99,"Short, Kawann",DL,D,75,315,27,4,Purdue,Carolina Panthers
+323,70,"Turner, Trai",OL,O,75,310,23,3,LSU,Carolina Panthers
+324,15,"Garrett, Keyarris",WR,O,75,215,23,0,Tulsa,Carolina Panthers
+325,92,"Butler, Vernon",DL,D,76,325,22,0,Louisiana Tech,Carolina Panthers
+326,91,"Delaire, Ryan",DL,D,76,265,24,2,Towson,Carolina Panthers
+327,84,"Dickson, Ed",TE,O,76,255,29,7,Oregon,Carolina Panthers
+328,94,"Ealy, Kony",DL,D,76,275,24,3,Missouri,Carolina Panthers
+329,93,"Edwards, Lavar",DL,D,76,275,26,4,LSU,Carolina Panthers
+330,17,"Funchess, Devin",WR,O,76,225,22,2,Michigan,Carolina Panthers
+331,78,"Hawkins, Donald",OL,O,76,310,24,2,Texas,Carolina Panthers
+332,69,"Larsen, Tyler",OL,O,76,335,25,1,Utah State,Carolina Panthers
+333,73,"Oher, Michael",OL,O,76,315,30,8,Mississippi,Carolina Panthers
+334,90,"Soliai, Paul",DL,D,76,345,32,10,Utah,Carolina Panthers
+335,14,"Webb, Joe",QB,O,76,235,29,7,UAB,Carolina Panthers
+336,65,"Alecxih, Chas",DL,D,76,295,27,1,Pittsburgh,Carolina Panthers
+337,86,"Byrd, LaRon",WR,O,76,225,27,3,Miami (Fla.),Carolina Panthers
+338,64,"Rigsbee, Jordan",OL,O,76,315,23,0,California,Carolina Panthers
+339,85,"Sandland, Beau",TE,O,76,255,23,0,Montana St.,Carolina Panthers
+340,79,"Scott, Chris",OL,O,76,340,29,5,Tennessee,Carolina Panthers
+341,13,"Benjamin, Kelvin",WR,O,77,245,25,3,Florida St.,Carolina Panthers
+342,1,"Newton, Cam",QB,O,77,245,27,6,Auburn,Carolina Panthers
+343,88,"Olsen, Greg",TE,O,77,255,31,10,Miami (Fla.),Carolina Panthers
+344,74,"Remmers, Mike",OL,O,77,310,27,4,Oregon State,Carolina Panthers
+345,80,"Simonson, Scott",TE,O,77,255,24,2,Assumption,Carolina Panthers
+346,3,"Anderson, Derek",QB,O,78,235,33,12,Oregon State,Carolina Panthers
+347,68,"Norwell, Andrew",OL,O,78,325,24,3,Ohio State,Carolina Panthers
+348,60,"Williams, Daryl",OL,O,78,335,24,2,Oklahoma,Carolina Panthers
+349,75,"Webster, Larry",DL,D,78,275,26,2,Bloomsburg,Carolina Panthers
+350,61,"Yankey, David",OL,O,78,310,24,2,Stanford,Carolina Panthers
+351,25,"Benwikere, Bene",DB,D,72,200,25,3,San Jose St.,Carolina Panthers
+352,57,"Cash, Jeremy",LB,D,72,215,23,0,Duke,Carolina Panthers
+353,42,"Jones, Colin",DB,D,72,205,28,6,Texas Christian,Carolina Panthers
+354,54,"Thompson, Shaq",LB,D,72,230,22,2,Washington,Carolina Panthers
+355,47,"Johnson, Devon",RB,O,72,245,23,0,Marshall,Carolina Panthers
+356,72,"Crume, Eric",DL,D,72,330,22,1,Syracuse,Carolina Panthers
+357,37,"Callahan, Bryce",DB,D,70,191,24,2,Rice,Chicago Bears
+358,25,"Carey, Ka'Deem",RB,O,70,215,23,3,Arizona,Chicago Bears
+359,19,"Royal, Eddie",WR,O,70,190,30,9,Virginia Tech,Chicago Bears
+360,22,"Boykin, Brandon",DB,D,70,182,26,4,Georgia,Chicago Bears
+361,83,"Braverman, Daniel",WR,O,70,185,22,0,Western Michigan,Chicago Bears
+362,30,"Hurst, Demontre",DB,D,70,191,25,3,Oklahoma,Chicago Bears
+363,35,"Mostert, Raheem",RB,O,70,197,24,2,Purdue,Chicago Bears
+364,4,"Barth, Connor",K,ST,71,200,30,9,North Carolina,Chicago Bears
+365,29,"Jones-Quartey, Harold",DB,D,71,210,23,2,Findlay,Chicago Bears
+366,47,"Lasike, Paul",RB,O,71,258,26,1,BYU,Chicago Bears
+367,22,"LeBlanc, Cre'Von",DB,D,71,190,22,0,Florida Atlantic,Chicago Bears
+368,21,"Porter, Tracy",DB,D,71,200,30,9,Indiana,Chicago Bears
+369,36,"Houston-Carson, DeAndre",DB,D,73,203,23,0,William & Mary,Chicago Bears
+370,24,"Howard, Jordan",RB,O,73,222,21,0,Indiana,Chicago Bears
+371,27,"McManis, Sherrick",DB,D,73,192,28,7,Northwestern,Chicago Bears
+372,31,"Prosinski, Chris",DB,D,73,213,29,6,Wyoming,Chicago Bears
+373,59,"Trevathan, Danny",LB,D,73,239,26,5,Kentucky,Chicago Bears
+374,57,"Barrow, Lamin",LB,D,73,237,25,3,LSU,Chicago Bears
+375,8,"Shaw, Connor",QB,O,73,210,25,2,South Carolina,Chicago Bears
+376,74,"Bullard, Jonathan",DL,D,74,290,22,0,Florida,Chicago Bears
+377,32,"Hall, Deiondre'",DB,D,74,201,22,0,Northern Iowa,Chicago Bears
+378,2,"Hoyer, Brian",QB,O,74,215,30,8,Michigan State,Chicago Bears
+379,44,"Kwiatkoski, Nick",LB,D,74,242,23,0,West Virginia,Chicago Bears
+380,62,"Larsen, Ted",OL,O,74,315,29,7,North Carolina State,Chicago Bears
+381,95,"Ferguson, Ego",DL,D,74,300,25,3,LSU,Chicago Bears
+382,12,"Barkley, Matt",QB,O,74,227,26,4,USC,Chicago Bears
+383,20,"Bausby, De'Vante",DB,D,74,190,23,1,Pittsburg State,Chicago Bears
+384,49,"Acho, Sam",LB,D,75,260,28,6,Texas,Chicago Bears
+385,58,"Anderson, Jonathan",LB,D,75,235,24,2,Texas Christian,Chicago Bears
+386,6,"Cutler, Jay",QB,O,75,231,33,11,Vanderbilt,Chicago Bears
+387,99,"Houston, Lamarr",LB,D,75,274,29,7,Texas,Chicago Bears
+388,17,"Jeffery, Alshon",WR,O,75,218,26,5,South Carolina,Chicago Bears
+389,52,"Jones, Christian",LB,D,75,251,25,3,Florida State,Chicago Bears
+390,72,"Leno, Charles",OL,O,75,305,24,3,Boise State,Chicago Bears
+391,81,"Meredith, Cameron",WR,O,75,207,23,2,Illinois State,Chicago Bears
+392,87,"Scruggs, Greg",TE,O,75,277,26,4,Louisville,Chicago Bears
+393,71,"Sitton, Josh",OL,O,75,318,30,9,Central Florida,Chicago Bears
+394,65,"Whitehair, Cody",OL,O,75,310,24,0,Kansas State,Chicago Bears
+395,13,"White, Kevin",WR,O,75,216,24,2,West Virginia,Chicago Bears
+396,55,"Grasu, Hroniss",OL,O,75,303,25,2,Oregon,Chicago Bears
+397,43,"Mason, Danny",LB,D,75,235,25,1,Texas A&M-Commerce,Chicago Bears
+398,60,"Edison, Cornelius",OL,O,75,309,23,1,Portland State,Chicago Bears
+399,67,"Staten, Jimmy",DL,D,75,311,25,1,Middle Tennessee State,Chicago Bears
+400,92,"McPhee, Pernell",LB,D,75,273,27,6,Mississippi State,Chicago Bears
+401,91,"Goldman, Eddie",DL,D,76,320,22,2,Florida State,Chicago Bears
+402,64,"Kush, Eric",OL,O,76,313,27,4,California (PA),Chicago Bears
+403,16,"O'Donnell, Pat",P,ST,76,217,25,3,Miami (Fla.),Chicago Bears
+404,48,"Scales, Patrick",LS,ST,76,242,28,2,Utah State,Chicago Bears
+405,98,"Unrein, Mitch",DL,D,76,299,29,6,Wyoming,Chicago Bears
+406,90,"Washington, Cornelius",DL,D,76,292,27,4,Georgia,Chicago Bears
+407,97,"Young, Willie",LB,D,76,258,31,7,North Carolina State,Chicago Bears
+408,84,"Braunecker, Ben",TE,O,76,255,22,0,Harvard,Chicago Bears
+409,10,"Wilson, Marquess",WR,O,76,206,24,4,Washington State,Chicago Bears
+410,96,"Hicks, Akiem",DL,D,77,336,26,5,Regina (Canada),Chicago Bears
+411,86,"Miller, Zach",TE,O,77,243,31,7,Nebraska-Omaha,Chicago Bears
+412,82,"Paulsen, Logan",TE,O,77,268,29,7,UCLA,Chicago Bears
+413,78,"Weaver, Jason",OL,O,77,309,27,2,Southern Mississippi,Chicago Bears
+414,94,"Floyd, Leonard",LB,D,78,240,24,0,Georgia,Chicago Bears
+415,75,"Long, Kyle",OL,O,78,320,27,4,Oregon,Chicago Bears
+416,70,"Massie, Bobby",OL,O,78,320,27,5,Mississippi,Chicago Bears
+417,71,"Becton, Nick",OL,O,78,322,26,3,Virginia Tech,Chicago Bears
+418,76,"Adams, Mike",OL,O,79,323,26,4,Ohio State,Chicago Bears
+419,45,"Robertson-Harris, Roy",LB,D,79,268,23,0,UTEP,Chicago Bears
+420,38,"Amos, Adrian",DB,D,72,214,23,2,Penn State,Chicago Bears
+421,11,"Bellamy, Joshua",WR,O,72,211,27,2,Louisville,Chicago Bears
+422,26,"Bush, Deon",DB,D,72,200,23,0,Miami (Fla.),Chicago Bears
+423,50,"Freeman, Jerrell",LB,D,72,236,30,5,Mary Hardin-Baylor,Chicago Bears
+424,23,"Fuller, Kyle",DB,D,72,190,24,3,Virginia Tech,Chicago Bears
+425,39,"Glenn, Jacoby",DB,D,72,185,23,2,Central Florida,Chicago Bears
+426,33,"Langford, Jeremy",RB,O,72,211,24,2,Michigan State,Chicago Bears
+427,93,"Sutton, Will",DL,D,72,297,24,3,Arizona State,Chicago Bears
+428,14,"Thompson, Deonte",WR,O,72,205,27,4,Florida,Chicago Bears
+429,53,"Timu, John",LB,D,72,245,24,2,Washington,Chicago Bears
+430,25,"Bernard, Giovani",RB,O,69,205,24,4,North Carolina,Cincinnati Bengals
+431,33,"Burkhead, Rex",RB,O,70,210,26,4,Nebraska,Cincinnati Bengals
+432,24,"Jones, Adam",DB,D,70,180,32,10,West Virginia,Cincinnati Bengals
+433,37,"Lewis-Harris, Chris",DB,D,70,185,27,4,Tennessee-Chattanooga,Cincinnati Bengals
+434,2,"Nugent, Mike",K,ST,70,190,34,12,Ohio State,Cincinnati Bengals
+435,31,"Smith, Derron",DB,D,70,200,24,2,Fresno State,Cincinnati Bengals
+436,30,"Peerman, Cedric",RB,O,70,212,29,7,Virginia,Cincinnati Bengals
+437,23,"Brown, Chykie",DB,D,71,191,29,5,Texas,Cincinnati Bengals
+438,21,"Dennard, Darqueze",DB,D,71,198,24,3,Michigan State,Cincinnati Bengals
+439,38,"Russell, KeiVarae",DB,D,71,196,22,0,Notre Dame,Cincinnati Bengals
+440,39,"Carson, Tra",RB,O,71,231,23,0,Texas A&M,Cincinnati Bengals
+441,28,"Hillary, Darius",DB,D,71,185,23,0,Wisconsin,Cincinnati Bengals
+442,97,"Atkins, Geno",DL,D,73,300,28,7,Georgia,Cincinnati Bengals
+443,32,"Hill, Jeremy",RB,O,73,235,23,3,Louisiana State,Cincinnati Bengals
+444,10,"Huber, Kevin",P,ST,73,211,31,8,Cincinnati,Cincinnati Bengals
+445,26,"Shaw, Josh",DB,D,73,200,24,2,Southern California,Cincinnati Bengals
+446,69,"Williams, DeShawn",DL,D,73,295,23,0,Clemson,Cincinnati Bengals
+447,86,"Wright, James",WR,O,73,201,24,3,Louisiana State,Cincinnati Bengals
+448,75,"Billings, Andrew",DL,D,73,325,21,0,Baylor,Cincinnati Bengals
+449,71,"Dean, David",DL,D,73,302,23,0,Virginia,Cincinnati Bengals
+450,55,"Burfict, Vontaze",LB,D,73,255,25,5,Arizona State,Cincinnati Bengals
+451,83,"Boyd, Tyler",WR,O,74,197,21,0,Pittsburgh,Cincinnati Bengals
+452,14,"Dalton, Andy",QB,O,74,220,28,6,Texas Christian,Cincinnati Bengals
+453,27,"Kirkpatrick, Dre",DB,D,74,185,26,5,Alabama,Cincinnati Bengals
+454,58,"Maualuga, Rey",LB,D,74,258,29,8,Southern California,Cincinnati Bengals
+455,52,"Roach, Trevor",LB,D,74,247,24,0,Nebraska,Cincinnati Bengals
+456,92,"Sims, Pat",DL,D,74,330,30,9,Auburn,Cincinnati Bengals
+457,59,"Vigil, Nick",LB,D,74,239,23,0,Utah State,Cincinnati Bengals
+458,98,"Thompson, Brandon",DL,D,74,310,26,5,Clemson,Cincinnati Bengals
+459,61,"Bodine, Russell",OL,O,75,308,24,3,North Carolina,Cincinnati Bengals
+460,16,"Core, Cody",WR,O,75,210,22,0,Mississippi,Cincinnati Bengals
+461,56,"Dansby, Karlos",LB,D,75,245,34,13,Auburn,Cincinnati Bengals
+462,53,"Flowers, Marquis",LB,D,75,245,24,3,Arizona,Cincinnati Bengals
+463,11,"LaFell, Brandon",WR,O,75,210,29,7,Louisiana State,Cincinnati Bengals
+464,5,"McCarron, AJ",QB,O,75,220,26,2,Alabama,Cincinnati Bengals
+465,94,"Peko, Domata",DL,D,75,325,31,11,Michigan State,Cincinnati Bengals
+466,63,"Westerman, Christian",OL,O,75,300,23,0,Arizona State,Cincinnati Bengals
+467,91,"Hardison, Marcus",DL,D,75,310,24,2,Arizona State,Cincinnati Bengals
+468,66,"Hopkins, Trey",OL,O,75,310,24,2,Texas,Cincinnati Bengals
+469,6,"Driskel, Jeff",QB,O,76,231,23,0,Louisiana Tech,Cincinnati Bengals
+470,18,"Green, A.J.",WR,O,76,210,28,6,Georgia,Cincinnati Bengals
+471,89,"Hewitt, Ryan",RB,O,76,255,25,3,Stanford,Cincinnati Bengals
+472,43,"Iloka, George",DB,D,76,225,26,5,Boise State,Cincinnati Bengals
+473,60,"Johnson, T.J.",OL,O,76,300,26,3,South Carolina,Cincinnati Bengals
+474,68,"Zeitler, Kevin",OL,O,76,320,26,5,Wisconsin,Cincinnati Bengals
+475,84,"Kumerow, Jake",WR,O,76,206,24,1,Wisconsin-Whitewater,Cincinnati Bengals
+476,17,"Russell, Alonzo",WR,O,76,206,23,0,Toledo,Cincinnati Bengals
+477,65,"Boling, Clint",OL,O,77,305,27,6,Georgia,Cincinnati Bengals
+478,46,"Harris, Clark",LS,ST,77,250,32,8,Rutgers,Cincinnati Bengals
+479,70,"Ogbuehi, Cedric",OL,O,77,310,24,2,Texas A&M,Cincinnati Bengals
+480,62,"Redmond, Alex",OL,O,77,310,21,0,UCLA,Cincinnati Bengals
+481,93,"Clarke, Will",DL,D,78,280,25,3,West Virginia,Cincinnati Bengals
+482,96,"Dunlap, Carlos",DL,D,78,280,27,7,Florida,Cincinnati Bengals
+483,85,"Eifert, Tyler",TE,O,78,255,26,4,Notre Dame,Cincinnati Bengals
+484,74,"Fisher, Jake",OL,O,78,305,23,2,Oregon,Cincinnati Bengals
+485,81,"Kroft, Tyler",TE,O,78,250,23,2,Rutgers,Cincinnati Bengals
+486,87,"Uzomah, C.J.",TE,O,78,265,23,2,Auburn,Cincinnati Bengals
+487,76,"Brown, Ryan",DL,D,78,276,22,0,Mississippi State,Cincinnati Bengals
+488,90,"Johnson, Michael",DL,D,79,272,29,8,Georgia Tech,Cincinnati Bengals
+489,77,"Whitworth, Andrew",OL,O,79,330,34,11,Louisiana State,Cincinnati Bengals
+490,73,"Winston, Eric",OL,O,79,310,32,10,Miami (Fla.),Cincinnati Bengals
+491,88,"Lengel, Matt",TE,O,79,266,25,1,Eastern Kentucky,Cincinnati Bengals
+492,99,"Hunt, Margus",DL,D,80,295,29,3,Southern Methodist,Cincinnati Bengals
+493,12,"Erickson, Alex",WR,O,72,195,23,0,Wisconsin,Cincinnati Bengals
+494,42,"Fejedelem, Clayton",DB,D,72,205,23,0,Illinois,Cincinnati Bengals
+495,57,"Rey, Vincent",LB,D,72,250,29,6,Duke,Cincinnati Bengals
+496,36,"Williams, Shawn",DB,D,72,210,25,4,Georgia,Cincinnati Bengals
+497,22,"Jackson, William",DB,D,72,187,23,0,Houston,Cincinnati Bengals
+498,47,"Dawson, P.J.",LB,D,72,240,23,2,Texas Christian,Cincinnati Bengals
+499,16,"Hawkins, Andrew",WR,O,67,180,30,6,Toledo,Cleveland Browns
+500,2,"Murray, Patrick",K,ST,67,182,25,3,Fordham,Cleveland Browns
+501,20,"Boddy-Calhoun, Briean",DB,D,69,193,23,0,Minnesota,Cleveland Browns
+502,29,"Johnson Jr., Duke",RB,O,69,210,22,2,Miami (Fla.),Cleveland Browns
+503,31,"Caldwell, Trey",DB,D,69,185,22,0,Louisiana-Monroe,Cleveland Browns
+504,26,"Burley, Marcus",DB,D,70,190,26,4,Delaware,Cleveland Browns
+505,41,"Howard, Tracy",DB,D,70,185,22,0,Miami,Cleveland Browns
+506,30,"Kindred, Derrick",DB,D,70,210,22,0,Texas Christian,Cleveland Browns
+507,17,"Jennings, Darius",WR,O,70,169,24,1,Virginia,Cleveland Browns
+508,24,"Campbell, Ibraheim",DB,D,71,208,24,2,Northwestern,Cleveland Browns
+509,19,"Coleman, Corey",WR,O,71,185,22,0,Baylor,Cleveland Browns
+510,34,"Crowell, Isaiah",RB,O,71,225,23,3,Alabama State,Cleveland Browns
+511,23,"Haden, Joe",DB,D,71,195,27,7,Florida,Cleveland Browns
+512,35,"Jones, Don",DB,D,71,195,26,4,Arkansas State,Cleveland Browns
+513,21,"Taylor, Jamar",DB,D,71,192,25,4,Boise State,Cleveland Browns
+514,43,"Neal, Rajion",RB,O,71,211,23,1,Tennessee,Cleveland Browns
+515,3,"Boyce, Josh",WR,O,71,205,25,2,TCU,Cleveland Browns
+516,3,"Palardy, Michael",P,ST,71,191,24,1,Tennessee,Cleveland Browns
+517,25,"Atkinson III, George",RB,O,73,220,23,1,Notre Dame,Cleveland Browns
+518,81,"Higgins, Rashard",WR,O,73,198,21,0,Colorado State,Cleveland Browns
+519,42,"Johnson, Malcolm",RB,O,73,231,24,2,Mississippi State,Cleveland Browns
+520,6,"Kessler, Cody",QB,O,73,215,23,0,USC,Cleveland Browns
+521,99,"Paea, Stephen",DL,D,73,310,28,6,Oregon State,Cleveland Browns
+522,84,"Payton, Jordan",WR,O,73,209,23,0,UCLA,Cleveland Browns
+523,53,"Schobert, Joe",LB,D,73,245,22,0,Wisconsin,Cleveland Browns
+524,70,"Lawrence-Stample, Nile",DL,D,73,320,24,0,Florida State,Cleveland Browns
+525,61,"Fabiano, Anthony",OL,O,73,303,23,0,Harvard,Cleveland Browns
+526,39,"Reynolds, Ed",DB,D,73,207,24,2,Stanford,Cleveland Browns
+527,38,"Watson, Terrell",RB,O,73,240,23,1,Azusa Pacific,Cleveland Browns
+528,59,"Carder, Tank",LB,D,74,235,27,5,Texas Christian,Cleveland Browns
+529,4,"Colquitt, Britton",P,ST,74,205,31,8,Tennessee,Cleveland Browns
+530,56,"Davis, Demario",LB,D,74,248,27,5,Arkansas State,Cleveland Browns
+531,91,"Holmes, Tyrone",DL,D,74,253,23,0,Montana,Cleveland Browns
+532,93,"Hughes III, John",DL,D,74,320,27,5,Cincinnati,Cleveland Browns
+533,58,"Kirksey, Christian",LB,D,74,235,24,3,Iowa,Cleveland Browns
+534,80,"Louis, Ricardo",WR,O,74,215,22,0,Auburn,Cleveland Browns
+535,55,"Shelton, Danny",DL,D,74,335,23,2,Washington,Cleveland Browns
+536,97,"Wright, Gabe",DL,D,74,284,24,2,Auburn,Cleveland Browns
+537,10,"Griffin III, Robert",QB,O,74,218,26,5,Baylor,Cleveland Browns
+538,83,"Parks, Dennis",WR,O,74,201,22,0,Rice,Cleveland Browns
+539,28,"Winston, Glenn",RB,O,74,220,27,3,Northwood,Cleveland Browns
+540,97,"Wynn, Dylan",DL,D,74,283,23,1,Oregon State,Cleveland Browns
+541,78,"Bailey, Alvin",OL,O,75,320,25,4,Arkansas,Cleveland Browns
+542,87,"DeValve, Seth",TE,O,75,245,23,0,Princeton,Cleveland Browns
+543,52,"Lemonier, Corey",LB,D,75,255,24,4,Auburn,Cleveland Browns
+544,98,"Meder, Jamie",DL,D,75,308,25,2,Ashland,Cleveland Browns
+545,8,"Hogan, Kevin",QB,O,75,218,23,0,Stanford,Cleveland Browns
+546,12,"Gordon, Josh",WR,O,75,225,25,3,Baylor,Cleveland Browns
+547,75,"Bitonio, Joel",OL,O,76,305,24,3,Nevada,Cleveland Browns
+548,96,"Cooper, Xavier",DL,D,76,300,24,2,Washington State,Cleveland Browns
+549,77,"Greco, John",OL,O,76,318,31,9,Toledo,Cleveland Browns
+550,47,"Hughlett, Charley",LS,ST,76,248,26,2,Central Florida,Cleveland Browns
+551,13,"McCown, Josh",QB,O,76,218,37,14,Sam Houston State,Cleveland Browns
+552,90,"Ogbah, Emmanuel",LB,D,76,275,22,0,Oklahoma State,Cleveland Browns
+553,44,"Orchard, Nate",LB,D,76,255,23,2,Utah,Cleveland Browns
+554,11,"Pryor Sr. , Terrelle",WR,O,76,223,27,4,Ohio State,Cleveland Browns
+555,86,"Telfer, Randall",TE,O,76,250,24,1,USC,Cleveland Browns
+556,95,"Bryant, Armonty",LB,D,76,265,26,4,East Central (OK) University,Cleveland Browns
+557,74,"Erving, Cameron",OL,O,77,313,24,2,Florida State,Cleveland Browns
+558,82,"Barnidge, Gary",TE,O,78,250,30,9,Louisville,Cleveland Browns
+559,66,"Drango, Spencer",OL,O,78,315,23,0,Baylor,Cleveland Browns
+560,73,"Thomas, Joe",OL,O,78,312,31,10,Wisconsin,Cleveland Browns
+561,79,"France, Dan",OL,O,78,312,25,1,Michigan State,Cleveland Browns
+562,92,"Bryant, Desmond",DL,D,78,310,30,8,Harvard,Cleveland Browns
+563,72,"Coleman, Shon",OL,O,79,310,24,0,Auburn,Cleveland Browns
+564,94,"Nassib, Carl",DL,D,79,275,23,0,Penn State,Cleveland Browns
+565,67,"Pasztor, Austin",OL,O,79,308,25,4,Virginia,Cleveland Browns
+566,89,"Hamlett, Connor",TE,O,79,259,24,1,Oregon State,Cleveland Browns
+567,54,"Alexander, Dominique",LB,D,72,235,21,0,Oklahoma,Cleveland Browns
+568,33,"Poyer, Jordan",DB,D,72,191,25,4,Oregon State,Cleveland Browns
+569,22,"Williams Sr., Tramon",DB,D,72,192,33,10,Louisiana Tech,Cleveland Browns
+570,50,"Wright III, Scooby",LB,D,72,240,22,0,Arizona,Cleveland Browns
+571,85,"Hall, Rannell",WR,O,72,200,23,1,Central Florida,Cleveland Browns
+572,11,"Beasley, Cole",WR,O,68,180,27,5,Southern Methodist,Dallas Cowboys
+573,25,"Dunbar, Lance",RB,O,68,195,26,5,North Texas,Dallas Cowboys
+574,13,"Whitehead, Lucky",WR,O,69,180,24,0,Florida Atlantic,Dallas Cowboys
+575,46,"Morris, Alfred",RB,O,70,224,27,5,Florida Atlantic,Dallas Cowboys
+576,32,"Scandrick, Orlando",DB,D,70,196,29,9,Boise State,Dallas Cowboys
+577,30,"Brown, Anthony",DB,D,71,192,22,0,Purdue,Dallas Cowboys
+578,24,"Claiborne, Morris",DB,D,71,192,26,5,LSU,Dallas Cowboys
+579,48,"George, Jeremiah",LB,D,71,234,24,0,Iowa State,Dallas Cowboys
+580,26,"Thomas, Josh",DB,D,71,185,27,5,Buffalo,Dallas Cowboys
+581,56,"Durant, Justin",LB,D,73,230,30,10,Hampton,Dallas Cowboys
+582,38,"Heath, Jeff",DB,D,73,212,25,4,Saginaw Valley State,Dallas Cowboys
+583,57,"Wilson, Damien",LB,D,73,243,23,2,Minnesota,Dallas Cowboys
+584,81,"Jones, Andy",WR,O,73,214,22,0,Jacksonville,Dallas Cowboys
+585,20,"McFadden, Darren",RB,O,73,210,29,8,Arkansas,Dallas Cowboys
+586,88,"Bryant, Dez",WR,O,74,220,27,7,Oklahoma State,Dallas Cowboys
+587,42,"Church, Barry",DB,D,74,218,28,7,Toledo,Dallas Cowboys
+588,96,"Collins, Maliek",DL,D,74,311,21,0,Nebraska,Dallas Cowboys
+589,75,"Davis, Ryan",DL,D,74,260,27,5,Bethune-Cookman,Dallas Cowboys
+590,52,"Gachkar, Andrew",LB,D,74,224,27,5,Missouri,Dallas Cowboys
+591,50,"Lee, Sean",LB,D,74,238,30,7,Penn State,Dallas Cowboys
+592,97,"McClain, Terrell",DL,D,74,302,28,6,South Florida,Dallas Cowboys
+593,4,"Prescott, Dak",QB,O,74,226,23,0,Mississippi State,Dallas Cowboys
+594,9,"Romo, Tony",QB,O,74,230,36,14,Eastern Illinois,Dallas Cowboys
+595,3,"Sanchez, Mark",QB,O,74,225,29,7,USC,Dallas Cowboys
+596,99,"Tapper, Charles",DL,D,74,271,23,0,Oklahoma,Dallas Cowboys
+597,83,"Williams, Terrance",WR,O,74,210,27,4,Baylor,Dallas Cowboys
+598,16,"Mayle, Vince",WR,O,74,224,25,1,Washington State,Dallas Cowboys
+599,7,"Showers, Jameill",QB,O,74,230,25,1,Texas-El Paso,Dallas Cowboys
+600,54,"Smith, Jaylon",LB,D,74,245,21,0,Notre Dame,Dallas Cowboys
+601,19,"Butler, Brice",WR,O,75,215,26,3,San Diego State,Dallas Cowboys
+602,65,"Leary, Ronald",OL,O,75,320,27,4,Memphis,Dallas Cowboys
+603,73,"Looney, Joe",OL,O,75,315,26,4,Wake Forest,Dallas Cowboys
+604,93,"Mayowa, Benson",DL,D,75,240,25,4,Idaho,Dallas Cowboys
+605,53,"Nzeocha, Mark",LB,D,75,239,26,2,Wyoming,Dallas Cowboys
+606,45,"Smith, Rod",RB,O,75,231,24,1,Ohio State,Dallas Cowboys
+607,90,"Lawrence, Demarcus",DL,D,75,265,24,2,Boise State,Dallas Cowboys
+608,71,"Collins, La'el",OL,O,76,321,23,1,LSU,Dallas Cowboys
+609,98,"Crawford, Tyrone",DL,D,76,285,26,4,Boise State,Dallas Cowboys
+610,72,"Frederick, Travis",OL,O,76,318,25,4,Wisconsin,Dallas Cowboys
+611,70,"Martin, Zack",OL,O,76,310,25,2,Notre Dame,Dallas Cowboys
+612,87,"Swaim, Geoff",TE,O,76,260,23,0,Texas,Dallas Cowboys
+613,92,"Thornton, Cedric",DL,D,76,309,28,5,Southern Arkansas,Dallas Cowboys
+614,51,"Wilber, Kyle",LB,D,76,245,27,5,Wake Forest,Dallas Cowboys
+615,60,"Brendel, Jake",OL,O,76,303,24,0,UCLA,Dallas Cowboys
+616,78,"Milton, Keavon",OL,O,76,320,26,2,Louisiana Monroe,Dallas Cowboys
+617,78,"Bradfield, Cameron",OL,O,76,308,29,5,Grand Valley State,Dallas Cowboys
+618,84,"Hanna, James",TE,O,76,260,27,5,Oklahoma,Dallas Cowboys
+619,55,"McClain, Rolando",LB,D,76,259,27,5,Alabama,Dallas Cowboys
+620,58,"Crawford, Jack",DL,D,77,288,28,5,Penn State,Dallas Cowboys
+621,79,"Green, Chaz",OL,O,77,300,24,0,Florida,Dallas Cowboys
+622,91,"LaDouceur, L.P.",LS,ST,77,256,35,12,California,Dallas Cowboys
+623,77,"Smith, Tyron",OL,O,77,320,25,6,USC,Dallas Cowboys
+624,40,"McCain, Chris",DL,D,77,236,24,0,California,Dallas Cowboys
+625,94,"Gregory, Randy",DL,D,77,245,23,2,Nebraska,Dallas Cowboys
+626,89,"Escobar, Gavin",TE,O,78,260,25,4,San Diego State,Dallas Cowboys
+627,68,"Free, Doug",OL,O,78,318,32,10,Northern Illinois,Dallas Cowboys
+628,82,"Witten, Jason",TE,O,78,263,34,14,Tennessee,Dallas Cowboys
+629,80,"Gathers, Rico",TE,O,78,290,22,0,Baylor,Dallas Cowboys
+630,76,"Moore, Zach",DL,D,78,290,26,2,Concordia-St. Paul,Dallas Cowboys
+631,95,"Irving, David",DL,D,79,273,23,2,Iowa State,Dallas Cowboys
+632,5,"Bailey, Dan",K,ST,72,195,28,6,Oklahoma State,Dallas Cowboys
+633,39,"Carr, Brandon",DB,D,72,210,30,9,Grand Valley State,Dallas Cowboys
+634,21,"Elliott, Ezekiel",RB,O,72,225,21,0,Ohio State,Dallas Cowboys
+635,35,"Frazier, Kavon",DB,D,72,217,22,0,Central Michigan,Dallas Cowboys
+636,59,"Hitchens, Anthony",LB,D,72,235,24,2,Iowa,Dallas Cowboys
+637,34,"Jackson, Darius",RB,O,72,221,22,0,Eastern Michigan,Dallas Cowboys
+638,31,"Jones, Byron",DB,D,72,199,23,1,Connecticut,Dallas Cowboys
+639,6,"Jones, Chris",P,ST,72,205,27,5,Carson-Newman,Dallas Cowboys
+640,41,"Smith, Keith",RB,O,72,232,24,2,San Jose State,Dallas Cowboys
+641,27,"Wilcox, J.J.",DB,D,72,212,25,4,Georgia Southern,Dallas Cowboys
+642,29,"Seamster, Sammy",DB,D,72,205,25,2,Middle Tennessee St.,Dallas Cowboys
+643,17,"Moore, Kellen",QB,O,72,200,27,4,Boise State,Dallas Cowboys
+644,22,"Anderson, C.J.",RB,O,68,224,25,4,California,Denver Broncos
+645,19,"Raymond, Kalif",WR,O,69,160,22,0,Holy Cross,Denver Broncos
+646,25,"Harris Jr., Chris",DB,D,70,199,27,5,Kansas,Denver Broncos
+647,43,"Ward, T.J.",DB,D,70,200,29,7,Oregon,Denver Broncos
+648,39,"Nixon, Taurean",DB,D,70,187,25,2,Tulane,Denver Broncos
+649,50,"Anderson, Zaire",LB,D,71,220,24,1,Nebraska,Denver Broncos
+650,35,"Bibbs, Kapri",RB,O,71,203,23,2,Colorado State,Denver Broncos
+651,23,"Booker, Devontae",RB,O,71,219,24,0,Utah,Denver Broncos
+652,37,"Doss, Lorenzo",DB,D,71,187,22,2,Tulane,Denver Broncos
+653,11,"Norwood, Jordan",WR,O,71,180,29,7,Penn State,Denver Broncos
+654,29,"Roby, Bradley",DB,D,71,194,24,3,Ohio State,Denver Broncos
+655,10,"Sanders, Emmanuel",WR,O,71,180,29,7,Southern Methodist,Denver Broncos
+656,26,"Stewart, Darian",DB,D,71,214,28,7,South Carolina,Denver Broncos
+657,36,"Webster, Kayvon",DB,D,71,198,25,4,South Florida,Denver Broncos
+658,17,"Frazier, Mose",WR,O,71,190,23,0,Memphis,Denver Broncos
+659,40,"Thompson, Juwan",RB,O,71,225,24,3,Duke,Denver Broncos
+660,51,"Davis, Todd",LB,D,73,230,24,3,Sacramento State,Denver Broncos
+661,16,"Fowler, Bennie",WR,O,73,212,25,2,Michigan State,Denver Broncos
+662,32,"Janovich, Andy",RB,O,73,238,23,0,Nebraska,Denver Broncos
+663,42,"Kreiter, Casey",LS,ST,73,250,26,1,Iowa,Denver Broncos
+664,54,"Marshall, Brandon",LB,D,73,250,27,5,Nevada,Denver Broncos
+665,52,"Nelson, Corey",LB,D,73,226,24,3,Oklahoma,Denver Broncos
+666,34,"Parks, Will",DB,D,73,194,22,0,Arizona,Denver Broncos
+667,90,"Peko, Kyle",DL,D,73,305,23,0,Oregon State,Denver Broncos
+668,21,"Talib, Aqib",DB,D,73,205,30,9,Kansas,Denver Broncos
+669,48,"Barrett, Shaquil",LB,D,74,250,23,3,Colorado State,Denver Broncos
+670,4,"Davis, Austin",QB,O,74,221,27,5,Southern Mississippi,Denver Broncos
+671,53,"Ferentz, James",OL,O,74,285,27,2,Iowa,Denver Broncos
+672,14,"Latimer, Cody",WR,O,74,215,23,3,Indiana,Denver Broncos
+673,31,"Simmons, Justin",DB,D,74,202,22,0,Boston College,Denver Broncos
+674,57,"Watson, Dekoda",LB,D,74,245,28,7,Florida State,Denver Broncos
+675,92,"Williams, Sylvester",DL,D,74,313,27,4,North Carolina,Denver Broncos
+676,67,"Brenner, Sam",OL,O,74,310,26,4,Utah,Denver Broncos
+677,96,"Walker, Vance",DL,D,74,305,29,8,Georgia Tech,Denver Broncos
+678,45,"Cliett, Reshard",LB,D,74,222,24,2,South Florida,Denver Broncos
+679,98,"Kilgo, Darius",DL,D,75,319,24,2,Maryland,Denver Broncos
+680,8,"McManus, Brandon",K,ST,75,201,25,3,Temple,Denver Broncos
+681,58,"Miller, Von",LB,D,75,250,27,6,Texas A&M,Denver Broncos
+682,61,"Paradis, Matt",OL,O,75,300,26,2,Boise State,Denver Broncos
+683,56,"Ray, Shane",LB,D,75,245,23,2,Missouri,Denver Broncos
+684,13,"Siemian, Trevor",QB,O,75,220,24,2,Northwestern,Denver Broncos
+685,88,"Thomas, Demaryius",WR,O,75,229,28,7,Georgia Tech,Denver Broncos
+686,93,"Crick, Jared",DL,D,76,285,27,5,Nebraska,Denver Broncos
+687,9,"Dixon, Riley",P,ST,76,221,23,0,Syracuse,Denver Broncos
+688,76,"Garcia, Max",OL,O,76,309,24,2,Florida,Denver Broncos
+689,99,"Gotsis, Adam",DL,D,76,287,23,0,Georgia Tech,Denver Broncos
+690,60,"McGovern, Connor",OL,O,76,306,23,0,Missouri,Denver Broncos
+691,94,"Ware, DeMarcus",LB,D,76,258,34,12,Troy,Denver Broncos
+692,97,"Winn, Billy",DL,D,76,300,27,5,Boise State,Denver Broncos
+693,55,"Day, Dillon",OL,O,76,299,24,1,Mississippi State,Denver Broncos
+694,59,"Dora, Vontarrius",LB,D,76,256,24,0,Louisiana Tech,Denver Broncos
+695,84,"Krieger-Coble, Henry",TE,O,76,248,24,0,Iowa,Denver Broncos
+696,85,"Green, Virgil",TE,O,77,255,28,6,Nevada,Denver Broncos
+697,82,"Heuerman, Jeff",TE,O,77,255,23,2,Ohio State,Denver Broncos
+698,73,"Okung, Russell",OL,O,77,310,28,7,Oklahoma State,Denver Broncos
+699,86,"Phillips, John",TE,O,77,251,29,8,Virginia,Denver Broncos
+700,74,"Sambrailo, Ty",OL,O,77,315,24,2,Colorado State,Denver Broncos
+701,87,"Taylor, Jordan",WR,O,77,210,24,1,Rice,Denver Broncos
+702,77,"Weems, Darrion",OL,O,77,310,28,3,Oregon,Denver Broncos
+703,95,"Wolfe, Derek",DL,D,77,285,26,5,Cincinnati,Denver Broncos
+704,64,"Murray, Justin",OL,O,77,304,23,0,Cincinnati,Denver Broncos
+705,79,"Schofield, Michael",OL,O,78,301,25,3,Michigan,Denver Broncos
+706,71,"Stephenson, Donald",OL,O,78,312,27,5,Oklahoma,Denver Broncos
+707,12,"Lynch, Paxton",QB,O,79,244,22,0,Memphis,Denver Broncos
+708,28,"Murphy, Ryan",DB,D,72,214,23,1,Oregon State,Denver Broncos
+709,21,"Abdullah, Ameer",RB,O,69,203,23,2,Nebraska,Detroit Lions
+710,28,"Diggs, Quandre",DB,D,69,200,23,2,Texas,Detroit Lions
+711,24,"Lawson, Nevin",DB,D,69,192,25,3,Utah State,Detroit Lions
+712,25,"Riddick, Theo",RB,O,69,201,25,4,Notre Dame,Detroit Lions
+713,16,"Billingsley, Jace",WR,O,69,189,23,0,Eastern Oregon,Detroit Lions
+714,5,"Prater, Matt",K,ST,70,201,32,10,Central Florida,Detroit Lions
+715,15,"Tate, Golden",WR,O,70,197,28,7,Notre Dame,Detroit Lions
+716,45,"Washington, Charles",DB,D,70,192,23,0,Fresno State,Detroit Lions
+717,38,"Barnes, Adairius",DB,D,71,188,22,0,Louisiana Tech,Detroit Lions
+718,31,"Bush, Rafael",DB,D,71,203,29,6,South Carolina State,Detroit Lions
+719,26,"Carey, Don",DB,D,71,202,29,8,Norfolk State,Detroit Lions
+720,12,"Roberts, Andre",WR,O,71,192,28,7,The Citadel,Detroit Lions
+721,34,"Zenner, Zach",RB,O,71,221,25,2,South Dakota State,Detroit Lions
+722,40,"Wells, Ian",DB,D,71,201,23,0,Ohio,Detroit Lions
+723,80,"Boldin, Anquan",WR,O,73,220,35,14,Florida State,Detroit Lions
+724,6,"Martin, Sam",P,ST,73,211,26,4,Appalachian State,Detroit Lions
+725,36,"Washington, Dwayne",RB,O,73,223,22,0,Washington,Detroit Lions
+726,55,"Bostic, Jon",LB,D,73,242,25,4,Florida,Detroit Lions
+727,42,"Landes, Jimmy",LS,ST,73,245,24,0,Baylor,Detroit Lions
+728,18,"Spadola, Ryan",WR,O,73,204,25,4,Lehigh,Detroit Lions
+729,95,"Gilberry, Wallace",DL,D,74,270,31,9,Alabama,Detroit Lions
+730,61,"Hyder, Kerry",DL,D,74,270,25,1,Texas Tech,Detroit Lions
+731,11,"Jones Jr., Marvin",WR,O,74,198,26,5,California,Detroit Lions
+732,35,"Killebrew, Miles",DB,D,74,222,23,0,Southern Utah,Detroit Lions
+733,54,"Levy, DeAndre",LB,D,74,234,29,8,Wisconsin,Detroit Lions
+734,59,"Whitehead, Tahir",LB,D,74,241,26,5,Temple,Detroit Lions
+735,10,"Fuller, Corey",WR,O,74,203,26,3,Virginia Tech,Detroit Lions
+736,50,"Armbrister, Thurston",LB,D,75,246,23,2,Miami (Fla.),Detroit Lions
+737,84,"Charles, Orson",TE,O,75,247,25,3,Georgia,Detroit Lions
+738,51,"Copeland, Brandon",DL,D,75,263,25,2,Pennsylvania,Detroit Lions
+739,9,"Stafford, Matthew",QB,O,75,226,28,8,Georgia,Detroit Lions
+740,99,"Thornton, Khyri",DL,D,75,315,26,3,Southern Mississippi,Detroit Lions
+741,72,"Tomlinson, Laken",OL,O,75,312,24,2,Duke,Detroit Lions
+742,53,"Van Noy, Kyle",LB,D,75,243,25,3,Brigham Young,Detroit Lions
+743,93,"Walker, Tyrunn",DL,D,75,310,26,5,Tulsa,Detroit Lions
+744,75,"Warford, Larry",OL,O,75,317,25,4,Kentucky,Detroit Lions
+745,52,"Williams, Antwione",LB,D,75,240,23,0,Georgia Southern,Detroit Lions
+746,17,"Fruechte, Isaac",WR,O,75,210,25,1,Minnesota,Detroit Lions
+747,14,"Rudock, Jake",QB,O,75,208,23,0,Michigan,Detroit Lions
+748,63,"Thomas, Brandon",OL,O,75,317,25,3,Clemson,Detroit Lions
+749,66,"Dahl, Joe",OL,O,76,305,23,0,Washington State,Detroit Lions
+750,85,"Ebron, Eric",TE,O,76,253,23,3,North Carolina,Detroit Lions
+751,86,"Lee, Khari",TE,O,76,253,24,2,Bowie State,Detroit Lions
+752,48,"Muhlbach, Don",LS,ST,76,258,35,13,Texas A&M,Detroit Lions
+753,92,"Ngata, Haloti",DL,D,76,345,32,11,Oregon,Detroit Lions
+754,91,"Robinson, A'Shawn",DL,D,76,320,21,0,Alabama,Detroit Lions
+755,69,"Zettel, Anthony",DL,D,76,270,24,0,Penn State,Detroit Lions
+756,83,"Wright, Timothy",TE,O,76,242,26,4,Rutgers,Detroit Lions
+757,62,"Farris, Chase",OL,O,76,300,23,0,Ohio State,Detroit Lions
+758,82,"Quarless, Andrew",TE,O,76,252,27,6,Penn State,Detroit Lions
+759,94,"Ansah, Ezekiel",DL,D,77,275,27,4,Brigham Young,Detroit Lions
+760,96,"Charles, Stefan",DL,D,77,320,28,4,Regina (Canada),Detroit Lions
+761,8,"Orlovsky, Dan",QB,O,77,215,33,11,Connecticut,Detroit Lions
+762,64,"Swanson, Travis",OL,O,77,304,25,3,Arkansas,Detroit Lions
+763,44,"Leonhardt, Brian",TE,O,77,255,26,2,Bemidji State,Detroit Lions
+764,87,"Pettigrew, Brandon",TE,O,77,272,31,8,Oklahoma State,Detroit Lions
+765,60,"Glasgow, Graham",OL,O,78,308,24,0,Michigan,Detroit Lions
+766,71,"Reiff, Riley",OL,O,78,305,27,5,Iowa,Detroit Lions
+767,89,"Wick, Cole",TE,O,78,257,22,0,Incarnate Word,Detroit Lions
+768,68,"Decker, Taylor",OL,O,79,311,23,0,Ohio State,Detroit Lions
+769,70,"Robinson, Corey",OL,O,79,317,24,2,South Carolina,Detroit Lions
+770,98,"Taylor, Devin",DL,D,79,275,26,4,South Carolina,Detroit Lions
+771,77,"Lucas, Cornelius",OL,O,81,330,25,3,Kansas State,Detroit Lions
+772,29,"Bademosi, Johnson",DB,D,72,206,26,5,Stanford,Detroit Lions
+773,46,"Burton, Michael",RB,O,72,247,24,2,Rutgers,Detroit Lions
+774,27,"Quin, Glover",DB,D,72,207,30,8,New Mexico,Detroit Lions
+775,23,"Slay, Darius",DB,D,72,190,25,4,Mississippi State,Detroit Lions
+776,32,"Wilson, Tavon",DB,D,72,212,26,5,Illinois,Detroit Lions
+777,33,"Carter, Alex",DB,D,72,200,21,1,Stanford,Detroit Lions
+778,13,"Jones, TJ",WR,O,72,190,24,2,Notre Dame,Detroit Lions
+779,58,"Longa, Steve",LB,D,72,241,21,0,Rutgers,Detroit Lions
+780,32,"Banjo, Chris",DB,D,70,207,26,3,SMU,Green Bay Packers
+781,18,"Cobb, Randall",WR,O,70,192,26,6,Kentucky,Green Bay Packers
+782,28,"Hawkins, Josh",DB,D,70,189,23,0,East Carolina,Green Bay Packers
+783,34,"Jackson, Don",RB,O,70,208,23,0,Nevada,Green Bay Packers
+784,29,"Brice, Kentrell",DB,D,71,200,22,0,Louisiana Tech,Green Bay Packers
+785,25,"Evans, Marwin",DB,D,71,211,23,0,Utah State,Green Bay Packers
+786,27,"Lacy, Eddie",RB,O,71,234,26,4,Alabama,Green Bay Packers
+787,23,"Randall, Damarious",DB,D,71,196,24,2,Arizona State,Green Bay Packers
+788,24,"Rollins, Quinten",DB,D,71,195,24,2,Miami (Ohio),Green Bay Packers
+789,10,"Schum, Jacob",P,ST,71,211,27,2,Buffalo,Green Bay Packers
+790,37,"Shields, Sam",DB,D,71,184,28,7,Miami,Green Bay Packers
+791,20,"Dorleant, Makinton",DB,D,71,182,23,0,Northern Iowa,Green Bay Packers
+792,35,"Whitehead, Jermaine",DB,D,71,195,23,1,Auburn,Green Bay Packers
+793,39,"Goodson, Demetri",DB,D,71,197,27,3,Baylor,Green Bay Packers
+794,84,"Abbrederis, Jared",WR,O,73,195,25,3,Wisconsin,Green Bay Packers
+795,17,"Adams, Davante",WR,O,73,215,23,3,Fresno State,Green Bay Packers
+796,42,"Burnett, Morgan",DB,D,73,209,27,7,Georgia Tech,Green Bay Packers
+797,6,"Callahan, Joe",QB,O,73,216,23,0,Wesley,Green Bay Packers
+798,21,"Clinton-Dix, Ha Ha",DB,D,73,208,23,3,Alabama,Green Bay Packers
+799,2,"Crosby, Mason",K,ST,73,207,32,10,Colorado,Green Bay Packers
+800,11,"Davis, Trevor",WR,O,73,188,23,0,California,Green Bay Packers
+801,61,"Goode, Brett",LS,ST,73,255,31,9,Arkansas,Green Bay Packers
+802,99,"Ringo, Christian",DL,D,73,298,24,1,Louisiana-Lafayette,Green Bay Packers
+803,22,"Ripkowski, Aaron",RB,O,73,246,23,2,Oklahoma,Green Bay Packers
+804,48,"Thomas, Joe",LB,D,73,227,25,2,South Carolina State,Green Bay Packers
+805,54,"Bradford, Carl",LB,D,73,248,24,2,Arizona State,Green Bay Packers
+806,36,"Gunter, LaDarius",DB,D,74,201,24,2,Miami,Green Bay Packers
+807,50,"Martinez, Blake",LB,D,74,237,22,0,Stanford,Green Bay Packers
+808,12,"Rodgers, Aaron",QB,O,74,225,32,12,California,Green Bay Packers
+809,47,"Ryan, Jake",LB,D,74,240,24,2,Michigan,Green Bay Packers
+810,44,"Starks, James",RB,O,74,218,30,7,Buffalo,Green Bay Packers
+811,97,"Clark, Kenny",DL,D,75,314,20,0,UCLA,Green Bay Packers
+812,91,"Elliott, Jayrone",LB,D,75,255,24,3,Toledo,Green Bay Packers
+813,7,"Hundley, Brett",QB,O,75,226,23,2,UCLA,Green Bay Packers
+814,83,"Janis, Jeff",WR,O,75,219,25,3,Saginaw Valley State,Green Bay Packers
+815,52,"Matthews, Clay",LB,D,75,255,30,8,Southern California,Green Bay Packers
+816,87,"Nelson, Jordy",WR,O,75,217,31,9,Kansas State,Green Bay Packers
+817,80,"Perillo, Justin",TE,O,75,250,25,3,Maine,Green Bay Packers
+818,53,"Perry, Nick",LB,D,75,265,26,5,Southern California,Green Bay Packers
+819,65,"Taylor, Lane",OL,O,75,324,26,4,Oklahoma State,Green Bay Packers
+820,90,"Kuder, Tyler",DL,D,75,307,24,0,Idaho State,Green Bay Packers
+821,81,"Allison, Geronimo",WR,O,75,202,22,0,Illinois,Green Bay Packers
+822,93,"Gilbert, Reggie",LB,D,75,261,23,0,Arizona,Green Bay Packers
+823,62,"Patrick, Lucas",OL,O,75,313,23,0,Duke,Green Bay Packers
+824,96,"Price, Brian",DL,D,75,318,22,0,Texas-San Antonio,Green Bay Packers
+825,63,"Linsley, Corey",OL,O,75,301,25,3,Ohio State,Green Bay Packers
+826,69,"Bakhtiari, David",OL,O,76,310,24,4,Colorado,Green Bay Packers
+827,67,"Barclay, Don",OL,O,76,305,27,5,West Virginia,Green Bay Packers
+828,98,"Guion, Letroy",DL,D,76,322,29,9,Florida State,Green Bay Packers
+829,95,"Jones, Datone",DL,D,76,285,26,4,UCLA,Green Bay Packers
+830,70,"Lang, T.J.",OL,O,76,318,28,8,Eastern Michigan,Green Bay Packers
+831,82,"Rodgers, Richard",TE,O,76,257,24,3,California,Green Bay Packers
+832,73,"Tretter, JC",OL,O,76,307,25,4,Cornell,Green Bay Packers
+833,86,"Cajuste, Devon",TE,O,76,235,23,0,Stanford,Green Bay Packers
+834,64,"Pennel, Mike",DL,D,76,332,25,3,Colorado State-Pueblo,Green Bay Packers
+835,75,"Bulaga, Bryan",OL,O,77,314,27,7,Iowa,Green Bay Packers
+836,89,"Cook, Jared",TE,O,77,254,29,8,South Carolina,Green Bay Packers
+837,51,"Fackrell, Kyler",LB,D,77,245,24,0,Utah State,Green Bay Packers
+838,72,"Muir, Blake",OL,O,77,315,25,0,Baylor,Green Bay Packers
+839,94,"Lowry, Dean",DL,D,78,296,22,0,Northwestern,Green Bay Packers
+840,68,"Murphy, Kyle",OL,O,78,305,22,0,Stanford,Green Bay Packers
+841,78,"Spriggs, Jason",OL,O,78,301,22,0,Indiana,Green Bay Packers
+842,56,"Peppers, Julius",LB,D,79,287,36,15,North Carolina,Green Bay Packers
+843,76,"Daniels, Mike",DL,D,72,310,27,5,Iowa,Green Bay Packers
+844,33,"Hyde, Micah",DB,D,72,197,25,4,Iowa,Green Bay Packers
+845,88,"Montgomery, Ty",WR,O,72,216,23,2,Stanford,Green Bay Packers
+846,38,"Crockett, John",RB,O,72,217,24,1,North Dakota State,Green Bay Packers
+847,16,"Waters, Herb",WR,O,72,188,23,0,Miami,Green Bay Packers
+848,31,"James II, Charles",DB,D,69,185,26,3,Charleston Southern,Houston Texans
+849,34,"Ervin, Tyler",RB,O,70,185,22,0,San Jose State,Houston Texans
+850,41,"Grimes, Jonathan",RB,O,70,210,26,4,William & Mary,Houston Texans
+851,29,"Hal, Andre",DB,D,70,195,24,3,Vanderbilt,Houston Texans
+852,25,"Jackson, Kareem",DB,D,70,185,28,7,Alabama,Houston Texans
+853,26,"Miller, Lamar",RB,O,70,220,25,5,Miami (Fla.),Houston Texans
+854,35,"Pleasant, Eddie",DB,D,70,200,27,4,Oregon,Houston Texans
+855,46,"Weeks, Jon",LS,ST,70,250,30,7,Baylor,Houston Texans
+856,33,"Hunt, Akeem",RB,O,70,200,23,2,Purdue,Houston Texans
+857,32,"Nelson, Robert",DB,D,70,170,26,2,Arizona State,Houston Texans
+858,27,"Demps, Quintin",DB,D,71,210,31,9,Texas-El Paso,Houston Texans
+859,24,"Joseph, Johnathan",DB,D,71,185,32,11,South Carolina,Houston Texans
+860,50,"Dent, Akeem",LB,D,73,250,28,6,Georgia,Houston Texans
+861,10,"Hopkins, DeAndre",WR,O,73,215,24,4,Clemson,Houston Texans
+862,13,"Miller, Braxton",WR,O,73,205,23,0,Ohio State,Houston Texans
+863,45,"Prosch, Jay",RB,O,73,255,24,3,Auburn,Houston Texans
+864,51,"Simon, John",LB,D,73,260,25,4,Ohio State,Houston Texans
+865,23,"Drummond, Kurtis",DB,D,73,200,24,2,Michigan State,Houston Texans
+866,89,"Anderson, Stephen",TE,O,74,230,23,0,California,Houston Texans
+867,28,"Blue, Alfred",RB,O,74,225,25,3,LSU,Houston Texans
+868,95,"Covington, Christian",DL,D,74,305,22,2,Rice,Houston Texans
+869,9,"Lechler, Shane",P,ST,74,230,40,17,Texas A&M,Houston Texans
+870,43,"Moore, Corey",DB,D,74,200,23,1,Georgia,Houston Texans
+871,11,"Strong, Jaelen",WR,O,74,205,22,2,Arizona State,Houston Texans
+872,75,"Wilfork, Vince",DL,D,74,325,34,13,Miami (Fla.),Houston Texans
+873,48,"Rivers, Gerald",LB,D,74,250,26,2,Mississippi,Houston Texans
+874,14,"Bundrage, Quenton",WR,O,74,195,25,0,Iowa State,Houston Texans
+875,92,"Dunn, Brandon",DL,D,74,310,24,2,Louisville,Houston Texans
+876,42,"Rashad, Shakeel",LB,D,74,240,22,0,North Carolina,Houston Texans
+877,53,"Bullough, Max",LB,D,75,245,24,2,Michigan State,Houston Texans
+878,56,"Cushing, Brian",LB,D,75,255,29,8,Southern California,Houston Texans
+879,98,"Reader, D.J.",DL,D,75,335,22,0,Clemson,Houston Texans
+880,47,"Lee, Eric",LB,D,75,260,22,0,South Florida,Houston Texans
+881,39,"Ballentine, Lonnie",DB,D,75,225,23,3,Memphis,Houston Texans
+882,79,"Allen, Jeff",OL,O,76,306,26,5,Illinois,Houston Texans
+883,76,"Brown, Duane",OL,O,76,315,31,9,Virginia Tech,Houston Texans
+884,65,"Mancz, Greg",OL,O,76,310,24,2,Toledo,Houston Texans
+885,55,"McKinney, Benardrick",LB,D,76,260,23,2,Mississippi St.,Houston Texans
+886,59,"Mercilus, Whitney",LB,D,76,265,26,5,Illinois,Houston Texans
+887,52,"Peters, Brian",LB,D,76,240,27,2,Northwestern,Houston Texans
+888,3,"Savage, Tom",QB,O,76,230,26,3,Pittsburgh,Houston Texans
+889,57,"Scarlett, Brennan",LB,D,76,260,23,0,Stanford,Houston Texans
+890,71,"Su'a-Filo, Xavier",OL,O,76,320,25,3,UCLA,Houston Texans
+891,5,"Weeden, Brandon",QB,O,76,230,32,5,Oklahoma State,Houston Texans
+892,66,"Martin, Nick",OL,O,76,300,23,0,Notre Dame,Houston Texans
+893,49,"Washington Jr., Tony",LB,D,76,255,24,1,Oregon,Houston Texans
+894,78,"Aboushi, Oday",OL,O,77,308,25,4,Virginia,Houston Texans
+895,68,"Bergstrom, Tony",OL,O,77,315,30,5,Utah,Houston Texans
+896,74,"Clark, Chris",OL,O,77,305,30,8,Southern Mississippi,Houston Texans
+897,90,"Clowney, Jadeveon",LB,D,77,270,23,3,South Carolina,Houston Texans
+898,87,"Fiedorowicz, C.J.",TE,O,77,265,24,3,Iowa,Houston Texans
+899,91,"Still, Devon",DL,D,77,305,27,4,Penn State,Houston Texans
+900,99,"Watt, J.J.",DL,D,77,295,27,6,Wisconsin,Houston Texans
+901,62,"Slade, Chad",OL,O,77,315,24,2,Auburn,Houston Texans
+902,77,"Quessenberry, David",OL,O,77,306,26,4,San Jose State,Houston Texans
+903,84,"Griffin, Ryan",TE,O,78,265,26,4,Connecticut,Houston Texans
+904,93,"Heath, Joel",DL,D,78,300,23,0,Michigan State,Houston Texans
+905,63,"Lamm, Kendall",OL,O,78,310,24,2,Appalachian State,Houston Texans
+906,72,"Newton, Derek",OL,O,78,315,28,6,Arkansas State,Houston Texans
+907,94,"Kamalu, Ufomba",DL,D,78,295,23,0,Miami,Houston Texans
+908,83,"Tomlinson, Eric",TE,O,78,265,24,1,Texas-El Paso,Houston Texans
+909,73,"Cheek, Joseph",OL,O,79,311,23,0,Texas A&M,Houston Texans
+910,17,"Osweiler, Brock",QB,O,80,235,25,5,Arizona State,Houston Texans
+911,21,"Bouye, A.J.",DB,D,72,191,25,4,Central Florida,Houston Texans
+912,36,"Dillon, K.J.",DB,D,72,200,22,0,West Virginia,Houston Texans
+913,15,"Fuller, Will",WR,O,72,180,22,0,Notre Dame,Houston Texans
+914,30,"Johnson, Kevin",DB,D,72,185,24,2,Wake Forest,Houston Texans
+915,12,"Mumphery, Keith",WR,O,72,210,24,2,Michigan State,Houston Texans
+916,8,"Novak, Nick",K,ST,72,200,35,9,Maryland,Houston Texans
+917,7,"Fairbairn, Ka'imi",K,ST,72,190,22,0,UCLA,Houston Texans
+918,23,"Gore, Frank",RB,O,69,217,33,12,Miami (FL),Indianapolis Colts
+919,13,"Hilton, T.Y.",WR,O,69,180,26,5,Florida International,Indianapolis Colts
+920,28,"Todman, Jordan",RB,O,69,203,26,4,Connecticut,Indianapolis Colts
+921,37,"Williams, Frankie",DB,D,69,190,23,0,Purdue,Indianapolis Colts
+922,11,"Bray, Quan",WR,O,70,186,23,2,Auburn,Indianapolis Colts
+923,20,"Butler, Darius",DB,D,70,188,30,8,Connecticut,Indianapolis Colts
+924,15,"Dorsett, Phillip",WR,O,70,185,23,2,Miami,Indianapolis Colts
+925,34,"Ferguson, Josh",RB,O,70,200,23,0,Illinois,Indianapolis Colts
+926,35,"Morris, Darryl",DB,D,70,188,26,4,Texas State,Indianapolis Colts
+927,33,"Turbin, Robert",RB,O,70,225,26,5,Utah State,Indianapolis Colts
+928,29,"Adams, Mike",DB,D,71,205,35,13,Delaware,Indianapolis Colts
+929,21,"Davis, Vontae",DB,D,71,207,28,8,Illinois,Indianapolis Colts
+930,41,"Farley, Matthias",DB,D,71,210,24,0,Notre Dame,Indianapolis Colts
+931,25,"Robinson, Patrick",DB,D,71,191,29,7,Florida State,Indianapolis Colts
+932,40,"Milton, Christopher",DB,D,71,190,24,0,Georgia Tech,Indianapolis Colts
+933,27,"Guy, Winston",DB,D,73,220,26,4,Kentucky,Indianapolis Colts
+934,1,"McAfee, Pat",P,ST,73,233,29,8,West Virginia,Indianapolis Colts
+935,55,"Moore, Sio",LB,D,73,240,26,4,Connecticut,Indianapolis Colts
+936,44,"Morrison, Antonio",LB,D,73,235,21,0,Florida,Indianapolis Colts
+937,45,"Overton, Matt",LS,ST,73,243,31,5,Western Washington,Indianapolis Colts
+938,80,"Rogers, Chester",WR,O,73,180,22,0,Grambling State,Indianapolis Colts
+939,36,"Williamson, Andrew",DB,D,73,212,23,0,Vanderbilt,Indianapolis Colts
+940,31,"Cromartie, Antonio",DB,D,74,210,32,11,Florida State,Indianapolis Colts
+941,26,"Geathers, Clayton",DB,D,74,220,24,2,Central Florida,Indianapolis Colts
+942,94,"Kerr, Zach",DL,D,74,334,26,3,Delaware,Indianapolis Colts
+943,98,"Mathis, Robert",LB,D,74,245,35,14,Alabama A&M,Indianapolis Colts
+944,30,"Melvin, Rashaan",DB,D,74,193,26,4,Northern Illinois,Indianapolis Colts
+945,10,"Moncrief, Donte",WR,O,74,222,23,3,Mississippi,Indianapolis Colts
+946,54,"Parry, David",DL,D,74,310,24,2,Stanford,Indianapolis Colts
+947,16,"Tolzien, Scott",QB,O,74,213,29,6,Wisconsin,Indianapolis Colts
+948,93,"Walden, Erik",LB,D,74,250,31,9,Middle Tennessee State,Indianapolis Colts
+949,50,"Bates, Trevor",LB,D,74,247,23,0,Maine,Indianapolis Colts
+950,38,"Hightower, Lee",DB,D,74,200,23,0,Houston,Indianapolis Colts
+951,7,"Morris, Stephen",QB,O,74,218,24,1,Miami FL,Indianapolis Colts
+952,17,"Smith, Tevaun",WR,O,74,205,23,0,Iowa,Indianapolis Colts
+953,83,"Allen, Dwayne",TE,O,75,265,26,5,Clemson,Indianapolis Colts
+954,56,"Ayers, Akeem",LB,D,75,255,27,6,UCLA,Indianapolis Colts
+955,63,"Blythe, Austin",OL,O,75,298,24,0,Iowa,Indianapolis Colts
+956,58,"Cole, Trent",LB,D,75,270,33,12,Cincinnati,Indianapolis Colts
+957,32,"Green, T.J.",DB,D,75,205,21,0,Clemson,Indianapolis Colts
+958,92,"Maggitt, Curt",LB,D,75,250,23,0,Tennessee,Indianapolis Colts
+959,91,"Ridgeway, Hassan",DL,D,75,317,21,0,Texas,Indianapolis Colts
+960,69,"Thornton, Hugh",OL,O,75,320,25,4,Illinois,Indianapolis Colts
+961,65,"Bailey, Sterling",DL,D,75,296,24,0,Georgia,Indianapolis Colts
+962,97,"Jones, Arthur",DL,D,75,320,30,7,Syracuse,Indianapolis Colts
+963,72,"Harrison, Jonotthan",OL,O,76,300,25,3,Florida,Indianapolis Colts
+964,78,"Kelly, Ryan",OL,O,76,313,23,0,Alabama,Indianapolis Colts
+965,12,"Luck, Andrew",QB,O,76,240,27,5,Stanford,Indianapolis Colts
+966,62,"Clark, Le'Raven",OL,O,77,319,23,0,Texas Tech,Indianapolis Colts
+967,71,"Good, Denzelle",OL,O,77,355,25,2,Mars Hill,Indianapolis Colts
+968,86,"Swoope, Erik",TE,O,77,257,24,1,Miami (FL),Indianapolis Colts
+969,60,"Cage, Isiah",OL,O,77,312,23,0,Wis.-Eau Claire,Indianapolis Colts
+970,67,"Vujnovich, Jeremy",OL,O,77,300,25,1,Louisiana College,Indianapolis Colts
+971,96,"Anderson, Henry",DL,D,78,300,25,2,Stanford,Indianapolis Colts
+972,84,"Doyle, Jack",TE,O,78,267,26,4,Western Kentucky,Indianapolis Colts
+973,73,"Haeg, Joe",OL,O,78,304,23,0,North Dakota State,Indianapolis Colts
+974,90,"Langford, Kendall",DL,D,78,305,30,9,Hampton,Indianapolis Colts
+975,75,"Mewhort, Jack",OL,O,78,312,25,3,Ohio State,Indianapolis Colts
+976,80,"McFarland, Mike",TE,O,78,262,24,1,South Florida,Indianapolis Colts
+977,85,"Miller, Mike",TE,O,78,255,24,0,Taylor,Indianapolis Colts
+978,74,"Castonzo, Anthony",OL,O,79,311,28,6,Boston College,Indianapolis Colts
+979,76,"Reitz, Joe",OL,O,79,325,31,6,Western Michigan,Indianapolis Colts
+980,52,"Jackson, D'Qwell",LB,D,72,242,32,11,Maryland,Indianapolis Colts
+981,53,"Jackson, Edwin",LB,D,72,230,24,1,Georgia Southern,Indianapolis Colts
+982,99,"McGill, T.Y.",DL,D,72,310,23,2,North Carolina State,Indianapolis Colts
+983,57,"McNary, Josh",LB,D,72,251,28,3,Army,Indianapolis Colts
+984,4,"Vinatieri, Adam",K,ST,72,206,43,21,South Dakota State,Indianapolis Colts
+985,39,"Glover-Wright, Tay",DB,D,72,180,24,1,Utah State,Indianapolis Colts
+986,14,"Wynn, Shane",WR,O,66,166,23,1,Indiana,Jacksonville Jaguars
+987,29,"Johnson, Josh",DB,D,70,195,26,1,Purdue University,Jacksonville Jaguars
+988,2,"Myers, Jason",K,ST,70,195,25,2,Marist,Jacksonville Jaguars
+989,25,"Thompson, Peyton",DB,D,70,189,25,2,San Jose State,Jacksonville Jaguars
+990,34,"Hill, Bronson",RB,O,70,215,23,1,Eastern Michigan,Jacksonville Jaguars
+991,30,"Grant, Corey",RB,O,71,204,24,2,Auburn,Jacksonville Jaguars
+992,27,"Gratz, Dwayne",DB,D,71,199,26,4,Connecticut,Jacksonville Jaguars
+993,13,"Greene Sr., Rashad",WR,O,71,190,23,2,Florida State,Jacksonville Jaguars
+994,26,"Huff, Marqueston",DB,D,71,196,24,3,Wyoming,Jacksonville Jaguars
+995,20,"Ramsey, Jalen",DB,D,73,211,21,0,Florida St.,Jacksonville Jaguars
+996,98,"Smith, Chris",DL,D,73,262,24,3,Arkansas,Jacksonville Jaguars
+997,24,"Yeldon, T.J.",RB,O,73,223,22,2,Alabama,Jacksonville Jaguars
+998,41,"Marshall, Nick",DB,D,73,205,24,2,Auburn,Jacksonville Jaguars
+999,53,"Porter, Sean",LB,D,73,231,25,4,Texas A&M,Jacksonville Jaguars
+1000,17,"Benn, Arrelious",WR,O,74,222,28,6,Illinois,Jacksonville Jaguars
+1001,99,"Marks, Sen'Derrick",DL,D,74,309,29,8,Auburn,Jacksonville Jaguars
+1002,97,"Miller, Roy",DL,D,74,318,29,8,Texas,Jacksonville Jaguars
+1003,3,"Nortman, Brad",P,ST,74,218,27,5,Wisconsin,Jacksonville Jaguars
+1004,51,"Posluszny, Paul",LB,D,74,232,31,10,Penn State,Jacksonville Jaguars
+1005,55,"Skuta, Dan",LB,D,74,252,30,8,Grand Valley State,Jacksonville Jaguars
+1006,47,"Wilson, Jarrod",DB,D,74,209,22,0,Michigan,Jacksonville Jaguars
+1007,96,"Bennett, Michael",DL,D,74,300,23,2,Ohio State,Jacksonville Jaguars
+1008,23,"Sample, James",DB,D,74,215,24,2,Louisville,Jacksonville Jaguars
+1009,18,"Lawrence, Rashad",WR,O,74,203,24,2,Northwestern,Jacksonville Jaguars
+1010,93,"Alualu, Tyson",DL,D,75,304,29,7,California,Jacksonville Jaguars
+1011,68,"Beachum, Kelvin",OL,O,75,316,27,5,Southern Methodist,Jacksonville Jaguars
+1012,60,"Cann, A.J.",OL,O,75,317,24,2,South Carolina,Jacksonville Jaguars
+1013,56,"Fowler Jr., Dante",DL,D,75,250,22,2,Florida,Jacksonville Jaguars
+1014,7,"Henne, Chad",QB,O,75,219,31,9,Michigan,Jacksonville Jaguars
+1015,88,"Hurns, Allen",WR,O,75,201,24,3,Miami (Fla.),Jacksonville Jaguars
+1016,15,"Robinson, Allen",WR,O,75,218,23,3,Penn State,Jacksonville Jaguars
+1017,69,"Shatley, Tyler",OL,O,75,306,25,3,Clemson,Jacksonville Jaguars
+1018,50,"Smith, Telvin",LB,D,75,218,25,3,Florida State,Jacksonville Jaguars
+1019,87,"Sterling, Neal",TE,O,75,254,24,2,Monmouth (N.J.),Jacksonville Jaguars
+1020,94,"Ash, Richard",DL,D,75,325,24,1,Western Michigan,Jacksonville Jaguars
+1021,95,"Jones, Abry",DL,D,76,318,25,4,Georgia,Jacksonville Jaguars
+1022,77,"Omameh, Patrick",OL,O,76,316,26,4,Michigan,Jacksonville Jaguars
+1023,48,"Ellis, Alex",TE,O,76,253,23,0,Tennessee,Jacksonville Jaguars
+1024,5,"Bortles, Blake",QB,O,77,239,24,3,Central Florida,Jacksonville Jaguars
+1025,90,"Jackson, Malik",DL,D,77,300,26,5,Tennessee,Jacksonville Jaguars
+1026,83,"Koyack, Ben",TE,O,77,269,23,1,Notre Dame,Jacksonville Jaguars
+1027,75,"Odrick, Jared",DL,D,77,298,28,6,Penn State,Jacksonville Jaguars
+1028,64,"Reed, Chris",OL,O,77,310,24,1,Minnesota State,Jacksonville Jaguars
+1029,80,"Thomas, Julius",TE,O,77,256,28,6,Portland State,Jacksonville Jaguars
+1030,73,"Poutasi, Jeremiah",OL,O,77,335,22,2,Utah,Jacksonville Jaguars
+1031,NA,"Hawkinson, Tanner",OL,O,77,300,26,2,Kansas,Jacksonville Jaguars
+1032,76,"Joeckel, Luke",OL,O,78,312,24,4,Texas A&M,Jacksonville Jaguars
+1033,89,"Lewis, Marcedes",TE,O,78,280,32,10,UCLA,Jacksonville Jaguars
+1034,65,"Linder, Brandon",OL,O,78,309,24,3,Miami (Fla.),Jacksonville Jaguars
+1035,78,"Parnell, Jermey",OL,O,78,323,30,6,Mississippi,Jacksonville Jaguars
+1036,62,"Linkenbach, Jeffrey",OL,O,78,319,29,7,Cincinnati,Jacksonville Jaguars
+1037,72,"Wells, Josh",OL,O,78,305,25,3,James Madison,Jacksonville Jaguars
+1038,67,"Hill, Rashod",OL,O,78,303,24,0,Southern Miss,Jacksonville Jaguars
+1039,70,"Bowanko, Luke",OL,O,78,306,25,3,Virginia,Jacksonville Jaguars
+1040,21,"Amukamara, Prince",DB,D,72,202,27,6,Nebraska,Jacksonville Jaguars
+1041,59,"Brown, Arthur",LB,D,72,240,26,4,Kansas State,Jacksonville Jaguars
+1042,37,"Cyprien, Johnathan",DB,D,72,217,26,4,Florida International,Jacksonville Jaguars
+1043,39,"Gipson, Tashaun",DB,D,72,210,26,5,Wyoming,Jacksonville Jaguars
+1044,31,"House, Davon",DB,D,72,200,27,6,New Mexico State,Jacksonville Jaguars
+1045,33,"Ivory, Chris",RB,O,72,224,28,7,Tiffin University,Jacksonville Jaguars
+1046,11,"Lee, Marqise",WR,O,72,200,24,3,Southern California,Jacksonville Jaguars
+1047,52,"Pullard, Hayes",LB,D,72,233,24,2,USC,Jacksonville Jaguars
+1048,16,"Robinson, Denard",RB,O,72,213,25,4,Michigan,Jacksonville Jaguars
+1049,46,"Tinker, Carson",LS,ST,72,239,26,4,Alabama,Jacksonville Jaguars
+1050,81,"Walters, Bryan",WR,O,72,195,28,5,Cornell,Jacksonville Jaguars
+1051,22,"Colvin, Aaron",DB,D,72,193,24,3,Oklahoma,Jacksonville Jaguars
+1052,10,"Allen, Brandon",QB,O,73,219,24,0,Arkansas,Jacksonville Jaguars
+1053,92,"Day, Sheldon",DL,D,73,293,22,0,Notre Dame,Jacksonville Jaguars
+1054,44,"Jack, Myles",LB,D,73,247,21,0,UCLA,Jacksonville Jaguars
+1055,91,"Ngakoue, Yannick",DL,D,74,246,21,0,Maryland,Jacksonville Jaguars
+1056,66,"Woodard, Jonathan",DL,D,78,271,23,0,Central Arkansas,Jacksonville Jaguars
+1057,5,"Santos, Cairo",K,ST,68,160,24,3,Tulane,Kansas City Chiefs
+1058,13,"Thomas, De'Anthony",WR,O,68,176,23,3,Oregon,Kansas City Chiefs
+1059,12,"Wilson, Albert",WR,O,69,200,24,3,Georgia State,Kansas City Chiefs
+1060,34,"Davis, Knile",RB,O,70,227,24,4,Arkansas,Kansas City Chiefs
+1061,10,"Hill, Tyreek",WR,O,70,185,22,0,West Alabama,Kansas City Chiefs
+1062,42,"Sherman, Anthony",RB,O,70,242,27,6,Connecticut,Kansas City Chiefs
+1063,32,"Ware, Spencer",RB,O,70,229,24,3,LSU,Kansas City Chiefs
+1064,35,"West, Charcandrick",RB,O,70,205,25,3,Abilene Christian,Kansas City Chiefs
+1065,31,"Reaves, Darrin",RB,O,70,215,23,2,Alabama-Birmingham,Kansas City Chiefs
+1066,25,"Charles, Jamaal",RB,O,71,199,29,9,Texas,Kansas City Chiefs
+1067,21,"Murray, Eric",DB,D,71,199,22,0,Minnesota,Kansas City Chiefs
+1068,20,"Nelson, Steven",DB,D,71,194,23,2,Oregon State,Kansas City Chiefs
+1069,24,"White, D.J.",DB,D,71,193,23,0,Georgia Tech,Kansas City Chiefs
+1070,39,"Mitchell, Terrance",DB,D,71,190,24,3,Oregon,Kansas City Chiefs
+1071,94,"Barrington, Sam",LB,D,73,240,25,4,South Florida,Kansas City Chiefs
+1072,14,"Robinson, Demarcus",WR,O,73,203,21,0,Florida,Kansas City Chiefs
+1073,48,"Harris, Vernon",DB,D,73,197,22,0,Dartmouth,Kansas City Chiefs
+1074,90,"Mauga, Josh",LB,D,73,245,29,7,Nevada,Kansas City Chiefs
+1075,85,"Hammond, Frankie",WR,O,73,184,26,3,Florida,Kansas City Chiefs
+1076,57,"Alexander, D.J.",LB,D,74,233,24,2,Oregon State,Kansas City Chiefs
+1077,55,"Ford, Dee",LB,D,74,252,25,3,Auburn,Kansas City Chiefs
+1078,54,"Moses, Dezman",LB,D,74,249,27,5,Tulane,Kansas City Chiefs
+1079,49,"Sorensen, Daniel",DB,D,74,208,26,3,Brigham Young,Kansas City Chiefs
+1080,40,"Millard, Trey",RB,O,74,247,25,2,Oklahoma,Kansas City Chiefs
+1081,48,"Smith, Terrance",LB,D,74,235,23,0,Florida State,Kansas City Chiefs
+1082,53,"Wilson, Ramik",LB,D,74,237,24,2,Georgia,Kansas City Chiefs
+1083,97,"Bailey, Allen",DL,D,75,288,27,6,Miami (Fla.),Kansas City Chiefs
+1084,2,"Colquitt, Dustin",P,ST,75,210,34,12,Tennessee,Kansas City Chiefs
+1085,17,"Conley, Chris",WR,O,75,205,23,2,Georgia,Kansas City Chiefs
+1086,91,"Hali, Tamba",LB,D,75,275,32,11,Penn State,Kansas City Chiefs
+1087,96,"Howard, Jaye",DL,D,75,301,27,5,Florida,Kansas City Chiefs
+1088,56,"Johnson, Derrick",LB,D,75,242,33,12,Texas,Kansas City Chiefs
+1089,52,"Nicolas, Dadi",LB,D,75,235,23,0,Virginia Tech,Kansas City Chiefs
+1090,92,"Poe, Dontari",DL,D,75,346,26,5,Memphis,Kansas City Chiefs
+1091,41,"Winchester, James",LS,ST,75,240,27,2,Oklahoma,Kansas City Chiefs
+1092,51,"Zombo, Frank",LB,D,75,254,29,7,Central Michigan,Kansas City Chiefs
+1093,6,"Jones, Seantavius",WR,O,75,200,24,1,Valdosta State,Kansas City Chiefs
+1094,50,"Houston, Justin",LB,D,75,258,27,6,Georgia,Kansas City Chiefs
+1095,80,"O'Shaughnessy, James",TE,O,76,245,24,2,Illinois State,Kansas City Chiefs
+1096,11,"Smith, Alex",QB,O,76,217,32,12,Utah,Kansas City Chiefs
+1097,98,"Williams, Nick",DL,D,76,309,26,3,Samford,Kansas City Chiefs
+1098,6,"Cook, Kenny",WR,O,76,218,24,1,Gardner-Webb,Kansas City Chiefs
+1099,93,"King, David",DL,D,76,281,26,2,Oklahoma,Kansas City Chiefs
+1100,60,"Pughsley, Jarrod",OL,O,76,310,25,1,Akron,Kansas City Chiefs
+1101,76,"Duvernay-Tardif, Laurent",OL,O,77,321,25,3,McGill (Canada),Kansas City Chiefs
+1102,73,"Fulton, Zach",OL,O,77,316,24,3,Tennessee,Kansas City Chiefs
+1103,87,"Kelce, Travis",TE,O,77,260,26,4,Cincinnati,Kansas City Chiefs
+1104,71,"Schwartz, Mitchell",OL,O,77,320,27,5,California,Kansas City Chiefs
+1105,9,"Bray, Tyler",QB,O,78,215,24,4,Tennessee,Kansas City Chiefs
+1106,77,"Devey, Jordan",OL,O,78,320,28,2,Memphis,Kansas City Chiefs
+1107,79,"Ehinger, Parker",OL,O,78,310,23,0,Cincinnati,Kansas City Chiefs
+1108,4,"Foles, Nick",QB,O,78,243,27,4,Arizona,Kansas City Chiefs
+1109,95,"Jones, Chris",DL,D,78,308,22,0,Mississippi State,Kansas City Chiefs
+1110,61,"Morse, Mitch",OL,O,78,305,24,2,Missouri,Kansas City Chiefs
+1111,44,"Okine, Earl",LB,D,78,290,26,1,Florida,Kansas City Chiefs
+1112,72,"Fisher, Eric",OL,O,79,315,25,4,Central Michigan,Kansas City Chiefs
+1113,84,"Harris, Demetrius",TE,O,79,230,25,3,Wis.-Milwaukee,Kansas City Chiefs
+1114,75,"Reid, Jah",OL,O,79,325,28,6,Central Florida,Kansas City Chiefs
+1115,88,"Travis, Ross",TE,O,79,235,23,1,Penn State,Kansas City Chiefs
+1116,70,"Witzmann, Bryan",OL,O,79,320,26,1,South Dakota State,Kansas City Chiefs
+1117,27,"Acker, Kenneth",DB,D,72,195,24,3,Southern Methodist,Kansas City Chiefs
+1118,29,"Berry, Eric",DB,D,72,212,27,7,Tennessee,Kansas City Chiefs
+1119,23,"Gaines, Phillip",DB,D,72,193,25,3,Rice,Kansas City Chiefs
+1120,19,"Maclin, Jeremy",WR,O,72,198,28,8,Missouri,Kansas City Chiefs
+1121,59,"March-Lillard, Justin",LB,D,72,222,23,2,Akron,Kansas City Chiefs
+1122,38,"Parker, Ron",DB,D,72,206,29,6,Newberry,Kansas City Chiefs
+1123,22,"Peters, Marcus",DB,D,72,197,23,2,Washington,Kansas City Chiefs
+1124,11,"Austin, Tavon",WR,O,68,176,25,4,West Virginia,Los Angeles Rams
+1125,20,"Joyner, Lamarcus",DB,D,68,184,25,3,Florida State,Los Angeles Rams
+1126,27,"Mason, Tre",RB,O,68,207,23,3,Auburn,Los Angeles Rams
+1127,24,"Countess, Blake",DB,D,69,184,23,0,Auburn,Los Angeles Rams
+1128,23,"Cunningham, Benny",RB,O,70,217,26,4,Middle Tennessee State,Los Angeles Rams
+1129,33,"Gaines, E.J.",DB,D,70,190,24,3,Missouri,Los Angeles Rams
+1130,32,"Hill, Troy",DB,D,70,182,25,1,Oregon,Los Angeles Rams
+1131,15,"Marquez, Bradley",WR,O,70,196,23,2,Texas Tech,Los Angeles Rams
+1132,41,"Williams, Steve",DB,D,70,185,25,4,California,Los Angeles Rams
+1133,39,"Brown, Malcolm",RB,O,71,224,23,1,Texas,Los Angeles Rams
+1134,10,"Cooper, Pharoh",WR,O,71,207,21,0,South Carolina,Los Angeles Rams
+1135,21,"Sensabaugh, Coty",DB,D,71,187,27,5,Clemson,Los Angeles Rams
+1136,31,"Alexander, Maurice",DB,D,73,220,25,3,Utah State,Los Angeles Rams
+1137,38,"Davis, Cody",DB,D,73,206,27,4,Texas Tech,Los Angeles Rams
+1138,99,"Donald, Aaron",DL,D,73,285,25,3,Pittsburgh,Los Angeles Rams
+1139,30,"Gurley, Todd",RB,O,73,227,22,2,Georgia,Los Angeles Rams
+1140,54,"Hager, Bryce",LB,D,73,235,24,2,Baylor,Los Angeles Rams
+1141,17,"Keenum, Case",QB,O,73,205,28,5,Houston,Los Angeles Rams
+1142,13,"Thomas, Mike",WR,O,73,200,22,0,Southern Miss,Los Angeles Rams
+1143,62,"Trinca-Pasat, Louis",DL,D,73,292,25,1,Iowa,Los Angeles Rams
+1144,27,"Johnson, Isaiah",DB,D,73,202,24,2,Georgia Tech,Los Angeles Rams
+1145,26,"Barron, Mark",LB,D,74,213,26,5,Alabama,Los Angeles Rams
+1146,91,"Easley, Dominique",DL,D,74,285,24,3,Florida,Los Angeles Rams
+1147,22,"Johnson, Trumaine",DB,D,74,208,26,5,Montana,Los Angeles Rams
+1148,25,"McDonald, T.J.",DB,D,74,217,25,4,USC,Los Angeles Rams
+1149,44,"McQuaide, Jake",LS,ST,74,244,28,6,Ohio State,Los Angeles Rams
+1150,52,"Ogletree, Alec",LB,D,74,245,24,4,Georgia,Los Angeles Rams
+1151,65,"Rhaney, Demetrius",OL,O,74,301,24,3,Tennessee State,Los Angeles Rams
+1152,45,"Laskey, Zach",RB,O,74,225,24,1,Georgia Tech,Los Angeles Rams
+1153,18,"Britt, Kenny",WR,O,75,223,28,8,Rutgers,Los Angeles Rams
+1154,59,"Forrest, Josh",LB,D,75,249,24,0,Kentucky,Los Angeles Rams
+1155,95,"Hayes, William",DL,D,75,278,31,9,Winston-Salem State,Los Angeles Rams
+1156,88,"Kendricks, Lance",TE,O,75,250,28,6,Wisconsin,Los Angeles Rams
+1157,96,"Longacre, Matt",DL,D,75,260,24,2,Northwest Missouri State,Los Angeles Rams
+1158,83,"Quick, Brian",WR,O,75,218,27,5,Appalachian State,Los Angeles Rams
+1159,61,"Barnes, Tim",OL,O,76,306,28,5,Missouri,Los Angeles Rams
+1160,68,"Brown, Jamon",OL,O,76,323,23,2,Louisville,Los Angeles Rams
+1161,16,"Goff, Jared",QB,O,76,215,21,0,California,Los Angeles Rams
+1162,46,"Harkey, Cory",TE,O,76,259,26,5,UCLA,Los Angeles Rams
+1163,89,"Higbee, Tyler",TE,O,76,243,23,0,Western Kentucky,Los Angeles Rams
+1164,94,"Quinn, Robert",DL,D,76,264,26,6,North Carolina,Los Angeles Rams
+1165,92,"Thomas, Cam",DL,D,76,335,29,7,North Carolina,Los Angeles Rams
+1166,93,"Westbrooks, Ethan",DL,D,76,267,25,3,West Texas A&M,Los Angeles Rams
+1167,3,"North, Marquez",WR,O,76,216,21,0,Tennessee,Los Angeles Rams
+1168,63,"Williams, Darrell",OL,O,76,301,23,2,South Florida,Los Angeles Rams
+1169,90,"Brockers, Michael",DL,D,77,326,25,5,LSU,Los Angeles Rams
+1170,6,"Hekker, Johnny",P,ST,77,236,26,5,Oregon State,Los Angeles Rams
+1171,84,"Hemingway, Temarrick",TE,O,77,244,23,0,South Carolina State,Los Angeles Rams
+1172,73,"Robinson, Greg",OL,O,77,332,23,3,Auburn,Los Angeles Rams
+1173,76,"Saffold, Rodger",OL,O,77,332,28,7,Indiana,Los Angeles Rams
+1174,69,"Wichmann, Cody",OL,O,77,319,24,2,Fresno State,Los Angeles Rams
+1175,66,"Arkin, David",OL,O,77,307,28,3,Missouri State,Los Angeles Rams
+1176,64,"Donnal, Andrew",OL,O,78,316,24,2,Iowa,Los Angeles Rams
+1177,14,"Mannion, Sean",QB,O,78,233,24,2,Oregon State,Los Angeles Rams
+1178,97,"Sims, Eugene",DL,D,78,269,30,7,West Texas A&M,Los Angeles Rams
+1179,81,"Williams, Bryce",TE,O,78,260,23,0,East Carolina,Los Angeles Rams
+1180,79,"Havenstein, Rob",OL,O,79,321,24,2,Wisconsin,Los Angeles Rams
+1181,77,"Battle, Isaiah",OL,O,79,290,23,2,Clemson,Los Angeles Rams
+1182,36,"Green, Aaron",RB,O,71,201,23,0,TCU,Los Angeles Rams
+1183,34,"Reynolds, Chase",RB,O,72,205,28,4,Montana,Los Angeles Rams
+1184,4,"Zuerlein, Greg",K,ST,72,196,28,5,Missouri Western State,Los Angeles Rams
+1185,43,"Randolph, Brian",DB,D,72,198,23,0,Tennessee,Los Angeles Rams
+1186,35,"Jordan, Mike",DB,D,72,200,23,0,Missouri Western,Los Angeles Rams
+1187,86,"Spruce, Nelson",WR,O,73,205,23,0,Colorado,Los Angeles Rams
+1188,53,"Chubb, Brandon",LB,D,73,240,22,0,Wake Forest,Los Angeles Rams
+1189,58,"Littleton, Cory",LB,D,75,227,22,0,Washington,Los Angeles Rams
+1190,8,"McRoberts, Paul",WR,O,75,192,23,0,Southeast Missouri State,Los Angeles Rams
+1191,70,"Fox, Morgan",DL,D,76,259,22,0,Colorado State-Pueblo,Los Angeles Rams
+1192,72,"Murphy, Pace",OL,O,78,295,22,0,Northwestern State,Los Angeles Rams
+1193,19,"Grant, Jakeem",WR,O,67,172,23,0,Texas Tech,Miami Dolphins
+1194,33,"Ekpre-Olomu, Ifo",DB,D,69,200,23,1,Oregon,Miami Dolphins
+1195,22,"Pead, Isaiah",RB,O,70,206,26,4,Cincinnati,Miami Dolphins
+1196,14,"Landry, Jarvis",WR,O,71,206,23,3,Louisiana State,Miami Dolphins
+1197,28,"McCain, Bobby",DB,D,71,192,23,2,Memphis,Miami Dolphins
+1198,31,"Thomas, Michael",DB,D,71,193,26,4,Stanford,Miami Dolphins
+1199,26,"Williams, Damien",RB,O,71,228,24,3,Oklahoma,Miami Dolphins
+1200,40,"Pitts, Lafayette",DB,D,71,196,23,0,Pittsburgh,Miami Dolphins
+1201,24,"Abdul-Quddus, Isa",DB,D,73,196,27,6,Fordham,Miami Dolphins
+1202,35,"Aikens, Walt",DB,D,73,218,25,3,Liberty,Miami Dolphins
+1203,56,"Butler, Donald",LB,D,73,242,27,7,Washington,Miami Dolphins
+1204,88,"Carroo, Leonte",WR,O,73,217,22,0,Rutgers,Miami Dolphins
+1205,4,"Darr, Matt",P,ST,73,214,24,2,Tennessee,Miami Dolphins
+1206,32,"Drake, Kenyan",RB,O,73,216,22,0,Alabama,Miami Dolphins
+1207,29,"Foster, Arian",RB,O,73,227,30,8,Tennessee,Miami Dolphins
+1208,3,"Franks, Andrew",K,ST,73,202,23,2,Rensselaer Polytechnic Inst.,Miami Dolphins
+1209,25,"Howard, Xavien",DB,D,73,198,23,0,Baylor,Miami Dolphins
+1210,52,"Jones, Chris",DL,D,73,293,26,4,Bowling Green,Miami Dolphins
+1211,20,"Jones, Reshad",DB,D,73,214,28,7,Georgia,Miami Dolphins
+1212,41,"Maxwell, Byron",DB,D,73,203,28,6,Clemson,Miami Dolphins
+1213,46,"Hewitt, Neville",LB,D,74,232,23,2,Marshall,Miami Dolphins
+1214,42,"Paysinger, Spencer",LB,D,74,249,28,6,Oregon,Miami Dolphins
+1215,73,"Warmsley, Julius",DL,D,74,294,26,1,Tulane,Miami Dolphins
+1216,83,"Duarte, Thomas",TE,O,74,241,21,0,UCLA,Miami Dolphins
+1217,87,"Scott, Rashawn",WR,O,74,204,24,0,Miami (Fla.),Miami Dolphins
+1218,58,"Watts, Brandon",LB,D,74,231,25,3,Georgia Tech,Miami Dolphins
+1219,49,"Vigil, Zach",LB,D,74,240,25,2,Utah State,Miami Dolphins
+1220,47,"Alonso, Kiko",LB,D,75,239,26,4,Oregon,Miami Dolphins
+1221,36,"Lippett, Tony",DB,D,75,194,24,2,Michigan St.,Miami Dolphins
+1222,55,"Misi, Koa",LB,D,75,256,29,7,Utah,Miami Dolphins
+1223,8,"Moore, Matt",QB,O,75,225,32,9,Oregon State,Miami Dolphins
+1224,11,"Parker, DeVante",WR,O,75,212,23,2,Louisville,Miami Dolphins
+1225,65,"Steen, Anthony",OL,O,75,313,26,1,Alabama,Miami Dolphins
+1226,91,"Wake, Cameron",DL,D,75,263,34,8,Penn State,Miami Dolphins
+1227,90,"Mitchell, Earl",DL,D,75,310,28,7,Arizona,Miami Dolphins
+1228,78,"Fede, Terrence",DL,D,76,267,24,3,Marist,Miami Dolphins
+1229,48,"Gray, MarQueis",TE,O,76,255,26,4,Minnesota,Miami Dolphins
+1230,15,"Hunter, Justin",WR,O,76,203,25,4,Tennessee,Miami Dolphins
+1231,80,"Sims, Dion",TE,O,76,271,25,4,Michigan State,Miami Dolphins
+1232,93,"Suh, Ndamukong",DL,D,76,305,29,7,Nebraska,Miami Dolphins
+1233,17,"Tannehill, Ryan",QB,O,76,216,28,5,Texas A&M,Miami Dolphins
+1234,75,"Douglas, Jamil",OL,O,76,308,24,2,Arizona State,Miami Dolphins
+1235,72,"Laing, Cleyon",DL,D,76,299,25,1,Iowa State,Miami Dolphins
+1236,69,"Williams, Jordan",DL,D,76,276,23,1,Tennessee,Miami Dolphins
+1237,76,"Albert, Branden",OL,O,77,314,31,9,Virginia,Miami Dolphins
+1238,50,"Branch, Andre",DL,D,77,263,27,5,Clemson,Miami Dolphins
+1239,74,"Bushrod, Jermon",OL,O,77,320,32,10,Towson,Miami Dolphins
+1240,84,"Cameron, Jordan",TE,O,77,265,28,6,Southern California,Miami Dolphins
+1241,92,"Denney, John",LS,ST,77,242,37,12,Brigham Young,Miami Dolphins
+1242,98,"Jones, Jason",DL,D,77,278,30,9,Eastern Michigan,Miami Dolphins
+1243,51,"Pouncey, Mike",OL,O,77,299,27,6,Florida,Miami Dolphins
+1244,63,"Thomas, Dallas",OL,O,77,316,26,4,Tennessee,Miami Dolphins
+1245,67,"Tunsil, Laremy",OL,O,77,316,22,0,Mississippi,Miami Dolphins
+1246,77,"Turner, Billy",OL,O,77,310,24,3,North Dakota St.,Miami Dolphins
+1247,60,"Urbik, Kraig",OL,O,77,334,30,8,Wisconsin,Miami Dolphins
+1248,68,"John, Ulrick",OL,O,77,307,24,3,Georgia State,Miami Dolphins
+1249,70,"James, Ja'Wuan",OL,O,78,307,24,3,Tennessee,Miami Dolphins
+1250,97,"Phillips, Jordan",DL,D,78,335,23,2,Oklahoma,Miami Dolphins
+1251,94,"Williams, Mario",DL,D,78,300,31,11,North Carolina State,Miami Dolphins
+1252,95,"Jordan, Dion",DL,D,78,275,26,3,Oregon,Miami Dolphins
+1253,23,"Ajayi, Jay",RB,O,72,229,23,2,Boise State,Miami Dolphins
+1254,45,"Hull, Mike",LB,D,72,237,25,1,Penn State,Miami Dolphins
+1255,53,"Jenkins, Jelani",LB,D,72,240,24,4,Florida,Miami Dolphins
+1256,21,"Lucas, Jordan",DB,D,72,204,23,0,Penn St.,Miami Dolphins
+1257,10,"Stills, Kenny",WR,O,72,195,24,4,Oklahoma,Miami Dolphins
+1258,37,"Hendy, A.J.",DB,D,72,209,23,0,Maryland,Miami Dolphins
+1259,1,"Culliver, Chris",DB,D,72,199,28,6,South Carolina,Miami Dolphins
+1260,21,"McKinnon, Jerick",RB,O,69,205,24,3,Georgia Southern,Minnesota Vikings
+1261,24,"Munnerlyn, Captain",DB,D,69,195,28,8,South Carolina,Minnesota Vikings
+1262,20,"Alexander, Mackensie",DB,D,70,192,22,0,Clemson,Minnesota Vikings
+1263,23,"Newman, Terence",DB,D,70,197,38,14,Kansas State,Minnesota Vikings
+1264,35,"Sherels, Marcus",DB,D,70,175,28,6,Minnesota,Minnesota Vikings
+1265,3,"Walsh, Blair",K,ST,70,170,26,5,Georgia,Minnesota Vikings
+1266,17,"Wright, Jarius",WR,O,70,191,26,5,Arkansas,Minnesota Vikings
+1267,25,"Price, Jabari",DB,D,71,200,24,3,North Carolina,Minnesota Vikings
+1268,30,"Ham, C.J.",RB,O,71,235,23,0,Augustana,Minnesota Vikings
+1269,40,"Brothers, Kentrell",LB,D,73,242,23,0,Missouri,Minnesota Vikings
+1270,41,"Harris, Anthony",DB,D,73,192,24,2,Virginia,Minnesota Vikings
+1271,48,"Line, Zach",RB,O,73,233,26,4,SMU,Minnesota Vikings
+1272,28,"Peterson, Adrian",RB,O,73,220,31,10,Oklahoma,Minnesota Vikings
+1273,29,"Rhodes, Xavier",DB,D,73,218,26,4,Florida State,Minnesota Vikings
+1274,34,"Sendejo, Andrew",DB,D,73,210,29,6,Rice,Minnesota Vikings
+1275,6,"Heinicke, Taylor",QB,O,73,210,23,2,Old Dominion,Minnesota Vikings
+1276,12,"Johnson, Charles",WR,O,74,217,27,4,Grand Valley State,Minnesota Vikings
+1277,84,"Patterson, Cordarrelle",WR,O,74,220,25,4,Tennessee,Minnesota Vikings
+1278,83,"Pruitt, Mycole",TE,O,74,258,24,2,Southern Illinois,Minnesota Vikings
+1279,22,"Smith, Harrison",DB,D,74,214,27,5,Notre Dame,Minnesota Vikings
+1280,19,"Thielen, Adam",WR,O,74,200,26,3,Minnesota State,Minnesota Vikings
+1281,11,"Treadwell, Laquon",WR,O,74,215,21,0,Ole Miss,Minnesota Vikings
+1282,5,"Bridgewater, Teddy",QB,O,74,215,23,3,Louisville,Minnesota Vikings
+1283,31,"Wilson, Julian",DB,D,74,200,24,2,Oklahoma,Minnesota Vikings
+1284,62,"Easton, Nick",OL,O,75,303,24,2,Harvard,Minnesota Vikings
+1285,73,"Floyd, Sharrif",DL,D,75,311,25,4,Florida,Minnesota Vikings
+1286,52,"Greenway, Chad",LB,D,75,237,33,11,Iowa,Minnesota Vikings
+1287,97,"Griffen, Everson",DL,D,75,273,28,7,USC,Minnesota Vikings
+1288,13,"Hill, Shaun",QB,O,75,230,36,15,Maryland,Minnesota Vikings
+1289,92,"Johnson, Tom",DL,D,75,288,32,6,Southern Mississippi,Minnesota Vikings
+1290,51,"Robinson, Edmond",LB,D,75,245,24,2,Newberry,Minnesota Vikings
+1291,96,"Robison, Brian",DL,D,75,259,33,10,Texas,Minnesota Vikings
+1292,95,"Crichton, Scott",DL,D,75,273,24,3,Oregon St.,Minnesota Vikings
+1293,86,"Carter, Kyle",TE,O,75,245,23,0,Penn State,Minnesota Vikings
+1294,8,"Bradford, Sam",QB,O,76,224,28,7,Oklahoma,Minnesota Vikings
+1295,63,"Fusco, Brandon",OL,O,76,306,26,6,Slippery Rock,Minnesota Vikings
+1296,98,"Joseph, Linval",DL,D,76,329,27,7,East Carolina,Minnesota Vikings
+1297,27,"Kearse, Jayron",DB,D,76,215,22,0,Clemson,Minnesota Vikings
+1298,59,"Lamur, Emmanuel",LB,D,76,245,27,5,Kansas State,Minnesota Vikings
+1299,89,"Morgan, David",TE,O,76,265,23,0,Texas San Antonio,Minnesota Vikings
+1300,71,"Smith, Andre",OL,O,76,325,29,8,Alabama,Minnesota Vikings
+1301,94,"Trattou, Justin",DL,D,76,258,28,5,Florida,Minnesota Vikings
+1302,90,"Dubose, B.J.",DL,D,76,284,24,1,Louisville,Minnesota Vikings
+1303,81,"Böhringer, Moritz",WR,O,76,225,22,0,Germany,Minnesota Vikings
+1304,69,"Faciane, Isame",OL,O,76,302,25,2,Florida International,Minnesota Vikings
+1305,90,"Johnson, Toby",DL,D,76,325,25,1,Georgia,Minnesota Vikings
+1306,55,"Barr, Anthony",LB,D,77,255,24,3,UCLA,Minnesota Vikings
+1307,61,"Berger, Joe",OL,O,77,305,34,12,Michigan Tech,Minnesota Vikings
+1308,68,"Clemmings, T.J.",OL,O,77,309,24,2,Pittsburgh,Minnesota Vikings
+1309,57,"Cole, Audie",LB,D,77,248,27,5,North Carolina St.,Minnesota Vikings
+1310,85,"Ellison, Rhett",TE,O,77,250,27,5,USC,Minnesota Vikings
+1311,99,"Hunter, Danielle",DL,D,77,252,21,2,LSU,Minnesota Vikings
+1312,67,"Kerin, Zac",OL,O,77,305,25,2,Toledo,Minnesota Vikings
+1313,47,"McDermott, Kevin",LS,ST,77,240,26,4,UCLA,Minnesota Vikings
+1314,93,"Stephen, Shamar",DL,D,77,310,25,3,UCONN,Minnesota Vikings
+1315,64,"Beavers, Willie",OL,O,77,322,22,0,Western Michigan,Minnesota Vikings
+1316,2,"Stave, Joel",QB,O,77,230,24,0,Wisconsin,Minnesota Vikings
+1317,91,"Weatherly, Stephen",DL,D,77,265,22,0,Vanderbilt,Minnesota Vikings
+1318,79,"Harris, Mike",OL,O,77,338,27,5,UCLA,Minnesota Vikings
+1319,82,"Rudolph, Kyle",TE,O,78,265,26,6,Notre Dame,Minnesota Vikings
+1320,78,"Sirles, Jeremiah",OL,O,78,315,25,3,Nebraska,Minnesota Vikings
+1321,75,"Kalil, Matt",OL,O,79,317,27,5,USC,Minnesota Vikings
+1322,76,"Boone, Alex",OL,O,80,310,29,7,Ohio State,Minnesota Vikings
+1323,44,"Asiata, Matt",RB,O,72,219,29,5,Utah,Minnesota Vikings
+1324,14,"Diggs, Stefon",WR,O,72,191,22,2,Maryland,Minnesota Vikings
+1325,54,"Kendricks, Eric",LB,D,72,232,24,2,UCLA,Minnesota Vikings
+1326,18,"Locke, Jeff",P,ST,72,195,26,4,UCLA,Minnesota Vikings
+1327,26,"Waynes, Trae",DB,D,72,190,24,2,Michigan State,Minnesota Vikings
+1328,32,"Exum Jr., Antone",DB,D,72,219,25,3,Virginia Tech,Minnesota Vikings
+1329,36,"Roberson, Tre",DB,D,72,200,23,0,Illinois State,Minnesota Vikings
+1330,33,"Lewis, Dion",RB,O,68,195,25,5,Pittsburgh,New England Patriots
+1331,11,"Edelman, Julian",WR,O,70,200,30,8,Kent State,New England Patriots
+1332,24,"Jones, Cyrus",DB,D,70,200,22,0,Alabama,New England Patriots
+1333,31,"Jones, Jonathan",DB,D,70,190,22,0,Auburn,New England Patriots
+1334,32,"McCourty, Devin",DB,D,70,195,29,7,Rutgers,New England Patriots
+1335,28,"White, James",RB,O,70,205,24,3,Wisconsin,New England Patriots
+1336,34,"Sankey, Bishop",RB,O,70,209,24,3,Washington,New England Patriots
+1337,80,"Amendola, Danny",WR,O,71,190,30,8,Texas Tech,New England Patriots
+1338,38,"Bolden, Brandon",RB,O,71,220,26,5,Mississippi,New England Patriots
+1339,21,"Butler, Malcolm",DB,D,71,190,26,3,West Alabama,New England Patriots
+1340,23,"Chung, Patrick",DB,D,71,215,29,8,Oregon,New England Patriots
+1341,22,"Coleman, Justin",DB,D,71,190,23,2,Tennessee,New England Patriots
+1342,37,"Richards, Jordan",DB,D,71,210,23,2,Stanford,New England Patriots
+1343,26,"Ryan, Logan",DB,D,71,195,25,4,Rutgers,New England Patriots
+1344,3,"Gostkowski, Stephen",K,ST,73,215,32,11,Memphis,New England Patriots
+1345,30,"Harmon, Duron",DB,D,73,205,25,4,Rutgers,New England Patriots
+1346,15,"Hogan, Chris",WR,O,73,210,27,4,Monmouth (N.J.),New England Patriots
+1347,69,"Mason, Shaq",OL,O,73,310,23,2,Georgia Tech,New England Patriots
+1348,19,"Mitchell, Malcolm",WR,O,73,200,23,0,Georgia,New England Patriots
+1349,25,"Rowe, Eric",DB,D,73,205,23,2,Utah,New England Patriots
+1350,6,"Allen, Ryan",P,ST,74,220,26,4,Louisiana Tech,New England Patriots
+1351,90,"Brown, Malcom",DL,D,74,320,22,2,Texas,New England Patriots
+1352,65,"Cooper, Jonathan",OL,O,74,310,26,3,North Carolina,New England Patriots
+1353,98,"Flowers, Trey",DL,D,74,265,23,2,Arkansas,New England Patriots
+1354,55,"Freeny, Jonathan",LB,D,74,255,27,5,Rutgers,New England Patriots
+1355,10,"Garoppolo, Jimmy",QB,O,74,225,24,3,Eastern Illinois,New England Patriots
+1356,96,"Johnson, Anthony",DL,D,74,295,23,2,LSU,New England Patriots
+1357,36,"King, Brandon",DB,D,74,220,23,2,Auburn,New England Patriots
+1358,50,"Ninkovich, Rob",DL,D,74,260,32,11,Purdue,New England Patriots
+1359,64,"Barker, Chris",OL,O,74,300,26,2,Nevada,New England Patriots
+1360,16,"Lucien, Devin",WR,O,74,200,23,0,Arizona State,New England Patriots
+1361,60,"Andrews, David",OL,O,75,295,24,2,Georgia,New England Patriots
+1362,49,"Cardona, Joe",LS,ST,75,245,24,2,Navy,New England Patriots
+1363,91,"Collins, Jamie",LB,D,75,250,26,4,Southern Mississippi,New England Patriots
+1364,46,"Develin, James",RB,O,75,255,28,4,Brown,New England Patriots
+1365,81,"Harbor, Clay",TE,O,75,240,29,7,Missouri State,New England Patriots
+1366,54,"Hightower, Dont'a",LB,D,75,265,26,5,Alabama,New England Patriots
+1367,95,"Long, Chris",DL,D,75,270,31,9,Virginia,New England Patriots
+1368,58,"McClellin, Shea",LB,D,75,250,27,5,Boise State,New England Patriots
+1369,93,"Sheard, Jabaal",DL,D,75,265,27,6,Pittsburgh,New England Patriots
+1370,99,"Valentine, Vincent",DL,D,75,320,22,0,Nebraska,New England Patriots
+1371,74,"Hamilton, Woodrow",DL,D,75,315,23,0,Mississippi,New England Patriots
+1372,17,"Street, Devin",WR,O,75,200,25,3,Pittsburgh,New England Patriots
+1373,12,"Brady, Tom",QB,O,76,225,39,17,Michigan,New England Patriots
+1374,7,"Brissett, Jacoby",QB,O,76,235,23,0,North Carolina State,New England Patriots
+1375,75,"Karras, Ted",OL,O,76,305,23,0,Illinois,New England Patriots
+1376,51,"Mingo, Barkevious",LB,D,76,240,25,4,LSU,New England Patriots
+1377,63,"Jackson, Tre",OL,O,76,320,23,2,Florida State,New England Patriots
+1378,92,"Grissom, Geneo",DL,D,76,265,24,2,Oklahoma,New England Patriots
+1379,61,"Cannon, Marcus",OL,O,77,335,28,6,Texas Christian,New England Patriots
+1380,86,"Derby, AJ",TE,O,77,255,25,2,Arkansas,New England Patriots
+1381,62,"Thuney, Joe",OL,O,77,295,23,0,North Carolina State,New England Patriots
+1382,N/A,"Silberman, Ian",OL,O,77,306,23,2,Boston College,New England Patriots
+1383,88,"Bennett, Martellus",TE,O,78,275,29,8,Texas A&M,New England Patriots
+1384,97,"Branch, Alan",DL,D,78,350,31,10,Michigan,New England Patriots
+1385,71,"Fleming, Cameron",OL,O,78,320,24,3,Stanford,New England Patriots
+1386,87,"Gronkowski, Rob",TE,O,78,265,27,7,Arizona,New England Patriots
+1387,68,"Waddle, LaAdrian",OL,O,78,315,25,4,Texas Tech,New England Patriots
+1388,77,"Solder, Nate",OL,O,80,325,28,6,Colorado,New England Patriots
+1389,76,"Vollmer, Sebastian",OL,O,80,320,32,8,Houston,New England Patriots
+1390,29,"Blount, LeGarrette",RB,O,72,250,29,7,Oregon,New England Patriots
+1391,43,"Ebner, Nate",DB,D,72,220,27,5,Ohio State,New England Patriots
+1392,27,"Foster, D.J.",RB,O,72,195,22,0,Arizona State,New England Patriots
+1393,52,"Roberts, Elandon",LB,D,72,235,22,0,Houston,New England Patriots
+1394,18,"Slater, Matthew",WR,O,72,205,31,9,UCLA,New England Patriots
+1395,44,"Gause, Quentin",LB,D,72,243,23,0,Rutgers,New England Patriots
+1396,42,"Sunseri, Vinnie",DB,D,72,210,24,3,Alabama,New England Patriots
+1397,84,"White, DeAndrew",WR,O,72,192,24,2,Alabama,New England Patriots
+1398,87,"Lewis, Tommylee",WR,O,67,168,23,0,Northern Illinois,New Orleans Saints
+1399,22,"Ingram, Mark",RB,O,69,215,26,6,Alabama,New Orleans Saints
+1400,23,"Murphy, Marcus",RB,O,69,195,24,2,Missouri,New Orleans Saints
+1401,NA,"Carter, Tony",DB,D,69,175,30,6,Florida State,New Orleans Saints
+1402,31,"Byrd, Jairus",DB,D,70,203,29,8,Oregon,New Orleans Saints
+1403,10,"Cooks, Brandin",WR,O,70,189,22,3,Oregon State,New Orleans Saints
+1404,24,"Moore, Sterling",DB,D,70,202,26,6,Southern Methodist,New Orleans Saints
+1405,33,"Sanford, Jamarca",DB,D,70,200,31,8,Mississippi,New Orleans Saints
+1406,24,"Wilson, Kyle",DB,D,70,190,29,7,Boise State,New Orleans Saints
+1407,48,"Bell, Vonn",DB,D,71,205,21,0,Ohio State,New Orleans Saints
+1408,21,"Harris, De'Vante",DB,D,71,190,23,0,Texas A&M,New Orleans Saints
+1409,3,"Lutz, Wil",K,ST,71,184,22,0,Georgia State,New Orleans Saints
+1410,83,"Snead IV, Willie",WR,O,71,195,23,2,Ball State,New Orleans Saints
+1411,28,"Webb, B.W.",DB,D,71,190,26,4,William & Mary,New Orleans Saints
+1412,40,"Breaux, Delvin",DB,D,73,196,26,2,None,New Orleans Saints
+1413,38,"Cadet, Travaris",RB,O,73,210,27,5,Appalachian State,New Orleans Saints
+1414,46,"Crawley, Ken",DB,D,73,180,23,0,Colorado,New Orleans Saints
+1415,47,"Drescher, Justin",LS,ST,73,235,28,7,Colorado,New Orleans Saints
+1416,59,"Ellerbe, Dannell",LB,D,73,245,30,8,Georgia,New Orleans Saints
+1417,41,"Harper, Roman",DB,D,73,205,33,11,Alabama,New Orleans Saints
+1418,36,"Lasco, Daniel",RB,O,73,205,23,0,California,New Orleans Saints
+1419,52,"Robertson, Craig",LB,D,73,234,28,5,North Texas,New Orleans Saints
+1420,55,"Tapp, Darryl",DL,D,73,270,32,11,Virginia Tech,New Orleans Saints
+1421,95,"Davison, Tyeler",DL,D,74,309,23,2,Fresno State,New Orleans Saints
+1422,91,"Edebali, Kasim",DL,D,74,253,27,3,Boston College,New Orleans Saints
+1423,53,"Laurinaitis, James",LB,D,74,248,29,8,Ohio State,New Orleans Saints
+1424,56,"Mauti, Michael",LB,D,74,243,26,4,Penn State,New Orleans Saints
+1425,54,"Stupar, Nathan",LB,D,74,240,28,4,Penn State,New Orleans Saints
+1426,NA,"Pettway, D.J.",DL,D,74,270,24,0,Alabama,New Orleans Saints
+1427,98,"Rankins, Sheldon",DL,D,74,305,22,0,Louisville,New Orleans Saints
+1428,51,"Schoettmer, Jeff",LB,D,74,235,23,0,North Carolina,New Orleans Saints
+1429,66,"Allen, Jack",OL,O,74,296,23,0,Michigan State,New Orleans Saints
+1430,18,"Grayson, Garrett",QB,O,74,220,25,2,Colorado State,New Orleans Saints
+1431,50,"Anthony, Stephone",LB,D,75,245,24,2,Clemson,New Orleans Saints
+1432,30,"Harris, Erik",DB,D,75,225,26,1,California (Pa.),New Orleans Saints
+1433,92,"Jenkins, John",DL,D,75,359,27,4,Georgia,New Orleans Saints
+1434,65,"Kelemete, Senio",OL,O,75,300,26,4,Washington,New Orleans Saints
+1435,13,"Thomas, Michael",WR,O,75,212,23,0,Ohio St.,New Orleans Saints
+1436,96,"Mabry, Ashaad",DL,D,75,315,23,1,Texas-San Antonio,New Orleans Saints
+1437,85,"Stoneburner, Jake",TE,O,75,261,27,3,Ohio State,New Orleans Saints
+1438,81,"Williams-Lambert, Jordan",WR,O,75,228,22,0,Ball State,New Orleans Saints
+1439,44,"Kikaha, Hau'oli",LB,D,75,246,24,2,Washington,New Orleans Saints
+1440,73,"Evans, Jahri",OL,O,76,318,33,10,Bloomsburg,New Orleans Saints
+1441,90,"Fairley, Nick",DL,D,76,308,28,6,Auburn,New Orleans Saints
+1442,94,"Jordan, Cameron",DL,D,76,287,27,6,California,New Orleans Saints
+1443,99,"Kruger, Paul",DL,D,76,270,30,8,Utah,New Orleans Saints
+1444,68,"Lelito, Tim",OL,O,76,315,27,4,Grand Valley State,New Orleans Saints
+1445,7,"McCown, Luke",QB,O,76,217,35,13,Louisiana Tech,New Orleans Saints
+1446,6,"Morstead, Thomas",P,ST,76,235,30,8,Southern Methodist,New Orleans Saints
+1447,93,"Onyemata, David",DL,D,76,300,23,0,Manitoba (Canada),New Orleans Saints
+1448,78,"Turner, Landon",OL,O,76,325,23,0,North Carolina,New Orleans Saints
+1449,84,"Hoomanawanui, Michael",TE,O,76,265,28,7,Illinois,New Orleans Saints
+1450,45,"Griffin, Garrett",TE,O,76,240,22,0,Air Force,New Orleans Saints
+1451,72,"Armstead, Terron",OL,O,77,304,25,4,Arkansas-Pine Bluff,New Orleans Saints
+1452,58,"Gwacham, Obum",DL,D,77,246,25,2,Oregon State,New Orleans Saints
+1453,89,"Hill, Josh",TE,O,77,250,26,4,Idaho State,New Orleans Saints
+1454,60,"Unger, Max",OL,O,77,305,30,8,Oregon,New Orleans Saints
+1455,17,"Prater, Kyle",WR,O,77,231,24,1,Northwestern,New Orleans Saints
+1456,74,"Thompson, Tyrus",OL,O,77,330,24,1,Oklahoma,New Orleans Saints
+1457,77,"Fullington, John",OL,O,77,300,25,2,Washington State,New Orleans Saints
+1458,NA,"Loewen, Mitchell",DL,D,77,275,23,0,Arkansas,New Orleans Saints
+1459,16,"Coleman, Brandon",WR,O,78,225,24,2,Rutgers,New Orleans Saints
+1460,82,"Fleener, Coby",TE,O,78,251,27,5,Stanford,New Orleans Saints
+1461,86,"Manhertz, Chris",TE,O,78,255,24,1,Canisius College,New Orleans Saints
+1462,70,"Mathews, Ryker",OL,O,78,320,23,0,BYU,New Orleans Saints
+1463,67,"Young, Avery",OL,O,78,305,23,0,Auburn,New Orleans Saints
+1464,75,"Peat, Andrus",OL,O,79,316,22,2,Stanford,New Orleans Saints
+1465,64,"Strief, Zach",OL,O,79,320,32,11,Northwestern,New Orleans Saints
+1466,9,"Brees, Drew",QB,O,72,209,37,16,Purdue,New Orleans Saints
+1467,34,"Hightower, Tim",RB,O,72,220,30,6,Richmond,New Orleans Saints
+1468,29,"Kuhn, John",RB,O,72,250,34,10,Shippensburg,New Orleans Saints
+1469,32,"Vaccaro, Kenny",DB,D,72,214,25,4,Texas,New Orleans Saints
+1470,25,"Williams, P.J.",DB,D,72,196,23,2,Florida State,New Orleans Saints
+1471,43,"Pruitt, Jimmy",DB,D,72,203,23,0,San Jose State,New Orleans Saints
+1472,27,"Swann, Damian",DB,D,72,189,23,2,Georgia,New Orleans Saints
+1473,39,"Calhoun, Taveze",DB,D,72,192,23,0,Mississippi State,New Orleans Saints
+1474,20,"Dixon, Brian",DB,D,72,195,26,3,Northwest Missouri State,New Orleans Saints
+1475,19,"Lampman, Jake",WR,O,72,205,23,0,Ferris State,New Orleans Saints
+1476,43,"Rainey, Bobby",RB,O,68,212,28,6,Western Kentucky,New York Giants
+1477,38,"Deayon, Donte",DB,D,69,158,22,0,Boise State,New York Giants
+1478,17,"Harris, Dwayne",WR,O,70,202,29,6,East Carolina,New York Giants
+1479,20,"Jenkins, Janoris",DB,D,70,198,27,5,North Alabama,New York Giants
+1480,28,"Perkins, Paul",RB,O,70,208,21,0,UCLA,New York Giants
+1481,87,"Shepard, Sterling",WR,O,70,194,23,0,Oklahoma,New York Giants
+1482,34,"Vereen, Shane",RB,O,70,205,27,5,California,New York Giants
+1483,31,"Wade, Trevin",DB,D,70,190,27,4,Arizona,New York Giants
+1484,83,"Edwards, Ben",WR,O,70,197,24,1,Richmond,New York Giants
+1485,49,"Whitlock, Nikita",RB,O,70,250,25,1,Wake Forest,New York Giants
+1486,13,"Beckham Jr, Odell",WR,O,71,198,23,3,LSU,New York Giants
+1487,25,"Hall, Leon",DB,D,71,195,31,9,Michigan,New York Giants
+1488,33,"Adams, Andrew",DB,D,71,202,23,0,Connecticut,New York Giants
+1489,24,"Apple, Eli",DB,D,73,199,21,0,Ohio State,New York Giants
+1490,52,"Casillas, Jonathan",LB,D,73,227,29,8,Wisconsin,New York Giants
+1491,93,"Goodson, B.J.",LB,D,73,242,23,0,Clemson,New York Giants
+1492,23,"Jennings, Rashad",RB,O,73,231,31,8,Liberty,New York Giants
+1493,15,"King, Tavarres",WR,O,73,200,26,1,Georgia,New York Giants
+1494,27,"Thompson, Darian",DB,D,73,213,22,0,Boise State,New York Giants
+1495,47,"Unga, Uani",LB,D,73,233,28,2,Brigham Young,New York Giants
+1496,55,"Thomas, J.T.",LB,D,73,236,28,5,West Virginia,New York Giants
+1497,95,"Hankins, Johnathan",DL,D,74,320,24,4,Ohio State,New York Giants
+1498,69,"Jones, Brett",OL,O,74,318,25,2,Regina (Canada),New York Giants
+1499,12,"Nassib, Ryan",QB,O,74,223,26,3,Syracuse,New York Giants
+1500,41,"Rodgers-Cromartie, Dominique",DB,D,74,205,30,8,Tennessee State,New York Giants
+1501,91,"Sheppard, Kelvin",LB,D,74,249,28,7,LSU,New York Giants
+1502,45,"Tye, Will",TE,O,74,262,24,1,Stony Brook,New York Giants
+1503,54,"Vernon, Olivier",DL,D,74,275,25,6,Miami (Fla.),New York Giants
+1504,46,"Johnson, Will",RB,O,74,240,27,5,West Virginia,New York Giants
+1505,18,"Davis, Geremy",WR,O,74,217,24,2,Connecticut,New York Giants
+1506,60,"Gettis, Adam",OL,O,74,305,27,5,Iowa,New York Giants
+1507,71,"Maponga, Stansly",DL,D,74,265,25,4,Texas Christian,New York Giants
+1508,96,"Bromley, Jay",DL,D,75,306,24,3,Syracuse,New York Giants
+1509,8,"Johnson, Josh",QB,O,75,215,30,7,San Diego,New York Giants
+1510,59,"Kennard, Devon",LB,D,75,251,25,3,USC,New York Giants
+1511,58,"Odighizuwa, Owa",DL,D,75,270,24,1,UCLA,New York Giants
+1512,70,"Richburg, Weston",OL,O,75,298,25,3,Colorado State,New York Giants
+1513,57,"Robinson, Keenan",LB,D,75,238,27,5,Texas,New York Giants
+1514,99,"Thomas, Robert",DL,D,75,325,25,1,Arkansas,New York Giants
+1515,9,"Wing, Brad",P,ST,75,205,25,2,LSU,New York Giants
+1516,64,"McDermott, Shane",OL,O,75,305,24,1,Miami (Fla.),New York Giants
+1517,86,"Powe, Darius",WR,O,75,220,22,0,California,New York Giants
+1518,51,"DeOssie, Zak",LS,ST,76,249,32,10,Brown,New York Giants
+1519,98,"Harrison, Damon",DL,D,76,350,27,5,William Penn,New York Giants
+1520,94,"Herzlich, Mark",LB,D,76,246,29,6,Boston College,New York Giants
+1521,97,"Hughes, Montori",DL,D,76,350,26,4,Tennessee-Martin,New York Giants
+1522,10,"Manning, Eli",QB,O,76,218,35,12,Mississippi,New York Giants
+1523,73,"Newhouse, Marshall",OL,O,76,328,27,6,Texas Christian,New York Giants
+1524,67,"Pugh, Justin",OL,O,76,301,26,4,Syracuse,New York Giants
+1525,61,"Williams, Ishaq",DL,D,76,253,23,0,Notre Dame,New York Giants
+1526,89,"Adams, Jerell",TE,O,77,247,23,0,South Carolina,New York Giants
+1527,68,"Hart, Bobby",OL,O,77,334,22,2,Florida State,New York Giants
+1528,77,"Jerry, John",OL,O,77,340,30,7,Mississippi,New York Giants
+1529,78,"Okwara, Romeo",DL,D,77,275,21,0,Notre Dame,New York Giants
+1530,90,"Pierre-Paul, Jason",DL,D,77,278,27,6,South Florida,New York Giants
+1531,72,"Wynn, Kerry",DL,D,77,264,25,2,Richmond,New York Giants
+1532,81,"LaCosse, Matt",TE,O,77,261,23,1,Illinois,New York Giants
+1533,75,"Stingily, Byron",OL,O,77,318,28,7,Louisville,New York Giants
+1534,65,"Beatty, Will",OL,O,78,319,31,7,Connecticut,New York Giants
+1535,84,"Donnell, Larry",TE,O,78,265,27,4,Grambling,New York Giants
+1536,74,"Flowers, Ereck",OL,O,78,329,22,2,Miami (Fla.),New York Giants
+1537,6,"Thomas, Logan",QB,O,78,250,25,1,Virginia Tech,New York Giants
+1538,29,"Berhe, Nat",DB,D,72,194,25,3,San Diego State,New York Giants
+1539,3,"Brown, Josh",K,ST,72,202,37,14,Nebraska,New York Giants
+1540,21,"Collins, Landon",DB,D,72,225,22,2,Alabama,New York Giants
+1541,80,"Cruz, Victor",WR,O,72,204,29,7,Massachusetts,New York Giants
+1542,26,"Darkwa, Orleans",RB,O,72,215,24,3,Tulane,New York Giants
+1543,82,"Lewis, Roger",WR,O,72,196,22,0,Bowling Green State,New York Giants
+1544,22,"Thompson, Mykkele",DB,D,72,193,23,1,Texas,New York Giants
+1545,39,"Hunter, Michael",DB,D,72,186,23,0,Oklahoma State,New York Giants
+1546,26,"Pope, Troymaine",RB,O,69,207,22,0,Jacksonville State,New York Jets
+1547,41,"Skrine, Buster",DB,D,69,185,27,6,Tennessee-Chattanooga,New York Jets
+1548,35,"Williams, Dominique",RB,O,69,205,26,1,Wagner,New York Jets
+1549,21,"Gilchrist, Marcus",DB,D,70,198,27,6,Clemson,New York Jets
+1550,89,"Marshall, Jalin",WR,O,70,200,21,0,Ohio State,New York Jets
+1551,29,"Powell, Bilal",RB,O,70,204,27,6,Louisville,New York Jets
+1552,33,"Morris, Romar",RB,O,70,190,23,0,North Carolina,New York Jets
+1553,23,"McDougle, Dexter",DB,D,70,195,25,3,Maryland,New York Jets
+1554,10,"Williams, Wendall",WR,O,70,185,26,0,Cumberlands,New York Jets
+1555,25,"Pryor, Calvin",DB,D,71,207,24,3,Louisville,New York Jets
+1556,24,"Revis, Darrelle",DB,D,71,198,31,10,Pittsburgh,New York Jets
+1557,20,"Williams, Marcus",DB,D,71,196,25,3,North Dakota State,New York Jets
+1558,39,"Allen, Antonio",DB,D,73,210,27,5,South Carolina,New York Jets
+1559,2,"Folk, Nick",K,ST,73,222,31,10,Arizona,New York Jets
+1560,50,"Lee, Darron",LB,D,73,232,21,0,Ohio St.,New York Jets
+1561,51,"Stanford, Julian",LB,D,73,230,26,3,Wagner,New York Jets
+1562,57,"Ochi, Victor",LB,D,73,242,22,0,Stony Brook,New York Jets
+1563,19,"Smith, Devin",WR,O,73,199,24,2,Ohio State,New York Jets
+1564,54,"Carter, Bruce",LB,D,74,240,28,6,North Carolina,New York Jets
+1565,81,"Enunwa, Quincy",WR,O,74,225,24,2,Nebraska,New York Jets
+1566,14,"Fitzpatrick, Ryan",QB,O,74,223,33,12,Harvard,New York Jets
+1567,22,"Forté, Matt",RB,O,74,218,30,9,Tulane,New York Jets
+1568,52,"Harris, David",LB,D,74,250,32,10,Michigan,New York Jets
+1569,17,"Peake, Charone",WR,O,74,209,23,0,Clemson,New York Jets
+1570,37,"Keeton, Bryson",DB,D,74,190,23,0,Montana State,New York Jets
+1571,42,"Martin, Ronald",DB,D,74,220,23,2,LSU,New York Jets
+1572,11,"Anderson, Robby",WR,O,75,190,23,0,Temple,New York Jets
+1573,82,"Bostick, Brandon",TE,O,75,250,27,3,Newberry,New York Jets
+1574,87,"Decker, Eric",WR,O,75,214,29,7,Minnesota,New York Jets
+1575,58,"Henderson, Erin",LB,D,75,244,30,8,Maryland,New York Jets
+1576,43,"Howsare, Julian",RB,O,75,255,24,1,Clarion,New York Jets
+1577,48,"Jenkins, Jordan",LB,D,75,259,22,0,Georgia,New York Jets
+1578,95,"Martin, Josh",LB,D,75,245,24,4,Columbia,New York Jets
+1579,99,"McLendon, Steve",DL,D,75,310,30,7,Troy,New York Jets
+1580,9,"Petty, Bryce",QB,O,75,230,25,2,Baylor,New York Jets
+1581,46,"Purdum, Tanner",LS,ST,75,270,32,7,Baker,New York Jets
+1582,91,"Richardson, Sheldon",DL,D,75,294,25,4,Missouri,New York Jets
+1583,7,"Smith, Geno",QB,O,75,221,25,4,West Virginia,New York Jets
+1584,97,"Thomas, Lawrence",DL,D,75,286,23,0,Michigan State,New York Jets
+1585,56,"Bishop, Freddie",LB,D,75,255,26,1,Western Michigan,New York Jets
+1586,64,"Watts, Craig",OL,O,75,335,25,1,West Texas A&M,New York Jets
+1587,53,"Catapano, Mike",LB,D,76,270,26,4,Princeton,New York Jets
+1588,70,"Dozier, Dakota",OL,O,76,313,25,3,Furman,New York Jets
+1589,4,"Edwards, Lachlan",P,ST,76,209,24,0,Sam Houston State,New York Jets
+1590,5,"Hackenberg, Christian",QB,O,76,228,21,0,Penn St.,New York Jets
+1591,71,"Ijalana, Ben",OL,O,76,322,27,6,Villanova,New York Jets
+1592,98,"Jenkins, Jarvis",DL,D,76,300,28,6,Clemson,New York Jets
+1593,74,"Mangold, Nick",OL,O,76,307,32,11,Ohio State,New York Jets
+1594,15,"Marshall, Brandon",WR,O,76,230,32,11,Central Florida,New York Jets
+1595,55,"Mauldin, Lorenzo",LB,D,76,259,23,2,Louisville,New York Jets
+1596,93,"Simon, Deon",DL,D,76,332,26,1,Northwestern State-Louisiana,New York Jets
+1597,96,"Wilkerson, Muhammad",DL,D,76,315,26,6,Temple,New York Jets
+1598,67,"Winters, Brian",OL,O,76,320,25,4,Kent State,New York Jets
+1599,65,"Obioha, Julien",DL,D,76,280,22,0,Texas A&M,New York Jets
+1600,66,"Pelon, Claude",DL,D,76,300,23,0,USC,New York Jets
+1601,77,"Carpenter, James",OL,O,77,321,27,6,Alabama,New York Jets
+1602,76,"Johnson, Wesley",OL,O,77,297,25,3,Vanderbilt,New York Jets
+1603,72,"Shell, Brandon",OL,O,77,324,24,0,South Carolina,New York Jets
+1604,92,"Williams, Leonard",DL,D,77,302,22,2,USC,New York Jets
+1605,72,"Ceresna, Jake",DL,D,77,295,22,0,Cortland,New York Jets
+1606,78,"Clady, Ryan",OL,O,78,315,30,9,Boise State,New York Jets
+1607,60,"Ferguson, D'Brickashaw",OL,O,78,310,32,10,Virginia,New York Jets
+1608,47,"Davis, Kellen",TE,O,79,265,30,9,Michigan State,New York Jets
+1609,79,"Qvale, Brent",OL,O,79,315,25,2,Nebraska,New York Jets
+1610,68,"Giacomini, Breno",OL,O,79,318,30,9,Louisville,New York Jets
+1611,32,"Burris, Juston",DB,D,72,212,23,0,N.C. State,New York Jets
+1612,45,"Miles, Rontez",DB,D,72,203,27,2,California (PA),New York Jets
+1613,27,"Roberts, Darryl",DB,D,72,190,25,2,Marshall,New York Jets
+1614,27,"Milliner, Dee",DB,D,72,201,25,4,Alabama,New York Jets
+1615,39,"Middleton, Doug",DB,D,72,210,22,0,Appalachian State,New York Jets
+1616,30,"Richard, Jalen",RB,O,68,207,22,0,Southern Mississippi,Oakland Raiders
+1617,33,"Washington, DeAndré",RB,O,68,204,23,0,Texas Tech,Oakland Raiders
+1618,42,"Joseph, Karl",DB,D,70,205,23,0,West Virginia,Oakland Raiders
+1619,56,"Bates, Daren",LB,D,71,225,25,4,Auburn,Oakland Raiders
+1620,25,"Hayden, DJ",DB,D,71,190,26,4,Houston,Oakland Raiders
+1621,27,"Nelson, Reggie",DB,D,71,210,32,10,Florida,Oakland Raiders
+1622,19,"Mickens, Jaydon",WR,O,71,170,22,0,Washington,Oakland Raiders
+1623,20,"Allen, Nate",DB,D,73,210,28,7,South Florida,Oakland Raiders
+1624,29,"Amerson, David",DB,D,73,205,24,4,North Carolina State,Oakland Raiders
+1625,89,"Cooper, Amari",WR,O,73,211,22,2,Alabama,Oakland Raiders
+1626,15,"Crabtree, Michael",WR,O,73,214,29,8,Texas Tech,Oakland Raiders
+1627,11,"Janikowski, Sebastian",K,ST,73,258,38,17,Florida State,Oakland Raiders
+1628,23,"McDonald, Dexter",DB,D,73,200,24,2,Kansas,Oakland Raiders
+1629,14,"McGloin, Matt",QB,O,73,210,26,4,Penn State,Oakland Raiders
+1630,49,"Olawale, Jamize",RB,O,73,240,27,4,North Texas,Oakland Raiders
+1631,45,"Reece, Marcel",RB,O,73,250,31,7,Washington,Oakland Raiders
+1632,78,"Ellis, Justin",DL,D,74,334,25,3,Louisiana Tech,Oakland Raiders
+1633,61,"Hudson, Rodney",OL,O,74,300,27,6,Florida State,Oakland Raiders
+1634,10,"Roberts, Seth",WR,O,74,195,25,2,West Alabama,Oakland Raiders
+1635,41,"Trawick, Brynden",DB,D,74,225,26,4,Troy,Oakland Raiders
+1636,58,"Ball, Neiron",LB,D,74,236,24,2,Florida,Oakland Raiders
+1637,54,"Toomer, Korey",LB,D,74,234,27,3,Idaho,Oakland Raiders
+1638,4,"Carr, Derek",QB,O,75,214,25,3,Fresno State,Oakland Raiders
+1639,59,"Condo, Jon",LS,ST,75,240,35,10,Maryland,Oakland Raiders
+1640,51,"Irvin, Bruce",LB,D,75,260,28,5,West Virginia,Oakland Raiders
+1641,66,"Jackson, Gabe",OL,O,75,336,25,3,Mississippi State,Oakland Raiders
+1642,52,"Mack, Khalil",DL,D,75,252,25,3,Buffalo,Oakland Raiders
+1643,92,"McGee, Stacy",DL,D,75,310,26,4,Oklahoma,Oakland Raiders
+1644,39,"McGill II, Keith",DB,D,75,211,27,3,Utah,Oakland Raiders
+1645,28,"Murray, Latavius",RB,O,75,225,26,4,Central Florida,Oakland Raiders
+1646,81,"Rivera, Mychal",TE,O,75,245,26,4,Tennessee,Oakland Raiders
+1647,21,"Smith, Sean",DB,D,75,218,29,8,Utah,Oakland Raiders
+1648,90,"Williams, Dan",DL,D,75,315,29,7,Tennessee,Oakland Raiders
+1649,97,"Edwards, Mario Jr.",DL,D,75,280,22,2,Florida State,Oakland Raiders
+1650,67,"Omoile, Oni",OL,O,75,282,23,0,Iowa State,Oakland Raiders
+1651,91,"Calhoun, Shilique",LB,D,76,251,24,0,Michigan State,Oakland Raiders
+1652,8,"Cook, Connor",QB,O,76,217,23,0,Michigan St.,Oakland Raiders
+1653,76,"Feliciano, Jon",OL,O,76,323,24,2,Miami (Fla.),Oakland Raiders
+1654,18,"Holmes, Andre",WR,O,76,210,28,5,Hillsdale,Oakland Raiders
+1655,72,"Penn, Donald",OL,O,76,340,33,11,Utah State,Oakland Raiders
+1656,88,"Walford, Clive",TE,O,76,258,24,2,Miami (Fla.),Oakland Raiders
+1657,80,"Brent, K.J.",WR,O,76,190,23,0,Wake Forest,Oakland Raiders
+1658,69,"Cofield, Takoby",OL,O,76,315,24,1,Duke,Oakland Raiders
+1659,63,"Jackson, Branden",DL,D,76,268,23,0,Texas Tech,Oakland Raiders
+1660,99,"Smith, Aldon",LB,D,76,265,26,6,Missouri,Oakland Raiders
+1661,74,"Alexander, Vadal",OL,O,77,326,22,0,LSU,Oakland Raiders
+1662,96,"Autry, Denico",DL,D,77,273,26,3,Mississippi State,Oakland Raiders
+1663,75,"Latham, Darius",DL,D,77,305,21,0,Indiana,Oakland Raiders
+1664,73,"McCants, Matt",OL,O,77,309,27,4,Alabama-Birmingham,Oakland Raiders
+1665,70,"Osemele, Kelechi",OL,O,77,330,27,5,Iowa State,Oakland Raiders
+1666,95,"Ward, Jihad",DL,D,77,296,22,0,Illinois,Oakland Raiders
+1667,71,"Watson, Menelik",OL,O,77,315,27,4,Florida State,Oakland Raiders
+1668,82,"Holmes, Gabe",TE,O,77,255,25,2,Purdue,Oakland Raiders
+1669,93,"Bean, Jimmy",DL,D,77,264,22,0,Oklahoma State,Oakland Raiders
+1670,79,"Kirkland, Denver",OL,O,77,340,22,0,Arkansas,Oakland Raiders
+1671,85,"O'Malley, Ryan",TE,O,77,265,23,0,Pennsylvania,Oakland Raiders
+1672,86,"Smith, Lee",TE,O,78,265,28,6,Marshall,Oakland Raiders
+1673,77,"Howard, Austin",OL,O,79,330,29,7,Northern Iowa,Oakland Raiders
+1674,38,"Carrie, TJ",DB,D,72,204,26,3,Ohio,Oakland Raiders
+1675,32,"Hamilton, Antonio",DB,D,72,185,23,0,South Carolina State,Oakland Raiders
+1676,50,"Heeney, Ben",LB,D,72,231,23,2,Kansas,Oakland Raiders
+1677,16,"Holton, Johnny",WR,O,72,190,25,0,Cincinnati,Oakland Raiders
+1678,57,"James, Cory",LB,D,72,229,23,0,Colorado St.,Oakland Raiders
+1679,22,"Jones, Taiwan",RB,O,72,195,28,6,Eastern Washington,Oakland Raiders
+1680,7,"King, Marquette",P,ST,72,192,27,5,Fort Valley State,Oakland Raiders
+1681,53,"Smith, Malcolm",LB,D,72,226,27,6,USC,Oakland Raiders
+1682,30,"Edwards, SaQwan",DB,D,72,200,24,1,New Mexico,Oakland Raiders
+1683,40,"Durden, Kenneth",DB,D,72,180,24,0,Youngstown State,Oakland Raiders
+1684,43,"Sproles, Darren",RB,O,66,190,33,12,Kansas State,Philadelphia Eagles
+1685,34,"Barner, Kenjon",RB,O,69,195,27,3,Oregon,Philadelphia Eagles
+1686,6,"Sturgis, Caleb",K,ST,69,192,27,4,Florida,Philadelphia Eagles
+1687,39,"Marshall, Byron",RB,O,69,201,22,0,Oregon,Philadelphia Eagles
+1688,33,"Brooks, Ron",DB,D,70,190,27,5,LSU,Philadelphia Eagles
+1689,42,"Maragos, Chris",DB,D,70,200,29,7,Wisconsin,Philadelphia Eagles
+1690,21,"McKelvin, Leodis",DB,D,70,185,31,9,Troy,Philadelphia Eagles
+1691,23,"McLeod, Rodney",DB,D,70,195,26,5,Virginia,Philadelphia Eagles
+1692,28,"Smallwood, Wendell",RB,O,70,208,22,0,West Virginia,Philadelphia Eagles
+1693,80,"Turner, Paul",WR,O,70,193,23,0,Louisiana Tech,Philadelphia Eagles
+1694,29,"Brooks, Terrence",DB,D,71,200,24,3,Florida State,Philadelphia Eagles
+1695,13,"Huff, Josh",WR,O,71,206,24,3,Oregon,Philadelphia Eagles
+1696,50,"Tulloch, Stephen",LB,D,71,245,31,11,N.C. State,Philadelphia Eagles
+1697,26,"Watkins, Jaylen",DB,D,71,194,24,2,Florida,Philadelphia Eagles
+1698,37,"Smith, C.J.",DB,D,71,189,23,0,North Dakota State,Philadelphia Eagles
+1699,22,"Carroll, Nolan",DB,D,73,205,29,7,Maryland,Philadelphia Eagles
+1700,58,"Hicks, Jordan",LB,D,73,236,24,2,Texas,Philadelphia Eagles
+1701,NA,"Murray, Aaron",QB,O,73,207,25,3,Georgia,Philadelphia Eagles
+1702,68,"Andrews, Josh",OL,O,74,311,25,2,Oregon State,Philadelphia Eagles
+1703,53,"Bradham, Nigel",LB,D,74,241,27,5,Florida State,Philadelphia Eagles
+1704,55,"Graham, Brandon",DL,D,74,265,28,7,Michigan,Philadelphia Eagles
+1705,54,"Grugier-Hill, Kamu",LB,D,74,220,22,0,Eastern Illinois,Philadelphia Eagles
+1706,8,"Jones, Donnie",P,ST,74,221,36,13,LSU,Philadelphia Eagles
+1707,96,"Logan, Bennie",DL,D,74,315,26,4,LSU,Philadelphia Eagles
+1708,59,"Walker, Joe",LB,D,74,236,23,0,Oregon,Philadelphia Eagles
+1709,48,"Cherry, Don",LB,D,74,240,21,0,Villanova,Philadelphia Eagles
+1710,61,"Shittu, Aziz",DL,D,74,288,22,0,Stanford,Philadelphia Eagles
+1711,14,"Watford, David",WR,O,74,210,23,0,Hampton,Philadelphia Eagles
+1712,94,"Allen, Beau",DL,D,75,327,24,3,Wisconsin,Philadelphia Eagles
+1713,47,"Burton, Trey",TE,O,75,235,24,3,Florida,Philadelphia Eagles
+1714,75,"Curry, Vinny",DL,D,75,279,28,5,Marshall,Philadelphia Eagles
+1715,62,"Kelce, Jason",OL,O,75,295,28,6,Cincinnati,Philadelphia Eagles
+1716,81,"Matthews, Jordan",WR,O,75,212,24,3,Vanderbilt,Philadelphia Eagles
+1717,51,"Means, Steven",DL,D,75,263,26,2,Buffalo,Philadelphia Eagles
+1718,90,"Smith, Marcus",DL,D,75,251,24,3,Louisville,Philadelphia Eagles
+1719,61,"Wisniewski, Stefen",OL,O,75,305,27,6,Penn State,Philadelphia Eagles
+1720,45,"Bonnet, Andrew",RB,O,75,250,23,0,North Dakota State,Philadelphia Eagles
+1721,78,"Greene, Darrell",OL,O,75,321,23,0,San Diego State,Philadelphia Eagles
+1722,76,"Barbre, Allen",OL,O,76,310,32,9,Missouri Southern State,Philadelphia Eagles
+1723,98,"Barwin, Connor",DL,D,76,264,29,8,Cincinnati,Philadelphia Eagles
+1724,87,"Celek, Brent",TE,O,76,255,31,10,Cincinnati,Philadelphia Eagles
+1725,91,"Cox, Fletcher",DL,D,76,310,25,5,Mississippi State,Philadelphia Eagles
+1726,69,"Gordon, Dillon",OL,O,76,322,23,0,LSU,Philadelphia Eagles
+1727,71,"Peters, Jason",OL,O,76,328,34,13,Arkansas,Philadelphia Eagles
+1728,73,"Seumalo, Isaac",OL,O,76,303,22,0,Oregon State,Philadelphia Eagles
+1729,97,"Vaeao, Destiny",DL,D,76,299,22,0,Washington State,Philadelphia Eagles
+1730,NA,"Neary, Aaron",OL,O,76,301,23,0,Eastern Washington,Philadelphia Eagles
+1731,56,"Braman, Bryan",DL,D,77,241,29,6,West Texas A&M,Philadelphia Eagles
+1732,79,"Brooks, Brandon",OL,O,77,335,27,5,Miami (Ohio),Philadelphia Eagles
+1733,86,"Ertz, Zach",TE,O,77,250,25,4,Stanford,Philadelphia Eagles
+1734,18,"Green-Beckham, Dorial",WR,O,77,237,23,2,Oklahoma,Philadelphia Eagles
+1735,11,"Wentz, Carson",QB,O,77,237,23,0,North Dakota State,Philadelphia Eagles
+1736,65,"Johnson, Lane",OL,O,78,317,26,4,Oklahoma,Philadelphia Eagles
+1737,64,"Tobin, Matt",OL,O,78,290,26,4,Iowa,Philadelphia Eagles
+1738,72,"Vaitai, Halapoulivaati",OL,O,78,315,23,0,TCU,Philadelphia Eagles
+1739,57,"McCalister, Alex",DL,D,78,239,22,0,Florida,Philadelphia Eagles
+1740,17,"Agholor, Nelson",WR,O,72,198,23,2,USC,Philadelphia Eagles
+1741,10,"Daniel, Chase",QB,O,72,225,29,8,Missouri,Philadelphia Eagles
+1742,46,"Dorenbos, Jon",LS,ST,72,250,36,14,UTEP,Philadelphia Eagles
+1743,52,"Goode, Najee",LB,D,72,244,27,5,West Virginia,Philadelphia Eagles
+1744,27,"Jenkins, Malcolm",DB,D,72,204,28,8,Ohio State,Philadelphia Eagles
+1745,95,"Kendricks, Mychal",LB,D,72,240,25,5,California,Philadelphia Eagles
+1746,24,"Mathews, Ryan",RB,O,72,220,28,7,Fresno State,Philadelphia Eagles
+1747,31,"Mills, Jalen",DB,D,72,196,22,0,LSU,Philadelphia Eagles
+1748,16,"Treggs, Bryce",WR,O,72,185,22,0,California,Philadelphia Eagles
+1749,27,"Golson, Senquez",DB,D,69,176,23,2,Mississippi,Pittsburgh Steelers
+1750,29,"Thomas, Shamarko",DB,D,69,205,25,4,Syracuse,Pittsburgh Steelers
+1751,33,"Toussaint, Fitzgerald",RB,O,69,204,26,3,Michigan,Pittsburgh Steelers
+1752,34,"Williams, DeAngelo",RB,O,69,207,33,11,Memphis,Pittsburgh Steelers
+1753,84,"Brown, Antonio",WR,O,70,181,28,7,Central Michigan,Pittsburgh Steelers
+1754,22,"Gay, William",DB,D,70,187,31,10,Louisville,Pittsburgh Steelers
+1755,17,"Rogers, Eli",WR,O,70,187,23,2,Louisville,Pittsburgh Steelers
+1756,37,"Dangerfield, Jordan",DB,D,71,199,25,1,Towson,Pittsburgh Steelers
+1757,21,"Golden, Robert",DB,D,71,202,26,5,Arizona,Pittsburgh Steelers
+1758,45,"Nix, Roosevelt",RB,O,71,248,24,2,Kent State,Pittsburgh Steelers
+1759,38,"Richardson, Daryl",RB,O,71,196,26,3,Abilene Christian,Pittsburgh Steelers
+1760,11,"Wheaton, Markus",WR,O,71,189,25,4,Oregon State,Pittsburgh Steelers
+1761,15,"Ayers, Demarcus",WR,O,71,190,22,0,Houston,Pittsburgh Steelers
+1762,30,"Cobb, David",RB,O,71,229,23,0,Minnesota,Pittsburgh Steelers
+1763,14,"Coates, Sammie",WR,O,73,212,23,2,Auburn,Pittsburgh Steelers
+1764,28,"Davis, Sean",DB,D,73,202,22,0,Maryland,Pittsburgh Steelers
+1765,51,"Johnson, Steven",LB,D,73,237,28,5,Kansas,Pittsburgh Steelers
+1766,44,"Matakevich, Tyler",LB,D,73,235,23,0,Temple,Pittsburgh Steelers
+1767,23,"Mitchell, Mike",DB,D,73,221,29,8,Ohio,Pittsburgh Steelers
+1768,50,"Shazier, Ryan",LB,D,73,230,24,3,Ohio State,Pittsburgh Steelers
+1769,94,"Timmons, Lawrence",LB,D,73,234,30,10,Florida State,Pittsburgh Steelers
+1770,98,"Williams, Vince",LB,D,73,233,26,4,Florida State,Pittsburgh Steelers
+1771,NA,"Gradkowski, Bruce",QB,O,73,217,33,11,Toledo,Pittsburgh Steelers
+1772,26,"Bell, Le'Veon",RB,O,73,225,24,4,Michigan State,Pittsburgh Steelers
+1773,9,"Boswell, Chris",K,ST,74,185,25,2,Rice,Pittsburgh Steelers
+1774,79,"Hargrave, Javon",DL,D,74,305,23,0,South Carolina State,Pittsburgh Steelers
+1775,88,"Heyward-Bey, Darrius",WR,O,74,210,29,8,Maryland,Pittsburgh Steelers
+1776,82,"Johnson, David",TE,O,74,260,29,8,Arkansas State,Pittsburgh Steelers
+1777,NA,"Severin, Canaan",WR,O,74,205,23,0,Virginia,Pittsburgh Steelers
+1778,83,"Hamilton, Cobi",WR,O,74,197,25,1,Arkansas,Pittsburgh Steelers
+1779,20,"Shabazz, Al-Hajj",DB,D,74,200,24,1,West Chester (Pa.),Pittsburgh Steelers
+1780,56,"Chickillo, Anthony",LB,D,75,255,23,2,Miami (Fla.),Pittsburgh Steelers
+1781,95,"Jones, Jarvis",LB,D,75,248,26,4,Georgia,Pittsburgh Steelers
+1782,90,"Mathews, Ricardo",DL,D,75,300,29,7,Cincinnati,Pittsburgh Steelers
+1783,60,"Warren, Greg",LS,ST,75,252,34,12,North Carolina,Pittsburgh Steelers
+1784,NA,"Ume-Ezeoke, Valerian",OL,O,75,295,23,1,New Mexico State,Pittsburgh Steelers
+1785,42,"Hagen, Jacob",DB,D,75,205,24,1,Liberty,Pittsburgh Steelers
+1786,67,"Finney, B.J.",OL,O,76,318,24,1,Kansas State,Pittsburgh Steelers
+1787,85,"Grimble, Xavier",TE,O,76,261,23,1,USC,Pittsburgh Steelers
+1788,74,"Hubbard, Chris",OL,O,76,295,25,3,UAB,Pittsburgh Steelers
+1789,3,"Jones, Landry",QB,O,76,225,27,4,Oklahoma,Pittsburgh Steelers
+1790,53,"Pouncey, Maurkice",OL,O,76,304,27,7,Florida,Pittsburgh Steelers
+1791,72,"Wallace, Cody",OL,O,76,296,31,7,Texas A&M,Pittsburgh Steelers
+1792,NA,"Anderson, Kevin",LB,D,76,244,23,0,Stanford,Pittsburgh Steelers
+1793,NA,"Dupree, Bud",LB,D,76,269,23,2,Kentucky,Pittsburgh Steelers
+1794,NA,"Manhart, Cole",OL,O,76,298,23,1,Nebraska-Kearney,Pittsburgh Steelers
+1795,87,"Allen, RaShaun",TE,O,76,250,26,2,Southern University,Pittsburgh Steelers
+1796,41,"Feeney, Travis",LB,D,76,226,23,0,Washington,Pittsburgh Steelers
+1797,10,"Bryant, Martavis",WR,O,76,211,24,3,Clemson,Pittsburgh Steelers
+1798,4,"Berry, Jordan",P,ST,77,195,25,2,Eastern Kentucky,Pittsburgh Steelers
+1799,66,"DeCastro, David",OL,O,77,316,26,5,Stanford,Pittsburgh Steelers
+1800,73,"Foster, Ramon",OL,O,77,328,30,8,Tennessee,Pittsburgh Steelers
+1801,68,"Harris, Ryan",OL,O,77,302,31,9,Notre Dame,Pittsburgh Steelers
+1802,97,"Heyward, Cameron",DL,D,77,295,27,6,Ohio State,Pittsburgh Steelers
+1803,18,"Mettenberger, Zach",QB,O,77,224,25,3,LSU,Pittsburgh Steelers
+1804,7,"Roethlisberger, Ben",QB,O,77,240,34,13,Miami (Ohio),Pittsburgh Steelers
+1805,96,"Walton, L.T.",DL,D,77,305,24,2,Central Michigan,Pittsburgh Steelers
+1806,99,"Lyons, Caushaud",DL,D,77,284,23,1,Tusculum,Pittsburgh Steelers
+1807,62,"Maxey, Johnny",DL,D,77,283,22,0,Mars Hill,Pittsburgh Steelers
+1808,77,"Gilbert, Marcus",OL,O,78,330,28,6,Florida,Pittsburgh Steelers
+1809,91,"Tuitt, Stephon",DL,D,78,303,23,3,Notre Dame,Pittsburgh Steelers
+1810,NA,"Hawkins, Jerald",OL,O,78,305,22,0,LSU,Pittsburgh Steelers
+1811,71,"Feiler, Matt",OL,O,78,330,24,1,Bloomsburg,Pittsburgh Steelers
+1812,89,"Green, Ladarius",TE,O,78,240,26,5,Louisiana-Lafayette,Pittsburgh Steelers
+1813,81,"James, Jesse",TE,O,79,261,22,2,Penn State,Pittsburgh Steelers
+1814,93,"McCullers, Daniel",DL,D,79,352,24,3,Tennessee,Pittsburgh Steelers
+1815,78,"Villanueva, Alejandro",OL,O,81,320,27,2,Army,Pittsburgh Steelers
+1816,25,"Burns, Artie",DB,D,72,197,21,0,Miami (Fla.),Pittsburgh Steelers
+1817,31,"Cockrell, Ross",DB,D,72,191,25,3,Duke,Pittsburgh Steelers
+1818,54,"Fort, L.J.",LB,D,72,232,26,2,Northern Iowa,Pittsburgh Steelers
+1819,24,"Gilbert, Justin",DB,D,72,202,24,3,Oklahoma State,Pittsburgh Steelers
+1820,92,"Harrison, James",LB,D,72,242,38,14,Kent State,Pittsburgh Steelers
+1821,55,"Moats, Arthur",LB,D,72,246,28,7,James Madison,Pittsburgh Steelers
+1822,39,"Woodhead, Danny",RB,O,68,200,31,9,Chadron State,San Diego Chargers
+1823,43,"Oliver, Branden",RB,O,68,208,25,3,Buffalo,San Diego Chargers
+1824,27,"Farrow, Kenneth",RB,O,69,219,23,0,Houston,San Diego Chargers
+1825,24,"Flowers, Brandon",DB,D,69,187,30,9,Virginia Tech,San Diego Chargers
+1826,30,"McDonald, Adrian",DB,D,69,190,22,0,Houston,San Diego Chargers
+1827,37,"Addae, Jahleel",DB,D,70,195,26,4,Central Michigan,San Diego Chargers
+1828,12,"Benjamin, Travis",WR,O,70,175,26,5,Miami (Fla.),San Diego Chargers
+1829,89,"Burse, Isaiah",WR,O,70,187,24,2,Fresno State,San Diego Chargers
+1830,22,"Verrett, Jason",DB,D,70,188,25,3,Texas Christian,San Diego Chargers
+1831,40,"Chestnut, Terrell",DB,D,70,196,24,0,West Virginia,San Diego Chargers
+1832,57,"Brown, Jatavis",LB,D,71,221,22,0,Akron,San Diego Chargers
+1833,26,"Hayward, Casey",DB,D,71,192,27,5,Vanderbilt,San Diego Chargers
+1834,20,"Lowery, Dwight",DB,D,71,212,30,9,San Jose State,San Diego Chargers
+1835,29,"Mager, Craig",DB,D,71,200,24,2,Texas State,San Diego Chargers
+1836,52,"Perryman, Denzel",LB,D,71,240,23,2,Miami (Fla.),San Diego Chargers
+1837,31,"Phillips, Adrian",DB,D,71,210,24,2,Texas,San Diego Chargers
+1838,25,"Stuckey, Darrell",DB,D,71,212,29,7,Kansas,San Diego Chargers
+1839,81,"Krause, Jonathan",WR,O,71,190,24,2,Vanderbilt,San Diego Chargers
+1840,42,"Williams, Trevor",DB,D,71,191,23,0,Penn State,San Diego Chargers
+1841,90,"Carrethers, Ryan",DL,D,73,333,25,3,Arkansas State,San Diego Chargers
+1842,48,"Dzubnar, Nick",LB,D,73,240,25,2,Cal Poly-S.L.O.,San Diego Chargers
+1843,28,"Gordon, Melvin",RB,O,73,215,23,2,Wisconsin,San Diego Chargers
+1844,92,"Mebane, Brandon",DL,D,73,311,31,10,California,San Diego Chargers
+1845,95,"Palepoi, Tenny",DL,D,73,298,25,3,Utah,San Diego Chargers
+1846,93,"Philon, Darius",DL,D,73,300,22,2,Arkansas,San Diego Chargers
+1847,50,"Te'o, Manti",LB,D,73,241,25,4,Notre Dame,San Diego Chargers
+1848,47,"Windt, Mike",LS,ST,73,237,30,7,Cincinnati,San Diego Chargers
+1849,91,"Wray, Carlos",DL,D,73,287,22,0,Duke,San Diego Chargers
+1850,10,"Clemens, Kellen",QB,O,74,220,33,11,Oregon,San Diego Chargers
+1851,40,"Desir, Pierre",DB,D,74,206,26,3,Lindenwood,San Diego Chargers
+1852,54,"Ingram, Melvin",LB,D,74,247,27,5,South Carolina,San Diego Chargers
+1853,8,"Kaser, Drew",P,ST,74,206,23,0,Texas A&M,San Diego Chargers
+1854,94,"Liuget, Corey",DL,D,74,300,26,6,Illinois,San Diego Chargers
+1855,91,"Reid, Caraun",DL,D,74,298,24,3,Princeton,San Diego Chargers
+1856,34,"Watt, Derek",RB,O,74,234,23,0,Wisconsin,San Diego Chargers
+1857,46,"Landrum, Chris",LB,D,74,245,24,0,Jacksonville State,San Diego Chargers
+1858,70,"Shepherd, Austin",OL,O,74,327,24,2,Alabama,San Diego Chargers
+1859,7,"Williams, Dom",WR,O,74,200,23,0,Washington State,San Diego Chargers
+1860,13,"Allen, Keenan",WR,O,74,211,24,4,California,San Diego Chargers
+1861,11,"Johnson, Stevie",WR,O,74,207,30,9,Kentucky,San Diego Chargers
+1862,71,"Square, Damion",DL,D,74,293,27,4,Alabama,San Diego Chargers
+1863,97,"Attaochu, Jerry",LB,D,75,252,23,3,Georgia Tech,San Diego Chargers
+1864,51,"Emanuel, Kyle",LB,D,75,250,25,2,North Dakota State,San Diego Chargers
+1865,15,"Inman, Dontrelle",WR,O,75,205,27,3,Virginia,San Diego Chargers
+1866,59,"Hekking, Brock",LB,D,75,250,24,2,Nevada,San Diego Chargers
+1867,98,"Lissemore, Sean",DL,D,75,303,29,7,William & Mary,San Diego Chargers
+1868,44,"Marcordes, Tyler",LB,D,75,245,23,0,Georgia Tech,San Diego Chargers
+1869,65,"Watt, Chris",OL,O,75,310,26,3,Notre Dame,San Diego Chargers
+1870,85,"Gates, Antonio",TE,O,76,255,36,14,Kent State,San Diego Chargers
+1871,23,"McCoil, Dexter",DB,D,76,220,25,1,Tulsa,San Diego Chargers
+1872,53,"Perry, Joshua",LB,D,76,253,22,0,Ohio State,San Diego Chargers
+1873,73,"Pulley, Spencer",OL,O,76,308,23,0,Vanderbilt,San Diego Chargers
+1874,58,"Williams, Tourek",LB,D,76,262,25,4,Florida International,San Diego Chargers
+1875,16,"Williams, Tyrell",WR,O,76,205,24,2,Western Oregon,San Diego Chargers
+1876,96,"Eulls, Kaleb",OL,O,76,309,25,2,Mississippi State,San Diego Chargers
+1877,49,"Gardner, Ben",LB,D,76,270,25,2,Stanford,San Diego Chargers
+1878,91,"Carlis, Zamir",DL,D,76,275,26,0,Stillman,San Diego Chargers
+1879,63,"Clark, Donavon",OL,O,76,315,23,0,Michigan State,San Diego Chargers
+1880,87,"Cumberland, Jeff",TE,O,76,260,29,7,Illinois,San Diego Chargers
+1881,72,"Barksdale, Joe",OL,O,77,326,27,6,LSU,San Diego Chargers
+1882,99,"Bosa, Joey",DL,D,77,280,21,0,Ohio State,San Diego Chargers
+1883,76,"Fluker, D.J.",OL,O,77,339,25,4,Alabama,San Diego Chargers
+1884,86,"Henry, Hunter",TE,O,77,250,21,0,Arkansas,San Diego Chargers
+1885,84,"McGrath, Sean",TE,O,77,259,28,2,Henderson State,San Diego Chargers
+1886,17,"Rivers, Philip",QB,O,77,228,34,13,North Carolina State,San Diego Chargers
+1887,68,"Slauson, Matt",OL,O,77,315,30,8,Nebraska,San Diego Chargers
+1888,62,"Tuerk, Max",OL,O,77,298,22,0,USC,San Diego Chargers
+1889,45,"Cleveland, Asante",TE,O,77,260,24,2,Miami (Fla.),San Diego Chargers
+1890,83,"McGee, Jake",TE,O,77,250,25,0,Florida,San Diego Chargers
+1891,70,"Johnstone, Tyler",OL,O,77,301,23,0,Oregon,San Diego Chargers
+1892,78,"Burwell, Tyreek",OL,O,78,310,24,2,Cincinnati,San Diego Chargers
+1893,74,"Franklin, Orlando",OL,O,78,315,28,6,Miami (Fla.),San Diego Chargers
+1894,75,"Hairston, Chris",OL,O,78,330,27,5,Clemson,San Diego Chargers
+1895,79,"Wiggins, Kenny",OL,O,78,314,28,3,Fresno State,San Diego Chargers
+1896,77,"Dunlap, King",OL,O,81,330,31,9,Auburn,San Diego Chargers
+1897,2,"Lambo, Josh",K,ST,72,215,25,2,Texas A&M,San Diego Chargers
+1898,44,"Williams, Andre",RB,O,72,220,24,3,Boston College,San Diego Chargers
+1899,81,"Herndon, Javontee",WR,O,72,194,24,2,Arkansas,San Diego Chargers
+1900,32,"Harris, DuJuan",RB,O,67,206,28,3,Troy,San Fransisco 49s
+1901,22,"Davis, Mike",RB,O,69,217,23,2,South Carolina,San Fransisco 49s
+1902,17,"Kerley, Jeremy",WR,O,69,188,27,6,Texas Christian,San Fransisco 49s
+1903,10,"Ellington, Bruce",WR,O,69,197,25,3,South Carolina,San Fransisco 49s
+1904,26,"Brock, Tramaine",DB,D,70,197,28,7,Belhaven,San Fransisco 49s
+1905,43,"Davis, Chris",DB,D,70,201,25,3,Auburn,San Fransisco 49s
+1906,31,"Taylor, Kelvin",RB,O,70,205,22,0,Florida,San Fransisco 49s
+1907,41,"Bethea, Antoine",DB,D,71,206,32,11,Howard,San Fransisco 49s
+1908,4,"Dawson, Phil",K,ST,71,200,41,18,Texas,San Fransisco 49s
+1909,24,"Draughn, Shaun",RB,O,71,205,28,5,North Carolina,San Fransisco 49s
+1910,25,"Ward, Jimmie",DB,D,71,193,25,3,Northern Illinois,San Fransisco 49s
+1911,14,"Harper, Chris",WR,O,71,185,22,1,California,San Fransisco 49s
+1912,30,"Iworah, Prince Charles",DB,D,71,193,23,0,Western Kentucky,San Fransisco 49s
+1913,50,"Bellore, Nick",LB,D,73,250,27,6,Central Michigan,San Fransisco 49s
+1914,13,"Burbridge, Aaron",WR,O,73,208,22,0,Michigan State,San Fransisco 49s
+1915,90,"Dorsey, Glenn",DL,D,73,297,31,9,Louisiana State,San Fransisco 49s
+1916,35,"Reid, Eric",DB,D,73,213,24,4,Louisiana State,San Fransisco 49s
+1917,33,"Robinson, Rashard",DB,D,73,177,21,0,Louisiana State,San Fransisco 49s
+1918,29,"Tartt, Jaquiski",DB,D,73,221,24,2,Samford,San Fransisco 49s
+1919,93,"Williams, Ian",DL,D,73,305,27,6,Notre Dame,San Fransisco 49s
+1920,51,"Hodges, Gerald",LB,D,74,236,25,4,Penn State,San Fransisco 49s
+1921,36,"Johnson, Dontae",DB,D,74,200,24,3,North Carolina State,San Fransisco 49s
+1922,86,"Nelson, Kyle",TE,O,74,240,29,5,New Mexico State,San Fransisco 49s
+1923,15,"Ponder, Christian",QB,O,74,230,28,5,Florida State,San Fransisco 49s
+1924,81,"Streater, Rod",WR,O,74,195,28,5,Temple,San Fransisco 49s
+1925,9,"Lewis, Thad",QB,O,74,219,28,4,Duke,San Fransisco 49s
+1926,18,"Anderson, Dres",WR,O,74,190,24,2,Utah,San Fransisco 49s
+1927,54,"Armstrong, Ray-Ray",LB,D,75,220,25,4,Miami (FL),San Fransisco 49s
+1928,55,"Brooks, Ahmad",LB,D,75,259,32,11,Virginia,San Fransisco 49s
+1929,58,"Harold, Eli",LB,D,75,265,22,2,Virginia,San Fransisco 49s
+1930,67,"Kilgore, Daniel",OL,O,75,308,28,6,Appalachian State,San Fransisco 49s
+1931,66,"Martin, Marcus",OL,O,75,321,22,3,Southern California,San Fransisco 49s
+1932,64,"Purcell, Mike",DL,D,75,303,25,3,Wyoming,San Fransisco 49s
+1933,3,"Rogers, Eric",WR,O,75,210,25,1,California Lutheran,San Fransisco 49s
+1934,85,"Hamm, Je'Ron",TE,O,75,236,24,2,Louisiana-Monroe,San Fransisco 49s
+1935,44,"Rush, Marcus",LB,D,75,251,25,1,Michigan State,San Fransisco 49s
+1936,56,"Skov, Shayne",LB,D,75,247,26,2,Stanford,San Fransisco 49s
+1937,68,"Beadles, Zane",OL,O,76,305,29,7,Utah,San Fransisco 49s
+1938,98,"Blair, Ronald",DL,D,76,270,23,0,Appalachian State,San Fransisco 49s
+1939,95,"Carradine, Tank",LB,D,76,270,26,4,Florida State,San Fransisco 49s
+1940,2,"Gabbert, Blaine",QB,O,76,235,26,6,Missouri,San Fransisco 49s
+1941,7,"Kaepernick, Colin",QB,O,76,230,28,6,Nevada,San Fransisco 49s
+1942,89,"McDonald, Vance",TE,O,76,267,26,4,Rice,San Fransisco 49s
+1943,61,"Tiller, Andrew",OL,O,76,324,27,4,Syracuse,San Fransisco 49s
+1944,75,"Balducci, Alex",OL,O,76,310,22,0,Oregon,San Fransisco 49s
+1945,78,"Price, Norman",OL,O,76,311,22,0,Southern Mississippi,San Fransisco 49s
+1946,88,"Celek, Garrett",TE,O,77,252,28,5,Michigan State,San Fransisco 49s
+1947,76,"Davis, Anthony",OL,O,77,323,26,6,Rutgers,San Fransisco 49s
+1948,92,"Dial, Quinton",DL,D,77,318,26,4,Alabama,San Fransisco 49s
+1949,65,"Garnett, Joshua",OL,O,77,321,22,0,Stanford,San Fransisco 49s
+1950,63,"Jerod-Eddie, Tony",DL,D,77,301,26,4,Texas A&M,San Fransisco 49s
+1951,5,"Pinion, Bradley",P,ST,77,229,22,2,Clemson,San Fransisco 49s
+1952,74,"Staley, Joe",OL,O,77,315,32,10,Central Michigan,San Fransisco 49s
+1953,60,"Cooper, Fahn",OL,O,77,306,23,0,Mississippi,San Fransisco 49s
+1954,84,"Bell, Blake",TE,O,78,252,25,2,Oklahoma,San Fransisco 49s
+1955,96,"Hart, Taylor",DL,D,78,281,25,3,Oregon,San Fransisco 49s
+1956,71,"Theus, John",OL,O,78,303,22,0,Georgia,San Fransisco 49s
+1957,59,"Lynch, Aaron",LB,D,78,270,23,3,South Florida,San Fransisco 49s
+1958,91,"Armstead, Arik",DL,D,79,292,22,2,Oregon,San Fransisco 49s
+1959,99,"Buckner, DeForest",DL,D,79,300,22,0,Oregon,San Fransisco 49s
+1960,77,"Brown, Trent",OL,O,80,355,23,2,Florida,San Fransisco 49s
+1961,53,"Bowman, NaVorro",LB,D,72,242,28,7,Penn State,San Fransisco 49s
+1962,20,"Cromartie, Marcus",DB,D,72,195,25,3,Wisconsin,San Fransisco 49s
+1963,28,"Hyde, Carlos",RB,O,72,235,24,3,Ohio State,San Fransisco 49s
+1964,11,"Patton, Quinton",WR,O,72,204,26,4,Louisiana Tech,San Fransisco 49s
+1965,27,"Reaser, Keith",DB,D,72,190,25,2,Florida Atlantic,San Fransisco 49s
+1966,82,"Smith, Torrey",WR,O,72,205,27,6,Maryland,San Fransisco 49s
+1967,57,"Wilhoite, Michael",LB,D,72,240,29,5,Washburn,San Fransisco 49s
+1968,23,"Redmond, Will",DB,D,72,186,22,0,Mississippi State,San Fransisco 49s
+1969,34,"Rawls, Thomas",RB,O,69,215,23,2,Central Michigan,Seattle Seahawks
+1970,89,"Baldwin, Doug",WR,O,70,192,27,6,Stanford,Seattle Seahawks
+1971,36,"Collins, Alex",RB,O,70,217,22,0,Arkansas,Seattle Seahawks
+1972,16,"Lockett, Tyler",WR,O,70,182,23,2,Kansas State,Seattle Seahawks
+1973,32,"Michael, Christine",RB,O,70,221,25,4,Texas A&M,Seattle Seahawks
+1974,23,"Terrell, Steven",DB,D,70,197,25,4,Texas A&M,Seattle Seahawks
+1975,29,"Thomas, Earl",DB,D,70,202,27,7,Texas,Seattle Seahawks
+1976,3,"Wilson, Russell",QB,O,71,215,27,5,Wisconsin,Seattle Seahawks
+1977,52,"Coyle, Brock",LB,D,73,245,25,3,Montana,Seattle Seahawks
+1978,21,"Elliott, DeAndre",DB,D,73,189,23,0,Colorado State,Seattle Seahawks
+1979,15,"Kearse, Jermaine",WR,O,73,209,26,5,Washington,Seattle Seahawks
+1980,22,"Prosise, C.J.",RB,O,73,220,22,0,Notre Dame,Seattle Seahawks
+1981,98,"Smith, Garrison",DL,D,73,310,24,3,Georgia,Seattle Seahawks
+1982,27,"Thorpe, Neiko",DB,D,73,198,26,4,Auburn,Seattle Seahawks
+1983,48,"Frese, Nolan",LS,ST,74,233,24,0,Houston,Seattle Seahawks
+1984,53,"Hunt, Joey",OL,O,74,299,22,0,Texas Christian,Seattle Seahawks
+1985,33,"McCray, Kelcie",DB,D,74,202,27,4,Arkansas State,Seattle Seahawks
+1986,77,"Rubin, Ahtyba",DL,D,74,310,30,9,Iowa State,Seattle Seahawks
+1987,35,"Shead, DeShawn",DB,D,74,212,28,5,Portland State,Seattle Seahawks
+1988,46,"Tukuafu, Will",RB,O,74,280,32,7,Oregon,Seattle Seahawks
+1989,56,"Avril, Cliff",DL,D,75,260,30,9,Purdue,Seattle Seahawks
+1990,31,"Chancellor, Kam",DB,D,75,225,28,7,Virginia Tech,Seattle Seahawks
+1991,55,"Clark, Frank",DL,D,75,260,23,2,Michigan,Seattle Seahawks
+1992,57,"Morgan, Mike",LB,D,75,235,28,6,USC,Seattle Seahawks
+1993,40,"Powell, Tyvis",DB,D,75,211,22,0,Ohio State,Seattle Seahawks
+1994,90,"Reed, Jarran",DL,D,75,311,23,0,Alabama,Seattle Seahawks
+1995,25,"Sherman, Richard",DB,D,75,195,28,6,Stanford,Seattle Seahawks
+1996,86,"Williams, Brandon",TE,O,75,247,28,4,Oregon,Seattle Seahawks
+1997,72,"Bennett, Michael",DL,D,76,274,30,8,Texas A&M,Seattle Seahawks
+1998,63,"Glowinski, Mark",OL,O,76,310,24,2,West Virginia,Seattle Seahawks
+1999,4,"Hauschka, Steven",K,ST,76,210,31,9,North Carolina State,Seattle Seahawks
+2000,99,"Jefferson, Quinton",DL,D,76,291,23,0,Maryland,Seattle Seahawks
+2001,91,"Marsh, Cassius",DL,D,76,245,24,3,UCLA,Seattle Seahawks
+2002,70,"Odhiambo, Rees",OL,O,76,315,23,0,Boise State,Seattle Seahawks
+2003,50,"Wright, K.J.",LB,D,76,246,27,6,Mississippi State,Seattle Seahawks
+2004,74,"Fant, George",OL,O,77,296,24,0,Western Kentucky,Seattle Seahawks
+2005,79,"Gilliam, Garry",OL,O,77,315,25,3,Penn State,Seattle Seahawks
+2006,82,"Willson, Luke",TE,O,77,252,26,4,Rice,Seattle Seahawks
+2007,68,"Britt, Justin",OL,O,78,315,25,3,Missouri,Seattle Seahawks
+2008,19,"McEvoy, Tanner",WR,O,78,230,23,0,Wisconsin,Seattle Seahawks
+2009,81,"Vannett, Nick",TE,O,78,257,23,0,Ohio State,Seattle Seahawks
+2010,88,"Graham, Jimmy",TE,O,79,265,29,7,Miami (Fla.),Seattle Seahawks
+2011,93,"McDaniel, Tony",DL,D,79,305,31,11,Tennessee,Seattle Seahawks
+2012,78,"Sowell, Bradley",OL,O,79,309,27,5,Mississippi,Seattle Seahawks
+2013,73,"Webb, J'Marcus",OL,O,79,331,28,7,West Texas A&M,Seattle Seahawks
+2014,2,"Boykin, Trevone",QB,O,72,213,23,0,Texas Christian,Seattle Seahawks
+2015,20,"Lane, Jeremy",DB,D,72,190,26,5,Northwestern State-Louisiana,Seattle Seahawks
+2016,41,"McDonald, Dewey",LB,D,72,220,26,3,California (PA),Seattle Seahawks
+2017,58,"Pierre-Louis, Kevin",LB,D,72,230,24,3,Boston College,Seattle Seahawks
+2018,10,"Richardson, Paul",WR,O,72,183,24,3,Colorado,Seattle Seahawks
+2019,9,"Ryan, Jon",P,ST,72,217,34,11,Regina (Canada),Seattle Seahawks
+2020,54,"Wagner, Bobby",LB,D,72,245,26,5,Utah State,Seattle Seahawks
+2021,76,"Ifedi, Germain",OL,O,77,325,22,0,Texas A&M,Seattle Seahawks
+2022,32,"Rodgers, Jacquizz",RB,O,67,190,26,6,Oregon State,Tampa Bay Buccanners
+2023,22,"Martin, Doug",RB,O,69,223,27,5,Boise State,Tampa Bay Buccanners
+2024,24,"Grimes, Brent",DB,D,70,185,33,10,Shippensburg,Tampa Bay Buccanners
+2025,28,"Hargreaves, Vernon",DB,D,70,205,21,0,Florida,Tampa Bay Buccanners
+2026,26,"Robinson, Josh",DB,D,70,199,25,5,Central Florida,Tampa Bay Buccanners
+2027,37,"Tandy, Keith",DB,D,70,205,27,5,West Virginia,Tampa Bay Buccanners
+2028,21,"Verner, Alterraun",DB,D,70,187,27,7,UCLA,Tampa Bay Buccanners
+2029,38,"Adjei-Barimah, Jude",DB,D,71,200,24,2,Bowling Green,Tampa Bay Buccanners
+2030,43,"Barber, Peyton",RB,O,71,225,22,0,Auburn,Tampa Bay Buccanners
+2031,11,"Humphries, Adam",WR,O,71,195,23,2,Clemson,Tampa Bay Buccanners
+2032,35,"Elliott, Javien",DB,D,71,176,23,0,Florida State,Tampa Bay Buccanners
+2033,19,"Aguayo, Roberto",K,ST,73,203,22,0,Florida State,Tampa Bay Buccanners
+2034,58,"Alexander, Kwon",LB,D,73,227,22,2,Louisiana State,Tampa Bay Buccanners
+2035,59,"Bond, Devante",LB,D,73,236,23,0,Oklahoma,Tampa Bay Buccanners
+2036,54,"David, Lavonte",LB,D,73,233,26,5,Nebraska,Tampa Bay Buccanners
+2037,53,"Glanton, Adarius",LB,D,73,230,25,2,Florida Atlantic,Tampa Bay Buccanners
+2038,30,"McDougald, Bradley",DB,D,73,209,25,4,Kansas,Tampa Bay Buccanners
+2039,89,"Shepard, Russell",WR,O,73,195,26,4,Louisiana State,Tampa Bay Buccanners
+2040,97,"Spence, Akeem",DL,D,73,307,24,4,Illinois,Tampa Bay Buccanners
+2041,45,"Cross, Alan",TE,O,73,235,23,0,Memphis,Tampa Bay Buccanners
+2042,27,"Banks, Johnthan",DB,D,74,185,26,4,Mississippi State,Tampa Bay Buccanners
+2043,23,"Conte, Chris",DB,D,74,203,27,6,California,Tampa Bay Buccanners
+2044,48,"DePaola, Andrew",LS,ST,74,230,29,3,Rutgers,Tampa Bay Buccanners
+2045,50,"Keyes, Josh",LB,D,74,223,23,2,Boston College,Tampa Bay Buccanners
+2046,75,"Lambert, DaVonte",DL,D,74,282,22,0,Auburn,Tampa Bay Buccanners
+2047,98,"McDonald, Clinton",DL,D,74,297,29,7,Memphis,Tampa Bay Buccanners
+2048,51,"Smith, Daryl",LB,D,74,250,34,13,Georgia Tech,Tampa Bay Buccanners
+2049,62,"Smith, Evan",OL,O,74,308,30,7,Idaho State,Tampa Bay Buccanners
+2050,57,"Spence, Noah",DL,D,74,251,22,0,Eastern Kentucky,Tampa Bay Buccanners
+2051,56,"Smith, Jacquies",DL,D,74,260,26,3,Missouri,Tampa Bay Buccanners
+2052,17,"Butler, Jeremy",WR,O,74,213,25,3,Tennessee-Martin,Tampa Bay Buccanners
+2053,86,"Vitale, Danny",TE,O,74,225,22,0,Northwestern,Tampa Bay Buccanners
+2054,18,"Murphy, Louis",WR,O,74,200,29,8,Florida,Tampa Bay Buccanners
+2055,9,"Anger, Bryan",P,ST,75,205,27,5,California,Tampa Bay Buccanners
+2056,91,"Ayers, Robert",DL,D,75,275,31,8,Tennessee,Tampa Bay Buccanners
+2057,68,"Hawley, Joe",OL,O,75,302,27,7,Nevada-Las Vegas,Tampa Bay Buccanners
+2058,82,"Myers, Brandon",TE,O,75,256,31,8,Iowa,Tampa Bay Buccanners
+2059,61,"Allen, Josh",OL,O,75,315,24,1,Louisiana-Monroe,Tampa Bay Buccanners
+2060,90,"Coe, Rodney",DL,D,75,305,23,0,Akron,Tampa Bay Buccanners
+2061,95,"Jones, Howard",DL,D,76,238,26,2,Shepherd,Tampa Bay Buccanners
+2062,74,"Marpet, Ali",OL,O,76,307,23,2,Hobart,Tampa Bay Buccanners
+2063,93,"McCoy, Gerald",DL,D,76,300,28,7,Oklahoma,Tampa Bay Buccanners
+2064,71,"Ward, Channing",DL,D,76,279,24,0,Mississippi,Tampa Bay Buccanners
+2065,3,"Winston, Jameis",QB,O,76,231,22,2,Florida State,Tampa Bay Buccanners
+2066,94,"Johnson, George",DL,D,76,265,28,5,Rutgers,Tampa Bay Buccanners
+2067,77,"Benenoch, Caleb",OL,O,77,305,22,0,UCLA,Tampa Bay Buccanners
+2068,84,"Brate, Cameron",TE,O,77,235,25,2,Harvard,Tampa Bay Buccanners
+2069,13,"Evans, Mike",WR,O,77,231,23,3,Texas A&M,Tampa Bay Buccanners
+2070,4,"Griffin, Ryan",QB,O,77,210,26,3,Tulane,Tampa Bay Buccanners
+2071,83,"Jackson, Vincent",WR,O,77,230,33,12,Northern Colorado,Tampa Bay Buccanners
+2072,64,"Pamphile, Kevin",OL,O,77,315,25,3,Purdue,Tampa Bay Buccanners
+2073,87,"Seferian-Jenkins, Austin",TE,O,77,260,23,3,Washington,Tampa Bay Buccanners
+2074,72,"Gottschalk, Ben",OL,O,77,293,24,1,Southern Methodist,Tampa Bay Buccanners
+2075,73,"Sweezy, J.R.",OL,O,77,298,27,5,North Carolina State,Tampa Bay Buccanners
+2076,92,"Gholston, William",DL,D,78,281,25,4,Michigan State,Tampa Bay Buccanners
+2077,8,"Glennon, Mike",QB,O,78,225,26,4,North Carolina State,Tampa Bay Buccanners
+2078,76,"Smith, Donovan",OL,O,78,338,23,2,Penn State,Tampa Bay Buccanners
+2079,88,"Stocker, Luke",TE,O,78,253,28,6,Tennessee,Tampa Bay Buccanners
+2080,66,"Wester, Leonard",OL,O,78,305,23,0,Missouri Western,Tampa Bay Buccanners
+2081,78,"Cherilus, Gosder",OL,O,79,316,32,9,Boston College,Tampa Bay Buccanners
+2082,69,"Dotson, Demar",OL,O,81,315,30,8,Southern Miss,Tampa Bay Buccanners
+2083,10,"Shorts, Cecil",WR,O,72,202,28,6,Mount Union,Tampa Bay Buccanners
+2084,34,"Sims, Charles",RB,O,72,211,26,3,West Virginia,Tampa Bay Buccanners
+2085,29,"Smith, Ryan",DB,D,72,190,23,0,North Carolina Central,Tampa Bay Buccanners
+2086,39,"Johnson, Isaiah",DB,D,72,209,23,0,South Carolina,Tampa Bay Buccanners
+2087,52,"Lynch, Cameron",LB,D,72,229,23,2,Syracuse,Tampa Bay Buccanners
+2088,16,"Martino, Freddie",WR,O,72,195,25,1,North Greenville,Tampa Bay Buccanners
+2089,47,"Blake, Valentino",DB,D,69,198,26,5,Texas-El Paso,Tennesse Titans
+2090,23,"McCain, Brice",DB,D,69,190,29,7,Utah,Tennesse Titans
+2091,28,"Riggs, Cody",DB,D,69,187,24,2,Notre Dame,Tennesse Titans
+2092,26,"Andrews, Antonio",RB,O,70,225,24,3,Western Kentucky,Tennesse Titans
+2093,13,"Wright, Kendall",WR,O,70,191,26,5,Baylor,Tennesse Titans
+2094,31,"Byard, Kevin",DB,D,71,216,23,0,Middle Tennessee St.,Tennesse Titans
+2095,45,"Fowler, Jalston",RB,O,71,254,26,2,Alabama,Tennesse Titans
+2096,25,"Johnson, Rashad",DB,D,71,204,30,8,Alabama,Tennesse Titans
+2097,21,"Searcy, Da'Norris",DB,D,71,207,27,6,North Carolina,Tennesse Titans
+2098,55,"Spence, Sean",LB,D,71,231,26,5,Miami (Fla.),Tennesse Titans
+2099,32,"Fluellen, David",RB,O,71,224,24,1,Toledo,Tennesse Titans
+2100,32,"Reed, Kalan",DB,D,71,198,22,0,Southern Miss,Tennesse Titans
+2101,99,"Casey, Jurrell",DL,D,73,305,26,6,USC,Tennesse Titans
+2102,87,"Mariani, Marc",WR,O,73,190,29,7,Montana,Tennesse Titans
+2103,24,"Stafford, Daimion",DB,D,73,218,25,4,Nebraska,Tennesse Titans
+2104,54,"Williamson, Avery",LB,D,73,246,24,3,Kentucky,Tennesse Titans
+2105,75,"Woods, Antwaun",DL,D,73,318,23,0,Southern California,Tennesse Titans
+2106,6,"Kern, Brett",P,ST,74,214,30,9,Toledo,Tennesse Titans
+2107,50,"Palmer, Nate",LB,D,74,248,26,3,Illinois State,Tennesse Titans
+2108,19,"Sharpe, Tajae",WR,O,74,194,21,0,Massachusetts,Tennesse Titans
+2109,4,"Succop, Ryan",K,ST,74,218,30,8,South Carolina,Tennesse Titans
+2110,70,"Warmack, Chance",OL,O,74,323,25,4,Alabama,Tennesse Titans
+2111,69,"Gallik, Andy",OL,O,74,306,26,2,Boston College,Tennesse Titans
+2112,22,"Henry, Derrick",RB,O,75,247,22,0,Alabama,Tennesse Titans
+2113,81,"Johnson, Andre",WR,O,75,229,35,14,Miami (Fla.),Tennesse Titans
+2114,60,"Jones, Ben",OL,O,75,308,27,5,Georgia,Tennesse Titans
+2115,64,"Kline, Josh",OL,O,75,300,26,4,Kent State,Tennesse Titans
+2116,97,"Klug, Karl",DL,D,75,278,28,6,Iowa,Tennesse Titans
+2117,91,"Morgan, Derrick",LB,D,75,261,27,7,Georgia Tech,Tennesse Titans
+2118,62,"Schwenke, Brian",OL,O,75,318,25,4,California,Tennesse Titans
+2119,52,"Wallace, Aaron",LB,D,75,240,23,0,UCLA,Tennesse Titans
+2120,84,"Cunningham, Jerome",TE,O,75,250,25,2,Southern Connecticut State,Tennesse Titans
+2121,51,"Bass, David",LB,D,76,256,26,4,Missouri Western State,Tennesse Titans
+2122,95,"Blackson, Angelo",DL,D,76,318,23,2,Auburn,Tennesse Titans
+2123,48,"Brinkley, Beau",LS,ST,76,248,26,5,Missouri,Tennesse Titans
+2124,16,"Cassel, Matt",QB,O,76,228,34,12,USC,Tennesse Titans
+2125,80,"Fasano, Anthony",TE,O,76,255,32,11,Notre Dame,Tennesse Titans
+2126,94,"Johnson, Austin",DL,D,76,314,22,0,Penn St.,Tennesse Titans
+2127,90,"Jones, DaQuan",DL,D,76,322,24,3,Penn State,Tennesse Titans
+2128,8,"Mariota, Marcus",QB,O,76,222,22,2,Oregon,Tennesse Titans
+2129,98,"Orakpo, Brian",LB,D,76,257,30,8,Texas,Tennesse Titans
+2130,67,"Spain, Quinton",OL,O,76,330,25,2,West Virginia,Tennesse Titans
+2131,79,"Tretola, Sebastian",OL,O,76,314,24,0,Arkansas,Tennesse Titans
+2132,96,"Woods, Al",DL,D,76,307,29,7,LSU,Tennesse Titans
+2133,57,"Staples, Justin",LB,D,76,245,26,3,Illinois,Tennesse Titans
+2134,11,"Tanney, Alex",QB,O,76,220,28,2,Monmouth (Ill.),Tennesse Titans
+2135,88,"Amaro, Jace",TE,O,77,265,24,3,Texas Tech,Tennesse Titans
+2136,93,"Dodd, Kevin",LB,D,77,277,24,0,Clemson,Tennesse Titans
+2137,89,"Supernaw, Phillip",TE,O,77,248,26,3,Ouachita Baptist,Tennesse Titans
+2138,76,"Bell, Byron",OL,O,77,340,27,6,New Mexico,Tennesse Titans
+2139,66,"Matias, Josue",OL,O,77,309,23,1,Florida State,Tennesse Titans
+2140,78,"Conklin, Jack",OL,O,78,308,22,0,Michigan St.,Tennesse Titans
+2141,92,"Abdesmad, Mehdi",DL,D,78,284,24,0,Boston College,Tennesse Titans
+2142,77,"Lewan, Taylor",OL,O,79,309,25,3,Michigan,Tennesse Titans
+2143,68,"Marz, Tyler",OL,O,79,316,24,0,Wisconsin,Tennesse Titans
+2144,71,"Kelly, Dennis",OL,O,80,321,26,5,Purdue,Tennesse Titans
+2145,20,"Cox, Perrish",DB,D,72,190,29,6,Oklahoma State,Tennesse Titans
+2146,83,"Douglas, Harry",WR,O,72,183,32,9,Louisville,Tennesse Titans
+2147,18,"Matthews, Rishard",WR,O,72,217,26,5,Nevada,Tennesse Titans
+2148,30,"McCourty, Jason",DB,D,72,193,29,8,Rutgers,Tennesse Titans
+2149,29,"Murray, DeMarco",RB,O,72,217,28,6,Oklahoma,Tennesse Titans
+2150,36,"Sims, LeShaun",DB,D,72,203,23,0,Southern Utah,Tennesse Titans
+2151,82,"Walker, Delanie",TE,O,72,248,32,11,Central Missouri,Tennesse Titans
+2152,59,"Woodyard, Wesley",LB,D,72,233,30,9,Kentucky,Tennesse Titans
+2153,23,"Okotcha, Bennett",DB,D,72,195,23,0,Texas-San Antonio,Tennesse Titans
+2154,10,"McBride, Tre",WR,O,72,210,23,2,William & Mary,Tennesse Titans
+2155,35,"Riley, Curtis",DB,D,72,190,24,2,Fresno State,Tennesse Titans
+2156,80,"Crowder, Jamison",WR,O,68,182,23,2,Duke,Washington Redskins
+2157,25,"Thompson, Chris",RB,O,68,195,25,3,Florida State,Washington Redskins
+2158,23,"Hall, DeAngelo",DB,D,70,202,32,13,Virginia Tech,Washington Redskins
+2159,11,"Jackson, DeSean",WR,O,70,175,29,9,California,Washington Redskins
+2160,32,"Redd Jr., Silas",RB,O,70,200,24,3,USC,Washington Redskins
+2161,26,"Breeland, Bashaud",DB,D,71,200,24,3,Clemson,Washington Redskins
+2162,38,"Fuller, Kendall",DB,D,71,196,21,0,Virginia Tech,Washington Redskins
+2163,35,"Phillips, Dashaun",DB,D,71,190,25,2,Tarleton State,Washington Redskins
+2164,53,"Daniels, Steven",LB,D,71,245,23,0,Boston College,Washington Redskins
+2165,39,"Marshall, Keith",RB,O,71,222,22,0,Georgia,Washington Redskins
+2166,34,"Brown, Mack",RB,O,71,215,24,1,Florida,Washington Redskins
+2167,51,"Compton, Will",LB,D,73,238,27,3,Nebraska,Washington Redskins
+2168,36,"Cravens, Su'a",DB,D,73,222,21,0,USC,Washington Redskins
+2169,54,"Foster, Mason",LB,D,73,250,27,6,Washington,Washington Redskins
+2170,29,"Ihenacho, Duke",DB,D,73,208,27,4,San Jose State,Washington Redskins
+2171,16,"McCoy, Colt",QB,O,73,215,30,7,Texas,Washington Redskins
+2172,84,"Paul, Niles",TE,O,73,242,27,6,Nebraska,Washington Redskins
+2173,5,"Way, Tress",P,ST,73,225,26,3,Oklahoma,Washington Redskins
+2174,92,"Baker, Chris",DL,D,74,320,28,5,Hampton,Washington Redskins
+2175,30,"Bruton Jr., David",DB,D,74,225,29,8,Notre Dame,Washington Redskins
+2176,18,"Doctson, Josh",WR,O,74,206,23,0,TCU,Washington Redskins
+2177,47,"Dunbar, Quinton",DB,D,74,203,24,2,Florida,Washington Redskins
+2178,3,"Hopkins, Dustin",K,ST,74,206,25,3,Florida State,Washington Redskins
+2179,73,"Jenkins, Cullen",DL,D,74,305,35,13,Central Michigan,Washington Redskins
+2180,31,"Jones, Matt",RB,O,74,232,23,2,Florida,Washington Redskins
+2181,78,"Lichtensteiger, Kory",OL,O,74,295,31,8,Bowling Green State,Washington Redskins
+2182,86,"Reed, Jordan",TE,O,74,246,26,4,Florida,Washington Redskins
+2183,95,"Nix III, Louis",DL,D,74,331,25,3,Notre Dame,Washington Redskins
+2184,87,"Thompson, Kendal",WR,O,74,198,24,0,Utah,Washington Redskins
+2185,58,"Galette, Junior",LB,D,74,260,28,7,Stillman,Washington Redskins
+2186,96,"Bates, Houston",LB,D,75,252,25,2,Louisiana Tech,Washington Redskins
+2187,8,"Cousins, Kirk",QB,O,75,210,28,5,Michigan State,Washington Redskins
+2188,85,"Davis, Vernon",TE,O,75,248,32,11,Maryland,Washington Redskins
+2189,52,"Garvin, Terence",LB,D,75,235,25,4,West Virginia,Washington Redskins
+2190,90,"Hood, Ziggy",DL,D,75,305,29,8,Missouri,Washington Redskins
+2191,99,"Jean Francois, Ricky",DL,D,75,313,29,8,LSU,Washington Redskins
+2192,77,"Lauvao, Shawn",OL,O,75,326,28,7,Arizona State,Washington Redskins
+2193,13,"Harris, Maurice",WR,O,75,200,23,0,California,Washington Redskins
+2194,98,"Ioannidis, Matt",DL,D,75,308,22,0,Temple,Washington Redskins
+2195,62,"Reiter, Austin",OL,O,75,307,24,1,South Florida,Washington Redskins
+2196,63,"Williams, Isaiah",OL,O,75,295,23,0,Akron,Washington Redskins
+2197,64,"Golston, Kedric",DL,D,76,330,33,11,Georgia,Washington Redskins
+2198,91,"Kerrigan, Ryan",LB,D,76,265,28,6,Purdue,Washington Redskins
+2199,97,"Reyes, Kendall",DL,D,76,300,26,5,Connecticut,Washington Redskins
+2200,17,"Diggs, Reggie",WR,O,76,215,23,0,Richmond,Washington Redskins
+2201,60,"Painter, Vinston",OL,O,76,322,26,2,Virginia Tech,Washington Redskins
+2202,83,"Saxton, Wes",TE,O,76,235,23,1,South Alabama,Washington Redskins
+2203,89,"Carrier, Derek",TE,O,76,248,26,4,Beloit,Washington Redskins
+2204,74,"Kouandjio, Arie",OL,O,77,325,24,2,Alabama,Washington Redskins
+2205,61,"Long, Spencer",OL,O,77,324,25,3,Nebraska,Washington Redskins
+2206,93,"Murphy, Trent",DL,D,77,290,25,3,Stanford,Washington Redskins
+2207,75,"Scherff, Brandon",OL,O,77,323,24,2,Iowa,Washington Redskins
+2208,94,"Smith, Preston",LB,D,77,268,23,2,Mississippi State,Washington Redskins
+2209,71,"Williams, Trent",OL,O,77,320,28,7,Oklahoma,Washington Redskins
+2210,72,"Lanier, Anthony",DL,D,78,282,23,0,Alabama A&M,Washington Redskins
+2211,76,"Moses, Morgan",OL,O,78,335,25,3,Virginia,Washington Redskins
+2212,2,"Sudfeld, Nate",QB,O,78,235,22,0,Indiana,Washington Redskins
+2213,48,"Trail, Lynden",LB,D,79,270,25,1,Norfolk State,Washington Redskins
+2214,79,"Nsekhe, Ty",OL,O,80,335,30,2,Texas State,Washington Redskins
+2215,72,"Bowen, Kevin",OL,O,81,335,23,0,East Central (OK),Washington Redskins
+2216,41,"Blackmon, Will",DB,D,72,212,31,10,Boston College,Washington Redskins
+2217,22,"Everett, Deshazor",DB,D,72,198,24,2,Texas A&M,Washington Redskins
+2218,88,"Garçon, Pierre",WR,O,72,211,30,9,Mount Union,Washington Redskins
+2219,14,"Grant, Ryan",WR,O,72,201,25,3,Tulane,Washington Redskins
+2220,32,"Kelley, Robert",RB,O,72,228,23,0,Tulane,Washington Redskins
+2221,24,"Norman, Josh",DB,D,72,200,28,5,Coastal Carolina,Washington Redskins
+2222,19,"Ross, Rashad",WR,O,72,180,26,2,Arizona State,Washington Redskins
+2223,50,"Spaight, Martrell",LB,D,72,238,23,2,Arkansas,Washington Redskins
+2224,57,"Sundberg, Nick",LS,ST,72,245,29,7,California,Washington Redskins
+2225,20,"Toler, Greg",DB,D,72,180,31,8,St. Paul's (VA),Washington Redskins

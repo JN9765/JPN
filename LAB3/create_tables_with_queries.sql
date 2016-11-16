@@ -64,28 +64,33 @@ select * from Division;
 select * from Team;
 
 #Queries for python
-select distinct division_name, conference_name, avg(total_cap) as avg_total from Team group by division_name, conference_name order by avg_total;
+select distinct division_name, conference_name, avg(total_cap) as avg_total from Team where division_name = 'West' and conference_name = 'AFC' group by division_name, conference_name order by avg_total;
 
 select * from Player where team_name = 'Arizona Cardinals' order by  position_name;
 
 select position_name, avg(height) as avg_height, avg(weight) as avg_weight from Player group by position_name having avg_height > 72 order by avg_height ;
 
-select position_name, count(position_name) from Player where position_name = 'DB';
+select position_name, count(position_name) from Player group by position_name;
 
-select college, count(player_name) as number_of_players from Player where college = 'Texas';
+select college, count(player_name) as number_of_players from Player group by college;
 
 
-select t.team_name, t.super_bowl_wins, (t.super_bowl_wins/d.sb_wins * 100) as super_bowl_percent  from Team as t inner join Division as d on t.division_name = d.division_name and t.conference_name = d.conference_name order by super_bowl_percent;
+select t.team_name, t.super_bowl_wins, (t.super_bowl_wins/d.sb_wins * 100) as super_bowl_percent from Team as t inner join Division as d on t.division_name = d.division_name and t.conference_name = d.conference_name order by super_bowl_percent;
 
 select t.team_name, d.conference_name from Team as t inner join Division as d on t.division_name = d.division_name and t.conference_name = d.conference_name where d.conference_name = 'AFC';
 
 select distinct t.division_name, t.conference_name, count(p.position_name = 'DB') from Team as t left outer join Player as p on t.team_name = p.team_name group by t.conference_name, t.division_name;
 
-select p.player_name, p.team_name, pp.position_type from Player as p inner join Position_played as pp on p.position_name = pp.position_name where pp.position_type = 'D' order by p.player_name;
+select p.player_name, p.team_name from Player as p inner join Position_played as pp on p.position_name = pp.position_name where pp.position_type = 'D' order by p.player_name;
 
 
-select p.team_name, count(pp.position_type) from Player as p left outer join Position_played as pp on p.position_name = pp.position_name where pp.position_type = 'O' group by p.team_name;
+select p. team_name, p.college, count(p.college) from Player as p left outer join Position_played as pp on p.position_name = pp.position_name where pp.position_type = 'O' and p.team_name = 'Dallas Cowboys' group by p.college order by count(p.college) desc limit 1;
 
+
+
+
+
+select college, position_name from Player where team_name = 'Arizona Cardinals' order by college, position_name;
 
 
 
