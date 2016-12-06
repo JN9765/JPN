@@ -177,7 +177,7 @@ def tweet_screen():
 		
 		
 		for row in results:
-			print row[0], row[1]
+			print(format(row[0],'>20s') + format(str(row[1]),'>5s'))
 			
 		print""
 	except pymysql.Error as e:
