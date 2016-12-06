@@ -1,0 +1,33 @@
+Team,Divison,Conference,Coach ,City,State,SIGNED,AVG_AGE,OFFENSE,DEFENSE,DEAD,TOTAL_CAP,CAP_SPACE,SB_division_wins,conference_championships_division,Team_Super_Bowl_Wins,Conference_Champions_based_on_Team
+Arizona Cardinals,West,NFC,Bruce Arians,Phoenix,AZ,53,26.3,"$78,461,935","$69,262,523","$3,809,380","$158,076,538","$891,878",7,13,0,1
+Los Angeles Rams,West,NFC,Jeff Fisher,Los Angeles,CA,53,25.13,"$57,808,664","$67,968,391","$14,133,213","$148,720,914","$6,944,275",7,13,1,3
+Seattle Seahawks,West,NFC,Pete Carrol,Seattle,WA,52,25.69,"$55,118,817","$73,213,732","$9,531,912","$146,791,061","$7,731,866",7,13,1,3
+San Fransisco 49s,West,NFC,Chip Kelley,San Francsico,CA,53,26.15,"$53,968,615","$57,358,847","$8,239,189","$132,775,070","$43,806,864",7,13,5,6
+New Orleans Saints,South,NFC,Sean Payton,New Orleans,LA,53,26.89,"$51,875,926","$41,499,292","$37,885,635","$146,202,050","$9,360,012",2,5,1,1
+Atlanta Falcons,South,NFC,Dan Quinn,Atlanta,GA,54,27.11,"$77,137,867","$42,971,931","$21,368,556","$151,309,827","$7,491,844",2,5,0,1
+Carolina Panthers,South,NFC,Ron Rivera,Charlotte,NC,52,26.6,"$73,505,126","$40,616,477","$9,836,949","$136,322,698","$21,670,443",2,5,0,2
+Tampa Bay Buccanners,South,NFC,Dirk Koetter,Tampa,FL,53,25.98,"$62,180,973","$73,334,097","$639,802","$153,957,302","$7,181,064",2,5,1,1
+Dallas Cowboys,East,NFC,Jason Garrett,Dallas,TX,53,26.31,"$79,871,499","$54,338,647","$1,137,352","$153,609,396","$5,651,787",12,20,5,8
+New York Giants,East,NFC,Ben McAdoo,New York City,NY,53,26.23,"$64,160,743","$67,236,869","$11,816,747","$153,167,577","$14,152,582",12,20,4,5
+Philadelphia Eagles,East,NFC,Doug Pederson,Philadelphia,PA,53,26.55,"$65,126,635","$57,640,840","$22,482,181","$151,102,265","$10,468,097",12,20,3,2
+Washington Redskins,East,NFC,Jay Gruden,Washington,DC,53,26.46,"$81,075,685","$47,556,391","$11,213,666","$147,067,087","$14,896,937",12,20,0,5
+Green Bay Packers,North,NFC,Mike McCarthy,Green Bay,WI,52,25.58,"$69,946,789","$75,277,301","$1,705,217","$154,233,157","$9,206,132",5,11,4,5
+Minnesota Vikings,North,NFC,Mike Zimmer,Minneapolis,MN,53,26.6,"$62,297,768","$66,619,301","$3,803,395","$154,218,553","$2,696,164",5,11,0,4
+Detroit Lions,North,NFC,Jim Caldwell,Detroit,MI,53,26.04,"$65,362,284","$51,406,373","$17,701,471","$149,632,897","$7,678,319",5,11,0,0
+Chicago Bears,North,NFC,John Fox,Chicago,IL,51,26.02,"$72,399,536","$42,877,072","$10,113,137","$149,153,637","$7,435,242",5,11,1,2
+Denver Broncos,West,AFC,Gary Kubiak,Denver,CO,53,25.62,"$53,116,013","$74,772,469","$11,535,808","$145,006,292","$9,088,749",7,16,3,8
+Oakland Raiders,West,AFC,Jack Del Rio,Oakland,CA,52,26.2,"$71,283,757","$61,674,262","$4,068,622","$163,163,950","$5,168,803",7,16,3,5
+San Diego Chargers,West,AFC,Mike McCoy,San Diego,CA,53,25.94,"$59,112,085","$60,385,099","$10,007,103","$154,016,294","$2,758,473",7,16,0,1
+Kansas City Chiefs,West,AFC,Andy Reid,Kansas City ,MO,53,25.62,"$65,650,231","$50,317,478","$11,308,172","$150,795,948","$7,159,982",7,16,1,2
+Houston Texans,South,AFC,Bill O'Brien,Houston,TX,53,26.17,"$60,627,494","$74,258,694","$6,861,212","$149,993,080","$7,193,000",2,5,0,0
+Tennesse Titans,South,AFC,Mike Mularkey,Nashville,TN,52,26.54,"$56,056,738","$69,015,966","$10,702,889","$150,386,633","$25,971,193",2,5,0,1
+Indianapolis Colts,South,AFC,Chuck Pagano,Indianapolis,IN,53,26.66,"$70,359,911","$54,960,238","$11,398,941","$150,566,365","$10,042,664",2,5,2,4
+Jacksonville Jaguars,South,AFC,Gus Bradley,Jacksonville,FL,53,25.7,"$64,446,715","$76,464,019","$1,277,802","$150,024,551","$40,277,159",2,5,0,0
+New England Patriots,East,AFC,Bill Belichick,Foxborough,MA,53,25.7,"$56,248,653","$47,182,093","$11,184,334","$147,696,659","$11,945,792",7,18,4,8
+New York Jets,East,AFC,Tod Bowles,New York City,NY,53,26.26,"$58,003,597","$71,141,998","$8,276,906","$155,467,047","$2,061,687",7,18,1,1
+Miami Dolphins,East,AFC,Adam Gase,Miami,FL,53,26.25,"$64,791,703","$66,137,487","$10,573,392","$154,098,617","$12,668,702",7,18,2,5
+Buffalo Bills,East,AFC,Rex Ryan,Buffalo,NY,53,26.58,"$57,876,516","$50,414,875","$15,795,948","$150,671,101","$6,704,630",7,18,0,4
+Baltimore Ravens,North,AFC,John Harbaugh,Baltimore ,MD,53,26.77,"$64,795,535","$55,587,790","$8,115,032","$149,889,579","$5,289,176",8,12,2,2
+Cincinnati Bengals,North,AFC,Marvin Lewis,Cincinnati,OH,53,26.38,"$70,012,947","$71,196,094","$574,305","$156,390,374","$6,287,178",8,12,0,2
+Pittsburgh Steelers,North,AFC,Mike Tomlin,Pittsburgh,PA,53,26.53,"$74,115,753","$56,193,773","$9,368,169","$150,765,142","$6,863,836",8,12,6,8
+Cleveland Browns,North,AFC,Hue Jackson,Cleveland,OH,54,25.17,"$39,584,625","$42,845,935","$31,100,422","$128,785,574","$47,900,720",8,12,0,0
