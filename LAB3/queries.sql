@@ -62,7 +62,6 @@ select * from QB;
 
 select college, count(player_name) as num_of_QBs from QB group by college order by num_of_QBs desc;
 
-select avg(years_played) from QB;
 
 select * from QB where college in ('Baylor', 'Texas','Oklahoma','Oklahoma St','Kansas St','Kansas', 'Iowa St','West Virginia','Texas Christian','Texas Tech') order by player_name;
 
