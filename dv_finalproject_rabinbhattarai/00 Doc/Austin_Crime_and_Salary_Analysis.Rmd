@@ -1,0 +1,171 @@
+---
+title: "Austin Crime and Salary Analysis"
+author: "Rabin Bhattarai (rsb2273) and Jean-Pierre Njock (jn9765)"
+date: "November 25, 2016"
+output: 
+  html_document:
+    toc: yes
+  html_notebook:
+    toc: yes
+---
+
+###R Data and Information
+**This is information on the R we are using.**
+
+```{r}
+sessionInfo()
+```
+
+For our project we examined four different data sets found on the data.gov website. The data sets we examined were of Austin Salaries, Parish Salaries, and Austin Crime data from 2014 and 2016. In order to have the data ready to be imported into our SQL database, we scrubbed the data of all non-readible characters that SQL would reject.
+
+**URLs for data sets: **
+Austin Employee data: https://catalog.data.gov/dataset/city-of-austin-employee-detail-information
+Baton Rouge Employee data: https://catalog.data.gov/dataset/city-parish-employees
+Austin Crime 2014 data: https://catalog.data.gov/dataset/annual-crime-2014
+Austin Crime 2016 data: http://us-city.census.okfn.org/dataset/crime-stats
+
+### ETL File
+
+**Process**  
+1. In the ETL file, we read in the csv file into R Studio and retrived the names of the columns of the data set.  
+2. We removed or replaced non-readable characters for each of the names.   
+3. Replaced "." with "_".   
+4. Replaced "-" with " ".   
+5. Replaced "&" with "AND".   
+6. Replaced "/" with "OR".    
+7. Reformatted the csv file with the revised name of the column.   
+8. Printed out SQL code to make the table for our data set in order to upload it to Oracle.
+
+Below are the four different ETL files we created:
+
+**Austin, Texas Salaries: **
+```{r}
+#source("C:/Users/Rabin Bhattarai/Desktop/Data Visualization/DV_FinalProject3/01 Data/austin_salaries_ETL.R", echo = TRUE)
+source("/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/austin_salaries_ETL.R", echo = TRUE)
+```
+
+**Parish, Louisiana Salaries**
+```{r}
+#source("C:/Users/Rabin Bhattarai/Desktop/Data Visualization/DV_FinalProject3/01 Data/parish_salaries_ETL.R", echo = TRUE)
+source("/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/parish_salaries_ETL.R", echo = TRUE)
+```
+
+**Austin, Texas Crime 2014: **
+```{r}
+#source("C:/Users/Rabin Bhattarai/Desktop/Data Visualization/DV_FinalProject3/01 Data/austincrime14_ETL.R", echo = TRUE)
+source("/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/austincrime14_ETL.R", echo = TRUE)
+
+
+```
+
+**Austin, Texas Crime 2016: **
+```{r}
+#source("C:/Users/Rabin Bhattarai/Desktop/Data Visualization/DV_FinalProject3/01 Data/austincrime_ETL.R", echo = TRUE)
+
+source("/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/austincrime_ETL.R", echo = TRUE)
+
+```
+
+###Summary and Subset    
+Next, we created the data frame we needed by extracting the information from SQL. Below is the code importing the dataset from Oracle to make the dataframe along with a summary and a subset of the datasets:
+
+
+**Parish Salaries summary and subset of the fire department who have a salary greater than $10,000:**
+```{r}
+#source("C:/Users/Rabin Bhattarai/Desktop/Data Visualization/DV_FinalProject3/01 Data/Parish_summary_subset.R", echo = TRUE)
+
+
+source("/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/Parish_summary_subset.R", echo = TRUE)
+
+
+```
+
+**Austin Crime 2014 summary and subset of Zip Code from 78701:**
+```{r}
+#source("C:/Users/Rabin Bhattarai/Desktop/Data Visualization/DV_FinalProject3/01 Data/austincrime14_subset.R", echo = TRUE)
+
+source("/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/austincrime14_subset.R", echo = TRUE)
+```
+
+**Austin Crime 2016 summary and subset for DWI crimes:**
+```{r}
+#source("C:/Users/Rabin Bhattarai/Desktop/Data Visualization/DV_FinalProject3/01 Data/austincrime_subset.R, echo = TRUE)
+
+source("/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/austincrime_subset.R", echo = TRUE)
+```
+
+
+
+
+**Shiny App Images:**
+
+Below is our first shiny app visualization. Here we used Salary data from employees in the city of Austin and divided the data into a set (Female vs Male). We wanted to visualize the departments in Austin where women earned more annually than men (and vice-versa) and we were able to accomplish this. (Code used to produce app can be found in 03 Shiny folder)
+![](/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/WOMEN'S SALARY.png)
+===
+Here is our visualization of departments were Men earned more annually than Women.
+![](/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/MEN'S SALARY.png)
+
+===
+Here, we focus on our other dataset regarding crime around Austin. This part of the shiny app lets the user choose a crime, which then produces a visual heat map of where the crime occurred in Austin. There's also a data table at the bottom for reference to the crimes shown and not shown on the graph. 
+![](/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/HEAT MAP.png)
+
+===
+Here is another visulaztion showing where crime occurred in Austin. Just like the previous image, this part of the app allows the user to choose a crime and produce a visualization of the crime locations. In this case, we utilize a bin structure to present the crime locations rather than the previous heat map. 
+![](/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/BIN MAP.png)
+---
+
+---
+===
+In our final map visualization we utilize leaflet functionality. Like the previous two images, this part of the app again replicates the similar ideas of what we want the user to visualize. However, due to leaflets powerful abilites, the user is now able to interact with map. The user not only can visually see the crime on the map, but they can also zoom in on the graph and visually locate the exact street and intersection where the crime occurred. They also can click on the blue marker and receive an informational note with the address and date of crime. 
+![](/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/INTERACTIVE MAP.png)
+![](/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/interactiveplot.png)
+
+---
+---
+
+===
+This next part of shiny app utilizes the joining of two datasets (Austin crime 2014 and Austin crime 2016). Creating the join was accomplished by combining both datasets on a common address. This allowed us to see what locations in Austin had different crimes occuring at the same place. This joining mechanism also allowed us to see which zip codes had the most crime, which are shown in the bar graph below. And finally, the user can now visually see where these crimes occurred by selecting a zip code.
+
+![](/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/JOINED TABLE.png)
+
+![](/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/JOINED TABLE PART 2.png)
+
+![](/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/JOINED TABLE PART 3.png)
+
+
+
+===
+
+
+This marks the end of our shiny app, and here we go back to our Austin Salary data. The produced graphs below provide the user with both interesting data in regard to ethnicities as well as producing basic visualizations for users wanting perform statistical analysis of the data (more visulazitions will be needed.)
+![](/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/VISUALIZATION.png)
+
+![](/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/Austin_Wage_Gap_2013.png)
+
+URL to Article: http://www.austintexas.gov/edims/document.cfm?id=207153
+
+![](/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/Wage_Gap_Louisiana_2015.png)
+
+URL to Article: http://www.theadvocate.com/baton_rouge/news/business/article_f02a27c3-116f-5048-ad1b-9eb20b2abf01.html
+
+The articles state that in Austin women make 83 cents on the dollar compared to men. In Baton Rouge women make 65 cents on the dollar compared to men. However from our data we found that Austin City employees that are women only make 64 cents on the dollar and in Baton Rouge women make 66 cents on the dollar. This shows that Baton Rouge is consistent with its pay for women across the state. However, the City of Austin pays far less to women compared to men than what the city averages. 
+
+![](/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/wagegap.png)
+
+===
+
+
+This graph produced in Tableau shows amount of crime per zip code in Austin by shading each area either light (low crime) or dark (high crime)
+![](/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/zipcodecrime.png)
+
+===
+
+
+This tableau dashboard provides a visualization comparing crime in 2014 vs 2016.
+![](/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/Monthly Crime in 2016.png)
+![](/Users/JPNJOCKII/dv_finalproject_rabinbhattarai/01 Data/Monthly Crime Data for Austin in 2014 .png)
+
+### Shiny Application  
+Here is a link to our Shiny Application: https://jnjock32.shinyapps.io/final/
+
+

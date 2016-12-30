@@ -1,0 +1,6 @@
+require("jsonlite")
+require("RCurl")
+PARISH_SALARIES_df <- data.frame(fromJSON(getURL(URLencode('oraclerest.cs.utexas.edu:5001/rest/native/?query="select * from PARISH_SALARIES"'),httpheader=c(DB='jdbc:oracle:thin:@aevum.cs.utexas.edu:1521/f16pdb', USER='cs329e_rsb2273', PASS='orcl_rsb2273', MODE='native_mode', MODEL='model', returnDimensions = 'False', returnFor = 'JSON'), verbose = TRUE) ))
+#summary(df)
+summary(PARISH_SALARIES_df)
+head(subset(PARISH_SALARIES_df, DEPARTMENT_NAME == "FIRE DEPARTMENT" & ANNUAL_SALARY > 10000))

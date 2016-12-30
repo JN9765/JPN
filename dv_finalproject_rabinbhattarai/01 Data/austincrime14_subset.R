@@ -1,0 +1,6 @@
+require("jsonlite")
+require("RCurl")
+austinCrime14 <- data.frame(fromJSON(getURL(URLencode('oraclerest.cs.utexas.edu:5001/rest/native/?query="select * from austincrime14"'),httpheader=c(DB='jdbc:oracle:thin:@aevum.cs.utexas.edu:1521/f16pdb', USER='cs329e_jn9765', PASS='orcl_jn9765', MODE='native_mode', MODEL='model', returnDimensions = 'False', returnFor = 'JSON'), verbose = TRUE) ))
+#summary(df)
+summary(austinCrime14)
+head(subset(austinCrime14, ZIP_CODE == '78701'))
